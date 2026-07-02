@@ -1,0 +1,1572 @@
+### Open tabs
+- 0: [Naukri - 404 Error Found](https://www.naukri.com/job-details/python-developer-appscrip-0-to-1-years-018242502627?src=cluster&db=1&sid=17445777138321467_5&xp=2)
+- 1: [Python Developer Jobs In India - 3125 Python Developer Job Vacancies In India - Naukri.com](https://www.naukri.com/python-developer-jobs-in-india?k=Python%20Developer&experience=0-1)
+- 2: (current) [Fullstack Developer Jobs In India - 4011 Fullstack Developer Job Vacancies In India - Naukri.com](https://www.naukri.com/fullstack-developer-jobs-in-india?k=Fullstack%20Developer&experience=0-1)
+### Page
+- Page URL: https://www.naukri.com/fullstack-developer-jobs-in-india?k=Fullstack%20Developer&experience=0-1
+- Page Title: Fullstack Developer Jobs In India - 4011 Fullstack Developer Job Vacancies In India - Naukri.com
+- Console: 1 errors, 1 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e15]:
+      - link "Naukri Campus Logo" [ref=e16] [cursor=pointer]:
+        - /url: https://www.naukri.com/campus
+        - img "Naukri Campus Logo" [ref=e17]
+      - navigation:
+        - list [ref=e18]:
+          - listitem [ref=e19]:
+            - link "Prepare" [ref=e20] [cursor=pointer]:
+              - /url: https://www.naukri.com/campus/prepare?src=gnbPrepare
+              - generic [ref=e21]: Prepare
+            - generic:
+              - list:
+                - listitem:
+                  - link "Rolesense":
+                    - /url: https://www.naukri.com/campus/rolesense?src=gnbPrepare
+                    - generic:
+                      - generic:
+                        - generic: Rolesense
+                - listitem:
+                  - link "NCAT":
+                    - /url: https://www.naukri.com/campus/ncat-aptitude-test?src=gnbPrepare
+                    - generic:
+                      - generic:
+                        - generic: NCAT
+                - listitem:
+                  - link "Expert speak":
+                    - /url: https://www.naukri.com/campus/webinars?src=gnbPrepare
+                    - generic:
+                      - generic:
+                        - generic: Expert speak
+                - listitem:
+                  - link "Resume maker":
+                    - /url: https://www.naukri.com/campus/resume-maker?src=gnbPrepare
+                    - generic:
+                      - generic:
+                        - generic: Resume maker
+                - listitem:
+                  - link "Personalised interview Q/A":
+                    - /url: https://www.naukri.com/campus/interview-questions-and-answers?src=gnbPrepare
+                    - generic:
+                      - generic:
+                        - generic: Personalised interview Q/A
+                - listitem:
+                  - link "Career guidance":
+                    - /url: https://www.naukri.com/campus/career-guidance?src=gnbPrepare
+                    - generic:
+                      - generic:
+                        - generic: Career guidance
+                - listitem:
+                  - link "Interview Experiences":
+                    - /url: https://www.naukri.com/campus/interview-experiences?src=gnbPrepare
+                    - generic:
+                      - generic:
+                        - generic: Interview Experiences
+                - listitem:
+                  - link "Speech assessment":
+                    - /url: https://www.naukri.com/campus/speech-assessment?src=gnbPrepare
+                    - generic:
+                      - generic:
+                        - generic: Speech assessment
+                - listitem:
+                  - link "AI Prompt Mastery":
+                    - /url: https://www.naukri.com/campus/ai-prompt-mastery?src=gnbPrepare
+                    - generic:
+                      - generic:
+                        - generic: AI Prompt Mastery
+          - listitem [ref=e22]:
+            - link "Participate" [ref=e23] [cursor=pointer]:
+              - /url: https://www.naukri.com/campus/participate?src=gnbParticipate
+              - generic [ref=e24]: Participate
+            - generic:
+              - list:
+                - listitem:
+                  - link "Contests":
+                    - /url: https://www.naukri.com/campus/contests?src=gnbParticipate
+                    - generic:
+                      - generic:
+                        - generic: Contests
+                - listitem:
+                  - link "All India NCAT":
+                    - /url: https://www.naukri.com/campus/contests/all-india-online-aptitude-test?src=gnbParticipate
+                    - generic:
+                      - generic:
+                        - generic: All India NCAT
+                - listitem:
+                  - link "Naukri Campus Young Turks":
+                    - /url: https://www.naukri.com/campus/contests/young-turks-skills-assessment-test?src=gnbParticipate
+                    - generic:
+                      - generic:
+                        - generic: Naukri Campus Young Turks
+                - listitem:
+                  - link "Naukri Campus Squad":
+                    - /url: https://www.naukri.com/campus/ambassador-program?src=gnbParticipate
+                    - generic:
+                      - generic:
+                        - generic: Naukri Campus Squad
+                - listitem:
+                  - link "Engineers' Ring of Honour":
+                    - /url: https://www.naukri.com/campus/contests/scholarship-for-engineering-students?src=gnbParticipate
+                    - generic:
+                      - generic:
+                        - generic: Engineers' Ring of Honour
+                - listitem:
+                  - link "CareerVerse":
+                    - /url: https://www.naukri.com/campus/contests/career-fair-2026?src=gnbParticipate
+                    - generic:
+                      - generic:
+                        - generic: CareerVerse
+          - listitem [ref=e25]:
+            - link "Opportunities" [ref=e26] [cursor=pointer]:
+              - /url: https://www.naukri.com/campus/opportunities?src=gnbOpportunities
+              - generic [ref=e27]: Opportunities
+            - generic:
+              - list:
+                - listitem:
+                  - link "Recommended jobs":
+                    - /url: https://www.naukri.com/mnjuser/recommendedjobs?src=gnbOpportunities
+                    - generic:
+                      - generic:
+                        - generic: Recommended jobs
+                - listitem:
+                  - link "Job invites":
+                    - /url: https://www.naukri.com/mnjuser/inbox?src=gnbOpportunities
+                    - generic:
+                      - generic:
+                        - generic: Job invites
+                - listitem:
+                  - link "Jobs from alerts":
+                    - /url: https://www.naukri.com/alert/merged?src=gnbOpportunities
+                    - generic:
+                      - generic:
+                        - generic: Jobs from alerts
+                - listitem:
+                  - link "Application status":
+                    - /url: https://www.naukri.com/myapply/historypage?src=gnbOpportunities
+                    - generic:
+                      - generic:
+                        - generic: Application status
+                - listitem:
+                  - link "Saved jobs":
+                    - /url: https://www.naukri.com/mnjuser/savedjobs?src=gnbOpportunities
+                    - generic:
+                      - generic:
+                        - generic: Saved jobs
+      - generic [ref=e28] [cursor=pointer]:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - textbox "Select job type"
+                - generic: 
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - textbox "Enter keyword / designation / companies": Fullstack Developer,
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - textbox "Enter location": india,
+        - generic "Fullstack Developer, 0-1 years, india" [ref=e29]
+        - button "" [ref=e30]:
+          - generic [ref=e31]: 
+      - generic [ref=e34] [cursor=pointer]: 
+      - generic [ref=e41] [cursor=pointer]:
+        - img "naukri user profile img" [ref=e42]
+        - generic [ref=e43]: "2"
+    - main [ref=e44]:
+      - generic [ref=e45]:
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - generic [ref=e50]: All Filters
+            - generic [ref=e51] [cursor=pointer]: Applied (1)
+          - generic [ref=e52]:
+            - generic [ref=e53]:
+              - generic [ref=e54] [cursor=pointer]:
+                - generic [ref=e55]: Work mode
+                - generic [ref=e56]: 
+              - generic [ref=e57]:
+                - generic [ref=e59] [cursor=pointer]:
+                  - generic [ref=e60]: 
+                  - paragraph [ref=e61]:
+                    - generic "Work from office" [ref=e62]
+                    - generic [ref=e63]: (3935)
+                - generic [ref=e65] [cursor=pointer]:
+                  - generic [ref=e66]: 
+                  - paragraph [ref=e67]:
+                    - generic "Hybrid" [ref=e68]
+                    - generic [ref=e69]: (45)
+                - generic [ref=e71] [cursor=pointer]:
+                  - generic [ref=e72]: 
+                  - paragraph [ref=e73]:
+                    - generic "Remote" [ref=e74]
+                    - generic [ref=e75]: (31)
+            - generic [ref=e76]:
+              - generic [ref=e77] [cursor=pointer]:
+                - generic [ref=e78]: Department
+                - generic [ref=e79]: 
+              - generic [ref=e80]:
+                - generic [ref=e82] [cursor=pointer]:
+                  - generic [ref=e83]: 
+                  - paragraph [ref=e84]:
+                    - generic "Engineering - Software & QA" [ref=e85]
+                    - generic [ref=e86]: (2476)
+                - generic [ref=e88] [cursor=pointer]:
+                  - generic [ref=e89]: 
+                  - paragraph [ref=e90]:
+                    - generic "Data Science & Analytics" [ref=e91]
+                    - generic [ref=e92]: (256)
+                - generic [ref=e94] [cursor=pointer]:
+                  - generic [ref=e95]: 
+                  - paragraph [ref=e96]:
+                    - generic "UX, Design & Architecture" [ref=e97]
+                    - generic [ref=e98]: (242)
+                - generic [ref=e100] [cursor=pointer]:
+                  - generic [ref=e101]: 
+                  - paragraph [ref=e102]:
+                    - generic "Marketing & Communication" [ref=e103]
+                    - generic [ref=e104]: (138)
+                - generic [ref=e105] [cursor=pointer]: View More
+            - generic [ref=e106]:
+              - generic [ref=e107] [cursor=pointer]:
+                - generic [ref=e108]: Salary
+                - generic [ref=e109]: 
+              - generic [ref=e110]:
+                - generic [ref=e112] [cursor=pointer]:
+                  - generic [ref=e113]: 
+                  - paragraph [ref=e114]:
+                    - generic "0-3 Lakhs" [ref=e115]
+                    - generic [ref=e116]: (2536)
+                - generic [ref=e118] [cursor=pointer]:
+                  - generic [ref=e119]: 
+                  - paragraph [ref=e120]:
+                    - generic "3-6 Lakhs" [ref=e121]
+                    - generic [ref=e122]: (3319)
+                - generic [ref=e124] [cursor=pointer]:
+                  - generic [ref=e125]: 
+                  - paragraph [ref=e126]:
+                    - generic "6-10 Lakhs" [ref=e127]
+                    - generic [ref=e128]: (1353)
+                - generic [ref=e130] [cursor=pointer]:
+                  - generic [ref=e131]: 
+                  - paragraph [ref=e132]:
+                    - generic "10-15 Lakhs" [ref=e133]
+                    - generic [ref=e134]: (350)
+                - generic [ref=e135] [cursor=pointer]: View More
+            - generic [ref=e136]:
+              - generic [ref=e137] [cursor=pointer]:
+                - generic [ref=e138]: Company type
+                - generic [ref=e139]: 
+              - generic [ref=e140]:
+                - generic [ref=e142] [cursor=pointer]:
+                  - generic [ref=e143]: 
+                  - paragraph [ref=e144]:
+                    - generic "Corporate" [ref=e145]
+                    - generic [ref=e146]: (615)
+                - generic [ref=e148] [cursor=pointer]:
+                  - generic [ref=e149]: 
+                  - paragraph [ref=e150]:
+                    - generic "Foreign MNC" [ref=e151]
+                    - generic [ref=e152]: (310)
+                - generic [ref=e154] [cursor=pointer]:
+                  - generic [ref=e155]: 
+                  - paragraph [ref=e156]:
+                    - generic "Startup" [ref=e157]
+                    - generic [ref=e158]: (135)
+                - generic [ref=e160] [cursor=pointer]:
+                  - generic [ref=e161]: 
+                  - paragraph [ref=e162]:
+                    - generic "Indian MNC" [ref=e163]
+                    - generic [ref=e164]: (92)
+                - generic [ref=e165] [cursor=pointer]: View More
+            - generic [ref=e166]:
+              - generic [ref=e167] [cursor=pointer]:
+                - generic [ref=e168]: Role category
+                - generic [ref=e169]: 
+              - generic [ref=e170]:
+                - generic [ref=e172] [cursor=pointer]:
+                  - generic [ref=e173]: 
+                  - paragraph [ref=e174]:
+                    - generic "Software Development" [ref=e175]
+                    - generic [ref=e176]: (2145)
+                - generic [ref=e178] [cursor=pointer]:
+                  - generic [ref=e179]: 
+                  - paragraph [ref=e180]:
+                    - generic "Quality Assurance and Testing" [ref=e181]
+                    - generic [ref=e182]: (214)
+                - generic [ref=e184] [cursor=pointer]:
+                  - generic [ref=e185]: 
+                  - paragraph [ref=e186]:
+                    - generic "Other Design" [ref=e187]
+                    - generic [ref=e188]: (183)
+                - generic [ref=e190] [cursor=pointer]:
+                  - generic [ref=e191]: 
+                  - paragraph [ref=e192]:
+                    - generic "Data Science & Machine Learning" [ref=e193]
+                    - generic [ref=e194]: (116)
+                - generic [ref=e195] [cursor=pointer]: View More
+            - generic [ref=e196]:
+              - generic [ref=e197] [cursor=pointer]:
+                - generic [ref=e198]: Education
+                - generic [ref=e199]: 
+              - generic [ref=e200]:
+                - generic [ref=e202] [cursor=pointer]:
+                  - generic [ref=e203]: 
+                  - paragraph [ref=e204]:
+                    - generic "Any Postgraduate" [ref=e205]
+                    - generic [ref=e206]: (3082)
+                - generic [ref=e208] [cursor=pointer]:
+                  - generic [ref=e209]: 
+                  - paragraph [ref=e210]:
+                    - generic "MCA" [ref=e211]
+                    - generic [ref=e212]: (218)
+                - generic [ref=e214] [cursor=pointer]:
+                  - generic [ref=e215]: 
+                  - paragraph [ref=e216]:
+                    - generic "B.Tech / B.E." [ref=e217]
+                    - generic [ref=e218]: (537)
+                - generic [ref=e220] [cursor=pointer]:
+                  - generic [ref=e221]: 
+                  - paragraph [ref=e222]:
+                    - generic "Any Graduate" [ref=e223]
+                    - generic [ref=e224]: (3462)
+                - generic [ref=e225] [cursor=pointer]: View More
+            - generic [ref=e226]:
+              - generic [ref=e227] [cursor=pointer]:
+                - generic [ref=e228]: Posted by
+                - generic [ref=e229]: 
+              - generic [ref=e230]:
+                - generic [ref=e232] [cursor=pointer]:
+                  - generic [ref=e233]: 
+                  - paragraph [ref=e234]:
+                    - generic "Company Jobs" [ref=e235]
+                    - generic [ref=e236]: (3864)
+                - generic [ref=e238] [cursor=pointer]:
+                  - generic [ref=e239]: 
+                  - paragraph [ref=e240]:
+                    - generic "Consultant Jobs" [ref=e241]
+                    - generic [ref=e242]: (147)
+            - generic [ref=e243]:
+              - generic [ref=e244] [cursor=pointer]:
+                - generic [ref=e245]: Industry
+                - generic [ref=e246]: 
+              - generic [ref=e247]:
+                - generic [ref=e249] [cursor=pointer]:
+                  - generic [ref=e250]: 
+                  - paragraph [ref=e251]:
+                    - generic "IT Services & Consulting" [ref=e252]
+                    - generic [ref=e253]: (2122)
+                - generic [ref=e255] [cursor=pointer]:
+                  - generic [ref=e256]: 
+                  - paragraph [ref=e257]:
+                    - generic "Education / Training" [ref=e258]
+                    - generic [ref=e259]: (222)
+                - generic [ref=e261] [cursor=pointer]:
+                  - generic [ref=e262]: 
+                  - paragraph [ref=e263]:
+                    - generic "Management Consulting" [ref=e264]
+                    - generic [ref=e265]: (159)
+                - generic [ref=e267] [cursor=pointer]:
+                  - generic [ref=e268]: 
+                  - paragraph [ref=e269]:
+                    - generic "Software Product" [ref=e270]
+                    - generic [ref=e271]: (150)
+                - generic [ref=e272] [cursor=pointer]: View More
+            - generic [ref=e273]:
+              - generic [ref=e274] [cursor=pointer]:
+                - generic [ref=e275]: Top companies
+                - generic [ref=e276]: 
+              - generic [ref=e277]:
+                - generic [ref=e279] [cursor=pointer]:
+                  - generic [ref=e280]: 
+                  - paragraph [ref=e281]:
+                    - generic "Bajaj Finance" [ref=e282]
+                    - generic [ref=e283]: (20)
+                - generic [ref=e285] [cursor=pointer]:
+                  - generic [ref=e286]: 
+                  - paragraph [ref=e287]:
+                    - generic "Accenture" [ref=e288]
+                    - generic [ref=e289]: (14)
+                - generic [ref=e291] [cursor=pointer]:
+                  - generic [ref=e292]: 
+                  - paragraph [ref=e293]:
+                    - generic "Crisil" [ref=e294]
+                    - generic [ref=e295]: (14)
+                - generic [ref=e297] [cursor=pointer]:
+                  - generic [ref=e298]: 
+                  - paragraph [ref=e299]:
+                    - generic "eClerx" [ref=e300]
+                    - generic [ref=e301]: (11)
+                - generic [ref=e302] [cursor=pointer]: View More
+            - generic [ref=e303]:
+              - generic [ref=e305] [cursor=pointer]: Freshness
+              - button "Select " [ref=e309] [cursor=pointer]:
+                - text: Select
+                - generic [ref=e310]: 
+            - generic [ref=e311]:
+              - generic [ref=e312] [cursor=pointer]:
+                - generic [ref=e313]: Location
+                - generic [ref=e314]: 
+              - generic [ref=e315]:
+                - generic [ref=e317] [cursor=pointer]:
+                  - generic [ref=e318]: 
+                  - paragraph [ref=e319]:
+                    - generic "Kanpur" [ref=e320]
+                    - generic [ref=e321]: (14)
+                - generic [ref=e323] [cursor=pointer]:
+                  - generic [ref=e324]: 
+                  - paragraph [ref=e325]:
+                    - generic "Bengaluru" [ref=e326]
+                    - generic [ref=e327]: (768)
+                - generic [ref=e329] [cursor=pointer]:
+                  - generic [ref=e330]: 
+                  - paragraph [ref=e331]:
+                    - generic "Pune" [ref=e332]
+                    - generic [ref=e333]: (494)
+                - generic [ref=e335] [cursor=pointer]:
+                  - generic [ref=e336]: 
+                  - paragraph [ref=e337]:
+                    - generic "Chennai" [ref=e338]
+                    - generic [ref=e339]: (477)
+                - generic [ref=e340] [cursor=pointer]: View More
+            - generic [ref=e341]:
+              - generic [ref=e342] [cursor=pointer]:
+                - generic [ref=e343]: Experience
+                - generic [ref=e344]: 
+              - generic [ref=e347]:
+                - generic [ref=e352] [cursor=pointer]: "0"
+                - generic:
+                  - generic [ref=e354]: 0 Yrs
+                  - generic [ref=e355]: 30 Yrs
+        - generic [ref=e356]:
+          - generic [ref=e357]:
+            - generic [ref=e358]:
+              - generic "1 - 20 of 4011" [ref=e359]
+              - heading "Fullstack Developer Jobs In India" [level=1] [ref=e360]
+            - generic [ref=e361]:
+              - text: Send me jobs like these
+              - generic [ref=e362]:
+                - generic [ref=e363]: "Sort by:"
+                - button "Recommended " [ref=e365] [cursor=pointer]:
+                  - text: Recommended
+                  - generic [ref=e366]: 
+          - generic [ref=e368]:
+            - generic [ref=e370]:
+              - generic [ref=e371]:
+                - heading "Fullstack Developer" [level=2] [ref=e372]:
+                  - link "Fullstack Developer" [ref=e373] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developer-ti-steps-hyderabad-chennai-bengaluru-0-to-1-years-181125010608
+                - img [ref=e375]
+              - generic [ref=e377]:
+                - link "ti Steps" [ref=e378] [cursor=pointer]:
+                  - /url: https://www.naukri.com/ti-steps-jobs-careers-5853718
+                - link " 3.9" [ref=e379] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/ti-steps-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e380]: 
+                  - generic [ref=e381]: "3.9"
+                  - text: 
+                - link "19 Reviews" [ref=e382] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/ti-steps-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e384]:
+                - generic [ref=e386]:
+                  - text: 
+                  - generic "0-1 Yrs" [ref=e387]
+                - generic [ref=e389]:
+                  - text: 
+                  - generic "3.25-7.5 Lacs PA" [ref=e390]
+                - generic [ref=e392]:
+                  - text: 
+                  - generic "Bengaluru, Hyderabad, Chennai" [ref=e393]
+              - generic [ref=e395]:  Experience with RESTful APIs, GraphQL, and microservices architecture. Required Skills ...
+              - list [ref=e397]:
+                - listitem [ref=e398]: Fullstack Development
+                - listitem [ref=e399]: Python
+                - listitem [ref=e400]: Javascript
+                - listitem [ref=e401]: Full Stack
+                - listitem [ref=e402]: MongoDB
+                - listitem [ref=e403]: Node.Js
+                - listitem [ref=e404]: React.Js
+                - listitem [ref=e405]: Angular
+              - generic [ref=e406]:
+                - generic [ref=e407]: 6 days ago
+                - generic [ref=e408]: save
+            - generic [ref=e410]:
+              - generic [ref=e411]:
+                - heading "Fullstack Developer" [level=2] [ref=e412]:
+                  - link "Fullstack Developer" [ref=e413] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developer-ti-steps-hyderabad-chennai-bengaluru-0-to-1-years-071025011092
+                - img [ref=e415]
+              - generic [ref=e417]:
+                - link "ti Steps" [ref=e418] [cursor=pointer]:
+                  - /url: https://www.naukri.com/ti-steps-jobs-careers-5853718
+                - link " 3.9" [ref=e419] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/ti-steps-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e420]: 
+                  - generic [ref=e421]: "3.9"
+                  - text: 
+                - link "19 Reviews" [ref=e422] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/ti-steps-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e424]:
+                - generic [ref=e426]:
+                  - text: 
+                  - generic "0-1 Yrs" [ref=e427]
+                - generic [ref=e429]:
+                  - text: 
+                  - generic "2-2.25 Lacs PA" [ref=e430]
+                - generic [ref=e432]:
+                  - text: 
+                  - generic "Bengaluru, Hyderabad, Chennai" [ref=e433]
+              - generic [ref=e435]: " Experience working with databases: SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, etc.). E..."
+              - list [ref=e437]:
+                - listitem [ref=e438]: Javascript
+                - listitem [ref=e439]: Full Stack
+                - listitem [ref=e440]: React.Js
+                - listitem [ref=e441]: AWS
+                - listitem [ref=e442]: Python
+                - listitem [ref=e443]: Java
+                - listitem [ref=e444]: MongoDB
+                - listitem [ref=e445]: Node.Js
+              - generic [ref=e446]:
+                - generic [ref=e447]: 5 days ago
+                - generic [ref=e448]: save
+            - generic [ref=e450]:
+              - generic [ref=e451]:
+                - heading "Fullstack Developer" [level=2] [ref=e452]:
+                  - link "Fullstack Developer" [ref=e453] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developer-ti-steps-hyderabad-chennai-bengaluru-0-to-1-years-121125024659
+                - img [ref=e455]
+              - generic [ref=e457]:
+                - link "ti Steps" [ref=e458] [cursor=pointer]:
+                  - /url: https://www.naukri.com/ti-steps-jobs-careers-5853718
+                - link " 3.9" [ref=e459] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/ti-steps-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e460]: 
+                  - generic [ref=e461]: "3.9"
+                  - text: 
+                - link "19 Reviews" [ref=e462] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/ti-steps-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e464]:
+                - generic [ref=e466]:
+                  - text: 
+                  - generic "0-1 Yrs" [ref=e467]
+                - generic [ref=e469]:
+                  - text: 
+                  - generic "3.25-6.5 Lacs PA" [ref=e470]
+                - generic [ref=e472]:
+                  - text: 
+                  - generic "Bengaluru, Hyderabad, Chennai" [ref=e473]
+              - generic [ref=e475]:  Integrate front-end elements with server-side logic and third-party APIs. . Write clean...
+              - list [ref=e477]:
+                - listitem [ref=e478]: Fullstack Development
+                - listitem [ref=e479]: Javascript
+                - listitem [ref=e480]: React.Js
+                - listitem [ref=e481]: Java
+                - listitem [ref=e482]: Full Stack
+                - listitem [ref=e483]: Angular
+                - listitem [ref=e484]: Development
+                - listitem [ref=e485]: Javas
+              - generic [ref=e486]:
+                - generic [ref=e487]: 6 days ago
+                - generic [ref=e488]: save
+            - generic [ref=e490] [cursor=pointer]:
+              - generic [ref=e491]:
+                - heading "Fullstack Developer" [level=2] [ref=e492]:
+                  - link "Fullstack Developer" [ref=e493]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developer-ti-steps-hyderabad-chennai-bengaluru-0-to-3-years-241025012076
+                - img [ref=e495]
+              - generic [ref=e497]:
+                - link "ti Steps" [ref=e498]:
+                  - /url: https://www.naukri.com/ti-steps-jobs-careers-5853718
+                - link " 3.9" [ref=e499]:
+                  - /url: https://www.ambitionbox.com/reviews/ti-steps-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e500]: 
+                  - generic [ref=e501]: "3.9"
+                  - text: 
+                - link "19 Reviews" [ref=e502]:
+                  - /url: https://www.ambitionbox.com/reviews/ti-steps-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e504]:
+                - generic [ref=e506]:
+                  - text: 
+                  - generic "0-3 Yrs" [ref=e507]
+                - generic [ref=e509]:
+                  - text: 
+                  - generic "2-4 Lacs PA" [ref=e510]
+                - generic [ref=e512]:
+                  - text: 
+                  - generic "Bengaluru, Hyderabad, Chennai" [ref=e513]
+              - generic [ref=e515]:  Collaborate with cross-functional teams to define requirements and design scalable solu...
+              - list [ref=e517]:
+                - listitem [ref=e518]: Fullstack Development
+                - listitem [ref=e519]: MongoDB
+                - listitem [ref=e520]: React.Js
+                - listitem [ref=e521]: AWS
+                - listitem [ref=e522]: Angular
+                - listitem [ref=e523]: Java
+                - listitem [ref=e524]: Node.Js
+                - listitem [ref=e525]: Javascript
+              - generic [ref=e526]:
+                - generic [ref=e527]: 1 week ago
+                - generic [ref=e528]: save
+            - generic [ref=e530]:
+              - generic [ref=e531]:
+                - heading "Fullstack Developer" [level=2] [ref=e532]:
+                  - link "Fullstack Developer" [ref=e533] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developer-ti-steps-hyderabad-chennai-bengaluru-0-to-1-years-201125012258
+                - img [ref=e535]
+              - generic [ref=e537]:
+                - link "ti Steps" [ref=e538] [cursor=pointer]:
+                  - /url: https://www.naukri.com/ti-steps-jobs-careers-5853718
+                - link " 3.9" [ref=e539] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/ti-steps-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e540]: 
+                  - generic [ref=e541]: "3.9"
+                  - text: 
+                - link "19 Reviews" [ref=e542] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/ti-steps-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e544]:
+                - generic [ref=e546]:
+                  - text: 
+                  - generic "0-1 Yrs" [ref=e547]
+                - generic [ref=e549]:
+                  - text: 
+                  - generic "3.75-6.5 Lacs PA" [ref=e550]
+                - generic [ref=e552]:
+                  - text: 
+                  - generic "Bengaluru, Hyderabad, Chennai" [ref=e553]
+              - generic [ref=e555]:  Bachelors degree in Computer Science, Engineering, or related field. . 2 6 years of han...
+              - list [ref=e557]:
+                - listitem [ref=e558]: Fullstack Development
+                - listitem [ref=e559]: Node.Js
+                - listitem [ref=e560]: Javascript
+                - listitem [ref=e561]: Java
+                - listitem [ref=e562]: Full Stack
+                - listitem [ref=e563]: MongoDB
+                - listitem [ref=e564]: React.Js
+                - listitem [ref=e565]: Angular
+              - generic [ref=e566]:
+                - generic [ref=e567]: 1 week ago
+                - generic [ref=e568]: save
+            - link [ref=e579] [cursor=pointer]:
+              - /url: https://www.naukri.com/campus/resume-maker?utm_source=desktop_SRP_banner&utm_medium=desktop&utm_campaign=resume_banner
+            - generic [ref=e582]:
+              - generic [ref=e583]:
+                - heading "Fullstack Developer" [level=2] [ref=e584]:
+                  - link "Fullstack Developer" [ref=e585] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developer-morpheme-webnexus-greater-noida-0-to-4-years-130626009934
+                - img [ref=e587]
+              - generic [ref=e589]:
+                - link "Morpheme Webnexus" [ref=e590] [cursor=pointer]:
+                  - /url: https://www.naukri.com/morpheme-webnexus-jobs-careers-3679268
+                - link " 2.8" [ref=e591] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/morpheme-webnexus-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e592]: 
+                  - generic [ref=e593]: "2.8"
+                  - text: 
+                - link "25 Reviews" [ref=e594] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/morpheme-webnexus-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e596]:
+                - generic [ref=e598]:
+                  - text: 
+                  - generic "0-4 Yrs" [ref=e599]
+                - generic [ref=e601]:
+                  - text: 
+                  - generic "1.75-6 Lacs PA" [ref=e602]
+                - generic [ref=e604]:
+                  - text: 
+                  - generic "Greater Noida(Greater Noida West)" [ref=e605]
+              - generic [ref=e607]:  We are looking for a Full Stack Developer with experience in React, Node.js, JavaScript...
+              - list [ref=e609]:
+                - listitem [ref=e610]: Javascript
+                - listitem [ref=e611]: MongoDB
+                - listitem [ref=e612]: React Native
+                - listitem [ref=e613]: React.Js
+                - listitem [ref=e614]: Nextjs
+                - listitem [ref=e615]: Github
+                - listitem [ref=e616]: Postgresql
+                - listitem [ref=e617]: HTML
+              - generic [ref=e618]:
+                - generic [ref=e619]: 2 weeks ago
+                - generic [ref=e620]: save
+            - generic [ref=e622]:
+              - generic [ref=e623]:
+                - heading "Fullstack Developer" [level=2] [ref=e624]:
+                  - link "Fullstack Developer" [ref=e625] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developer-rankwatch-gurugram-0-to-4-years-190626013796
+                - img [ref=e627]
+              - generic [ref=e629]:
+                - link "Rankwatch" [ref=e630] [cursor=pointer]:
+                  - /url: https://www.naukri.com/rankwatch-jobs-careers-1061424
+                - link " 4.3" [ref=e631] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/rankwatch-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e632]: 
+                  - generic [ref=e633]: "4.3"
+                  - text: 
+                - link "16 Reviews" [ref=e634] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/rankwatch-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e636]:
+                - generic [ref=e638]:
+                  - text: 
+                  - generic "0-4 Yrs" [ref=e639]
+                - generic [ref=e641]:
+                  - text: 
+                  - generic "4-8 Lacs PA" [ref=e642]
+                - generic [ref=e644]:
+                  - text: 
+                  - generic "Remote" [ref=e645]
+              - generic [ref=e647]:  Must have solid experience with Python and Flask, proficiency in JavaScript, HTML/CSS a...
+              - list [ref=e649]:
+                - listitem [ref=e650]: Rest Api Development
+                - listitem [ref=e651]: Python
+                - listitem [ref=e652]: Flask
+                - listitem [ref=e653]: Integration
+                - listitem [ref=e654]: CSS
+                - listitem [ref=e655]: Debugging
+                - listitem [ref=e656]: Redis
+                - listitem [ref=e657]: Open Api
+              - generic [ref=e658]:
+                - generic [ref=e659]: 1 week ago
+                - generic [ref=e660]: save
+            - generic [ref=e661]:
+              - paragraph [ref=e662]:
+                - img "naukri filter icon" [ref=e663]
+                - generic [ref=e664]: Filter jobs by
+                - generic [ref=e665]: salary
+              - generic:
+                - generic [ref=e666] [cursor=pointer]:
+                  - generic [ref=e668]: 
+                  - generic [ref=e669]:
+                    - paragraph [ref=e670]: 0-3 Lakhs
+                    - paragraph [ref=e671]: 2536 Jobs
+                - generic [ref=e672] [cursor=pointer]:
+                  - generic [ref=e674]: 
+                  - generic [ref=e675]:
+                    - paragraph [ref=e676]: 3-6 Lakhs
+                    - paragraph [ref=e677]: 3319 Jobs
+                - generic [ref=e678] [cursor=pointer]:
+                  - generic [ref=e680]: 
+                  - generic [ref=e681]:
+                    - paragraph [ref=e682]: 6-10 Lakhs
+                    - paragraph [ref=e683]: 1353 Jobs
+                - generic [ref=e684] [cursor=pointer]:
+                  - generic [ref=e686]: 
+                  - generic [ref=e687]:
+                    - paragraph [ref=e688]: 10-15 Lakhs
+                    - paragraph [ref=e689]: 350 Jobs
+            - generic [ref=e691]:
+              - generic [ref=e692]:
+                - heading "Fullstack Developer" [level=2] [ref=e693]:
+                  - link "Fullstack Developer" [ref=e694] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developer-digantara-bengaluru-0-to-3-years-200625501806
+                - img [ref=e696]
+              - generic [ref=e698]:
+                - link "Digantara" [ref=e699] [cursor=pointer]:
+                  - /url: https://www.naukri.com/digantara-jobs-careers-123657985
+                - link " 1.3" [ref=e700] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/digantara-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e701]: 
+                  - generic [ref=e702]: "1.3"
+                  - text: 
+                - link "2 Reviews" [ref=e703] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/digantara-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e705]:
+                - generic [ref=e707]:
+                  - text: 
+                  - generic "0-3 Yrs" [ref=e708]
+                - generic [ref=e710]:
+                  - text: 
+                  - generic "Bengaluru" [ref=e711]
+              - generic [ref=e713]:  Preferred QualificationsTroubleshoot and debug applications to ensure a seamless user e...
+              - list [ref=e715]:
+                - listitem [ref=e716]: space management
+                - listitem [ref=e717]: rest
+                - listitem [ref=e718]: css
+                - listitem [ref=e719]: python
+                - listitem [ref=e720]: fullstack development
+                - listitem [ref=e721]: microsoft azure
+                - listitem [ref=e722]: vue.js
+                - listitem [ref=e723]: javascript
+              - generic [ref=e724]:
+                - generic [ref=e725]: 3+ weeks ago
+                - generic [ref=e726]: save
+            - generic [ref=e728]:
+              - generic [ref=e729]:
+                - heading "FullStack Developer" [level=2] [ref=e730]:
+                  - link "FullStack Developer" [ref=e731] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developer-aanwebsolutions-jamnagar-ahmedabad-rajkot-surat-vadodara-0-to-5-years-050724501667
+                - img [ref=e733]
+              - link "AAN Web Solutions" [ref=e736] [cursor=pointer]:
+                - /url: https://www.naukri.com/aan-web-solutions-jobs-careers-124269270
+              - generic [ref=e738]:
+                - generic [ref=e740]:
+                  - text: 
+                  - generic "0-5 Yrs" [ref=e741]
+                - generic [ref=e743]:
+                  - text: 
+                  - generic "Ahmedabad, Jamnagar, Rajkot, Surat, Vadodara" [ref=e744]
+              - generic [ref=e746]:  AANWebSolutions is looking for FullStack Developer to join our dynamic team and embark ...
+              - list [ref=e748]:
+                - listitem [ref=e749]: redux
+                - listitem [ref=e750]: css
+                - listitem [ref=e751]: fullstack development
+                - listitem [ref=e752]: web application
+                - listitem [ref=e753]: ui development
+                - listitem [ref=e754]: bootstrap
+                - listitem [ref=e755]: ajax
+                - listitem [ref=e756]: jquery
+              - generic [ref=e757]:
+                - generic [ref=e758]: 3+ weeks ago
+                - generic [ref=e759]: save
+            - generic [ref=e761]:
+              - generic [ref=e762]:
+                - heading "Fullstack Developer" [level=2] [ref=e763]:
+                  - link "Fullstack Developer" [ref=e764] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developer-tele-infotech-pimpri-chinchwad-pune-0-to-2-years-230626046998
+                - img [ref=e766]
+              - generic [ref=e767]:
+                - link "MNC" [ref=e769] [cursor=pointer]:
+                  - /url: https://www.naukri.com/mnc-jobs-careers-124574108
+                - link "Posted by Tele Infotech" [ref=e771] [cursor=pointer]:
+                  - /url: https://www.naukri.com/tele-infotech-jobs-careers-124574108
+              - generic [ref=e773]:
+                - generic [ref=e775]:
+                  - text: 
+                  - generic "0-2 Yrs" [ref=e776]
+                - generic [ref=e778]:
+                  - text: 
+                  - generic "2.75-5 Lacs PA" [ref=e779]
+                - generic [ref=e781]:
+                  - text: 
+                  - generic "Pune, Pimpri-Chinchwad" [ref=e782]
+              - generic [ref=e784]:  The candidate should be able to work on both front-end and back-end development
+              - list [ref=e786]:
+                - listitem [ref=e787]: HTML
+                - listitem [ref=e788]: Angular
+                - listitem [ref=e789]: Javascript
+                - listitem [ref=e790]: Python
+                - listitem [ref=e791]: Fullstack Development
+                - listitem [ref=e792]: Angularjs
+                - listitem [ref=e793]: Database Optimization
+                - listitem [ref=e794]: Node.Js
+              - generic [ref=e795]:
+                - generic [ref=e796]: 4 days ago
+                - generic [ref=e797]: save
+            - generic [ref=e798]:
+              - paragraph [ref=e799]:
+                - img "naukri filter icon" [ref=e800]
+                - generic [ref=e801]: Filter jobs by
+                - generic [ref=e802]: Top Companies
+              - generic:
+                - generic [ref=e803] [cursor=pointer]:
+                  - img "242" [ref=e805]
+                  - generic [ref=e806]:
+                    - paragraph [ref=e807]: Bajaj Finance
+                    - paragraph [ref=e808]: 20 Jobs
+                - generic [ref=e809] [cursor=pointer]:
+                  - img "10476" [ref=e811]
+                  - generic [ref=e812]:
+                    - paragraph [ref=e813]: Accenture
+                    - paragraph [ref=e814]: 14 Jobs
+                - generic [ref=e815] [cursor=pointer]:
+                  - img "340662" [ref=e817]
+                  - generic [ref=e818]:
+                    - paragraph [ref=e819]: Crisil
+                    - paragraph [ref=e820]: 14 Jobs
+                - generic [ref=e821] [cursor=pointer]:
+                  - img "10472" [ref=e823]
+                  - generic [ref=e824]:
+                    - paragraph [ref=e825]: eClerx
+                    - paragraph [ref=e826]: 11 Jobs
+            - generic [ref=e828]:
+              - generic [ref=e829]:
+                - heading "Fullstack Developer" [level=2] [ref=e830]:
+                  - link "Fullstack Developer" [ref=e831] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developer-spark-info-solutions-hyderabad-0-to-1-years-280526029403
+                - img [ref=e833]
+              - generic [ref=e835]:
+                - link "Spark Info Solutions" [ref=e836] [cursor=pointer]:
+                  - /url: https://www.naukri.com/spark-info-solutions-jobs-careers-640077
+                - link " 3.4" [ref=e837] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/spark-info-solutions-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e838]: 
+                  - generic [ref=e839]: "3.4"
+                  - text: 
+                - link "4 Reviews" [ref=e840] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/spark-info-solutions-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e842]:
+                - generic [ref=e844]:
+                  - text: 
+                  - generic "0-1 Yrs" [ref=e845]
+                - generic [ref=e847]:
+                  - text: 
+                  - generic "Remote" [ref=e848]
+              - generic [ref=e850]:  We are hiring Java, Python Developers (Freshers). First 3 months will be Internship. Fr...
+              - list [ref=e852]:
+                - listitem [ref=e853]: Java
+                - listitem [ref=e854]: Full Stack
+                - listitem [ref=e855]: Java Fullstack
+                - listitem [ref=e856]: React.Js
+                - listitem [ref=e857]: Python
+                - listitem [ref=e858]: Fullstack Development
+                - listitem [ref=e859]: Node.Js
+                - listitem [ref=e860]: Javascript
+              - generic [ref=e861]:
+                - generic [ref=e862]: 3+ weeks ago
+                - generic [ref=e863]: save
+            - generic [ref=e865]:
+              - generic [ref=e866]:
+                - heading "Fullstack Developer" [level=2] [ref=e867]:
+                  - link "Fullstack Developer" [ref=e868] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developer-testpress-tech-labs-llp-coimbatore-0-to-1-years-270526017602
+                - img [ref=e870]
+              - generic [ref=e872]:
+                - link "Testpress Tech Labs Llp" [ref=e873] [cursor=pointer]:
+                  - /url: https://www.naukri.com/testpress-tech-labs-jobs-careers-1574464
+                - link " 3.9" [ref=e874] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/testpress-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e875]: 
+                  - generic [ref=e876]: "3.9"
+                  - text: 
+                - link "14 Reviews" [ref=e877] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/testpress-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e879]:
+                - generic [ref=e881]:
+                  - text: 
+                  - generic "0-1 Yrs" [ref=e882]
+                - generic [ref=e884]:
+                  - text: 
+                  - generic "Coimbatore" [ref=e885]
+              - generic [ref=e887]:  We are looking for highly motivated Freshers to join our engineering team as Software D...
+              - list [ref=e889]:
+                - listitem [ref=e890]: Fresher Hiring
+                - listitem [ref=e891]: Python
+                - listitem [ref=e892]: Java
+                - listitem [ref=e893]: Debugging
+                - listitem [ref=e894]: Fullstack Development
+                - listitem [ref=e895]: Ownership
+                - listitem [ref=e896]: Adaptability
+                - listitem [ref=e897]: HTML
+              - generic [ref=e898]:
+                - generic [ref=e899]: 3+ weeks ago
+                - generic [ref=e900]: save
+            - generic [ref=e906]:
+              - generic [ref=e907]: Jobs based on your applies
+              - generic [ref=e909]:
+                - generic [ref=e910]:
+                  - generic [ref=e913] [cursor=pointer]:
+                    - generic [ref=e914]: Junior AI Builder
+                    - generic [ref=e916]: Predictive Data Sciences
+                    - generic [ref=e917]:
+                      - img [ref=e918]
+                      - generic [ref=e919]: Bengaluru, Delhi / NCR, Mumbai
+                  - generic [ref=e922] [cursor=pointer]:
+                    - generic [ref=e923]: Back-End Developer
+                    - generic [ref=e924]:
+                      - generic [ref=e925]: QCS Dc Labs
+                      - generic [ref=e926]:
+                        - generic [ref=e927]:
+                          - img [ref=e928]
+                          - text: "4.3"
+                        - generic [ref=e931]: 13 Reviews
+                    - generic [ref=e932]:
+                      - img [ref=e933]
+                      - generic [ref=e934]: Bengaluru, BTM 2nd Stage
+                  - generic [ref=e937] [cursor=pointer]:
+                    - generic [ref=e938]: Trainee Software Engineers - Freshers
+                    - generic [ref=e939]:
+                      - generic [ref=e940]: Razorthink
+                      - generic [ref=e941]:
+                        - generic [ref=e942]:
+                          - img [ref=e943]
+                          - text: "3.3"
+                        - generic [ref=e946]: 5 Reviews
+                    - generic [ref=e947]:
+                      - img [ref=e948]
+                      - generic [ref=e949]: Bengaluru
+                  - generic [ref=e952] [cursor=pointer]:
+                    - generic [ref=e953]: Business Analyst
+                    - generic [ref=e954]:
+                      - generic [ref=e955]: Incanus Technologies
+                      - generic [ref=e956]:
+                        - generic [ref=e957]:
+                          - img [ref=e958]
+                          - text: "3.3"
+                        - generic [ref=e961]: 10 Reviews
+                    - generic [ref=e962]:
+                      - img [ref=e963]
+                      - generic [ref=e964]: Hybrid - Bengaluru, Delhi / NCR, Pune
+                  - generic [ref=e967] [cursor=pointer]:
+                    - generic [ref=e968]: python, django, fresher , expereinced developer
+                    - generic [ref=e969]:
+                      - generic [ref=e970]: EXCELPTP
+                      - generic [ref=e971]:
+                        - generic [ref=e972]:
+                          - img [ref=e973]
+                          - text: "3.8"
+                        - generic [ref=e976]: 3 Reviews
+                    - generic [ref=e977]:
+                      - img [ref=e978]
+                      - generic [ref=e979]: Ahmedabad(Navrangpura)
+                  - generic [ref=e982] [cursor=pointer]:
+                    - generic [ref=e983]: Data Analytics Intern
+                    - generic [ref=e984]:
+                      - generic [ref=e985]: TP
+                      - generic [ref=e986]:
+                        - generic [ref=e987]:
+                          - img [ref=e988]
+                          - text: "3.9"
+                        - generic [ref=e991]: 39K Reviews
+                    - generic [ref=e992]:
+                      - img [ref=e993]
+                      - generic [ref=e994]: Gurugram
+                  - generic [ref=e997] [cursor=pointer]:
+                    - generic [ref=e998]: Graduate Engineer
+                    - generic [ref=e1000]: Rvr Innovations
+                    - generic [ref=e1001]:
+                      - img [ref=e1002]
+                      - generic [ref=e1003]: Bengaluru, Delhi / NCR, Pune
+                  - generic [ref=e1006] [cursor=pointer]:
+                    - generic [ref=e1007]: Android Developer (Internship + Permanent Role)
+                    - generic [ref=e1008]:
+                      - generic [ref=e1009]: Lufick
+                      - generic [ref=e1010]:
+                        - generic [ref=e1011]:
+                          - img [ref=e1012]
+                          - text: "4.2"
+                        - generic [ref=e1015]: 8 Reviews
+                    - generic [ref=e1016]:
+                      - img [ref=e1017]
+                      - generic [ref=e1018]: Bengaluru, Delhi / NCR, Hyderabad
+                  - generic [ref=e1021] [cursor=pointer]:
+                    - generic [ref=e1022]: Software Engineer at A FinTech Company
+                    - generic [ref=e1024]: Talentzo Delhi
+                    - generic [ref=e1025]:
+                      - img [ref=e1026]
+                      - generic [ref=e1027]: Remote
+                  - generic [ref=e1030] [cursor=pointer]:
+                    - generic [ref=e1031]: Data Analyst Fresher , Data Analytics
+                    - generic [ref=e1033]: Apex Engineering Solutions
+                    - generic [ref=e1034]:
+                      - img [ref=e1035]
+                      - generic [ref=e1036]: Bengaluru, Delhi / NCR, Hyderabad
+                - button "Next slide" [ref=e1037] [cursor=pointer]
+            - generic [ref=e1039]:
+              - generic [ref=e1040]:
+                - heading "Fullstack Developer" [level=2] [ref=e1041]:
+                  - link "Fullstack Developer" [ref=e1042] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developer-tele-infotech-pimpri-chinchwad-pune-0-to-2-years-090626000121
+                - img [ref=e1044]
+              - generic [ref=e1045]:
+                - generic "MNC" [ref=e1047]
+                - link "Posted by Tele Infotech" [ref=e1049] [cursor=pointer]:
+                  - /url: https://www.naukri.com/tele-infotech-jobs-careers-124574108
+              - generic [ref=e1051]:
+                - generic [ref=e1053]:
+                  - text: 
+                  - generic "0-2 Yrs" [ref=e1054]
+                - generic [ref=e1056]:
+                  - text: 
+                  - generic "2-5 Lacs PA" [ref=e1057]
+                - generic [ref=e1059]:
+                  - text: 
+                  - generic "Pune, Pimpri-Chinchwad" [ref=e1060]
+              - generic [ref=e1062]:  Freshers with strong project experience and candidates with up to 2 years of experience...
+              - list [ref=e1064]:
+                - listitem [ref=e1065]: HTML
+                - listitem [ref=e1066]: Angular
+                - listitem [ref=e1067]: Javascript
+                - listitem [ref=e1068]: Python
+                - listitem [ref=e1069]: Fullstack Development
+                - listitem [ref=e1070]: Angularjs
+                - listitem [ref=e1071]: Database Optimization
+                - listitem [ref=e1072]: Database Design
+              - generic [ref=e1073]:
+                - generic [ref=e1074]: 2 weeks ago
+                - generic [ref=e1075]: save
+            - generic [ref=e1081]:
+              - generic [ref=e1082]: How relevant do you find these jobs?
+              - generic [ref=e1083]:
+                - generic [ref=e1084] [cursor=pointer]:
+                  - img [ref=e1085]
+                  - generic [ref=e1086]: Not Useful
+                - generic [ref=e1087] [cursor=pointer]:
+                  - img [ref=e1088]
+                  - generic [ref=e1089]: Neutral
+                - generic [ref=e1090] [cursor=pointer]:
+                  - img [ref=e1091]
+                  - generic [ref=e1092]: Very Useful
+            - generic [ref=e1094]:
+              - generic [ref=e1095]:
+                - heading "Fullstack Developer" [level=2] [ref=e1096]:
+                  - link "Fullstack Developer" [ref=e1097] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developer-sirasoft-consultancy-services-chennai-0-to-1-years-160626025689
+                - img [ref=e1099]
+              - generic [ref=e1100]:
+                - link "Sirasoft Consultancy Pvt Ltd" [ref=e1102] [cursor=pointer]:
+                  - /url: https://www.naukri.com/sirasoft-consultancy-jobs-careers-125410332
+                - link "Posted by Sirasoft Consultancy Services" [ref=e1104] [cursor=pointer]:
+                  - /url: https://www.naukri.com/sirasoft-consultancy-services-jobs-careers-125410332
+              - generic [ref=e1106]:
+                - generic [ref=e1108]:
+                  - text: 
+                  - generic "0-1 Yrs" [ref=e1109]
+                - generic [ref=e1111]:
+                  - text: 
+                  - generic "Chennai(Thirumudivakkam)" [ref=e1112]
+              - generic [ref=e1114]: " Job Summary: . We are looking for passionate freshers with strong fundamentals in Full ..."
+              - list [ref=e1116]:
+                - listitem [ref=e1117]: MySQL
+                - listitem [ref=e1118]: React.Js
+                - listitem [ref=e1119]: Python
+                - listitem [ref=e1120]: GIT
+                - listitem [ref=e1121]: Rest Api Development
+                - listitem [ref=e1122]: Node.Js
+                - listitem [ref=e1123]: API
+                - listitem [ref=e1124]: Full Stack
+              - generic [ref=e1125]:
+                - generic [ref=e1126]: 1 week ago
+                - generic [ref=e1127]: save
+            - generic [ref=e1129]:
+              - generic [ref=e1130]:
+                - heading "FullStack Developer" [level=2] [ref=e1131]:
+                  - link "FullStack Developer" [ref=e1132] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developer-radicalstart-infolab-madurai-0-to-2-years-090625504029
+                - img [ref=e1134]
+              - generic [ref=e1136]:
+                - link "Radicalstart Infolab" [ref=e1137] [cursor=pointer]:
+                  - /url: https://www.naukri.com/radicalstart-infolab-jobs-careers-4712924
+                - link " 4.0" [ref=e1138] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/radicalstart-infolab-pvt-ltd-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e1139]: 
+                  - generic [ref=e1140]: "4.0"
+                  - text: 
+                - link "9 Reviews" [ref=e1141] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/radicalstart-infolab-pvt-ltd-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e1143]:
+                - generic [ref=e1145]:
+                  - text: 
+                  - generic "0-2 Yrs" [ref=e1146]
+                - generic [ref=e1148]:
+                  - text: 
+                  - generic "Madurai" [ref=e1149]
+              - generic [ref=e1151]:  RadicalStart InfoLab is looking for FullStack Developer to join our dynamic team and em...
+              - list [ref=e1153]:
+                - listitem [ref=e1154]: redux
+                - listitem [ref=e1155]: css
+                - listitem [ref=e1156]: fullstack development
+                - listitem [ref=e1157]: web application
+                - listitem [ref=e1158]: ui development
+                - listitem [ref=e1159]: bootstrap
+                - listitem [ref=e1160]: ajax
+                - listitem [ref=e1161]: jquery
+              - generic [ref=e1162]:
+                - generic [ref=e1163]: 3+ weeks ago
+                - generic [ref=e1164]: save
+            - generic [ref=e1166]:
+              - generic [ref=e1167]:
+                - heading "FullStack Developers" [level=2] [ref=e1168]:
+                  - link "FullStack Developers" [ref=e1169] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developers-crown-hill-it-solutions-mohali-0-to-3-years-170823501469
+                - img [ref=e1171]
+              - generic [ref=e1173]:
+                - link "Crown Hill It Solutions" [ref=e1174] [cursor=pointer]:
+                  - /url: https://www.naukri.com/crown-hill-it-solutions-jobs-careers-123914143
+                - link " 5.0" [ref=e1175] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/crown-hill-it-solutions-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e1176]: 
+                  - generic [ref=e1177]: "5.0"
+                  - text: 
+                - link "2 Reviews" [ref=e1178] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/crown-hill-it-solutions-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e1180]:
+                - generic [ref=e1182]:
+                  - text: 
+                  - generic "0-3 Yrs" [ref=e1183]
+                - generic [ref=e1185]:
+                  - text: 
+                  - generic "Mohali" [ref=e1186]
+              - generic [ref=e1188]:  Qualifications- . Master s degree / Bachelors degree from accredited university . Exper...
+              - list [ref=e1190]:
+                - listitem [ref=e1191]: Backend
+                - listitem [ref=e1192]: jQuery
+                - listitem [ref=e1193]: PDF
+                - listitem [ref=e1194]: MySQL
+                - listitem [ref=e1195]: Wordpress
+                - listitem [ref=e1196]: Javascript
+                - listitem [ref=e1197]: PHP
+                - listitem [ref=e1198]: Troubleshooting
+              - generic [ref=e1199]:
+                - generic [ref=e1200]: 3+ weeks ago
+                - generic [ref=e1201]: save
+            - generic [ref=e1203]:
+              - generic [ref=e1204]:
+                - heading "Fullstack Developer" [level=2] [ref=e1205]:
+                  - link "Fullstack Developer" [ref=e1206] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developer-ibs-software-thiruvananthapuram-0-to-5-years-020226501897
+                - img [ref=e1208]
+              - generic [ref=e1210]:
+                - link "IBS Software Services" [ref=e1211] [cursor=pointer]:
+                  - /url: https://www.naukri.com/ibs-services-jobs-careers-1523
+                - link " 3.5" [ref=e1212] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/ibs-software-services-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e1213]: 
+                  - generic [ref=e1214]: "3.5"
+                  - text: 
+                - link "856 Reviews" [ref=e1215] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/ibs-software-services-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e1217]:
+                - generic [ref=e1219]:
+                  - text: 
+                  - generic "0-5 Yrs" [ref=e1220]
+                - generic [ref=e1222]:
+                  - text: 
+                  - generic "Thiruvananthapuram" [ref=e1223]
+              - generic [ref=e1225]: " Ensure compliance with policies while improving efficiency and outcomes. Disclaimer: Th..."
+              - list [ref=e1227]:
+                - listitem [ref=e1228]: spring boot
+                - listitem [ref=e1229]: Hibernate
+                - listitem [ref=e1230]: Drupal
+                - listitem [ref=e1231]: Spring mvc
+                - listitem [ref=e1232]: jQuery
+                - listitem [ref=e1233]: Web technologies
+                - listitem [ref=e1234]: html5
+                - listitem [ref=e1235]: MySQL
+              - generic [ref=e1236]:
+                - generic [ref=e1237]: 3+ weeks ago
+                - generic [ref=e1238]: save
+            - generic [ref=e1240]:
+              - generic [ref=e1241]:
+                - heading "Sr. Fullstack Developer" [level=2] [ref=e1242]:
+                  - link "Sr. Fullstack Developer" [ref=e1243] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-sr-fullstack-developer-nirmitee-io-pune-0-to-2-years-100725504243
+                - img [ref=e1245]
+              - generic [ref=e1247]:
+                - link "Nirmitee.io" [ref=e1248] [cursor=pointer]:
+                  - /url: https://www.naukri.com/nirmitee-io-jobs-careers-124391586
+                - link " 4.6" [ref=e1249] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/nirmitee-dot-io-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e1250]: 
+                  - generic [ref=e1251]: "4.6"
+                  - text: 
+                - link "23 Reviews" [ref=e1252] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/nirmitee-dot-io-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e1254]:
+                - generic [ref=e1256]:
+                  - text: 
+                  - generic "0-2 Yrs" [ref=e1257]
+                - generic [ref=e1259]:
+                  - text: 
+                  - generic "Pune" [ref=e1260]
+              - generic [ref=e1262]: " Cloud certification is a bonus . Required Skills: . Frontend: ReactJS (Next.js must) Da..."
+              - list [ref=e1264]:
+                - listitem [ref=e1265]: Backend
+                - listitem [ref=e1266]: Front end
+                - listitem [ref=e1267]: cassandra
+                - listitem [ref=e1268]: Cloud
+                - listitem [ref=e1269]: Javascript
+                - listitem [ref=e1270]: MongoDB
+                - listitem [ref=e1271]: SQL
+                - listitem [ref=e1272]: Python
+              - generic [ref=e1273]:
+                - generic [ref=e1274]: 3+ weeks ago
+                - generic [ref=e1275]: save
+            - generic [ref=e1277]:
+              - generic [ref=e1278]:
+                - heading "Fullstack Developer" [level=2] [ref=e1279]:
+                  - link "Fullstack Developer" [ref=e1280] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developer-anusha-bazaar-technologies-hyderabad-0-to-1-years-250626027423
+                - img [ref=e1282]
+              - link "Anusha Bazaar Technologies" [ref=e1285] [cursor=pointer]:
+                - /url: https://www.naukri.com/anusha-bazaar-technologies-jobs-careers-125299672
+              - generic [ref=e1287]:
+                - generic [ref=e1289]:
+                  - text: 
+                  - generic "0-1 Yrs" [ref=e1290]
+                - generic [ref=e1292]:
+                  - text: 
+                  - generic "1-2.5 Lacs PA" [ref=e1293]
+                - generic [ref=e1295]:
+                  - text: 
+                  - generic "Hyderabad" [ref=e1296]
+              - generic [ref=e1298]: " Preferred Candidate Profile: . Bachelors degree in Computer Science, Information Techno..."
+              - list [ref=e1300]:
+                - listitem [ref=e1301]: Java
+                - listitem [ref=e1302]: Spring Boot
+                - listitem [ref=e1303]: React.Js
+                - listitem [ref=e1304]: Amazon Ec2
+                - listitem [ref=e1305]: Automation
+                - listitem [ref=e1306]: Ci Cd Pipeline
+                - listitem [ref=e1307]: Aws Cloud
+                - listitem [ref=e1308]: Github
+              - generic [ref=e1309]:
+                - generic [ref=e1310]: 2 days ago
+                - generic [ref=e1311]: save
+            - generic [ref=e1313]:
+              - generic [ref=e1314]:
+                - heading "Fullstack Developer" [level=2] [ref=e1315]:
+                  - link "Fullstack Developer" [ref=e1316] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-fullstack-developer-mands-consulting-noida-0-to-1-years-080426029294
+                - img [ref=e1318]
+              - generic [ref=e1319]:
+                - generic "MandS Consulting com" [ref=e1321]
+                - link "Posted by Mands Consulting" [ref=e1323] [cursor=pointer]:
+                  - /url: https://www.naukri.com/mands-consulting-jobs-careers-125359768
+              - generic [ref=e1325]:
+                - generic [ref=e1327]:
+                  - text: 
+                  - generic "0-1 Yrs" [ref=e1328]
+                - generic [ref=e1330]:
+                  - text: 
+                  - generic "1-3 Lacs PA" [ref=e1331]
+                - generic [ref=e1333]:
+                  - text: 
+                  - generic "Noida" [ref=e1334]
+              - generic [ref=e1336]:  Hiring Full Stack Developers (0–1 yrs) with skills in React/Next.js & Python. Work on s...
+              - list [ref=e1338]:
+                - listitem [ref=e1339]: React
+                - listitem [ref=e1340]: Next.js
+                - listitem [ref=e1341]: React.Js
+                - listitem [ref=e1342]: Python
+                - listitem [ref=e1343]: Rest Apis
+                - listitem [ref=e1344]: PostgreSQL
+                - listitem [ref=e1345]: Fast Api
+                - listitem [ref=e1346]: Html/Css
+              - generic [ref=e1347]:
+                - generic [ref=e1348]: 3+ weeks ago
+                - generic [ref=e1349]: save
+          - generic [ref=e1351]:
+            - generic:
+              - generic: 
+              - generic: Previous
+            - generic [ref=e1352]:
+              - link "1" [ref=e1353] [cursor=pointer]:
+                - /url: /fullstack-developer-jobs-in-india
+              - link "2" [ref=e1354] [cursor=pointer]:
+                - /url: /fullstack-developer-jobs-in-india-2
+              - link "3" [ref=e1355] [cursor=pointer]:
+                - /url: /fullstack-developer-jobs-in-india-3
+              - link "4" [ref=e1356] [cursor=pointer]:
+                - /url: /fullstack-developer-jobs-in-india-4
+              - link "5" [ref=e1357] [cursor=pointer]:
+                - /url: /fullstack-developer-jobs-in-india-5
+              - link "6" [ref=e1358] [cursor=pointer]:
+                - /url: /fullstack-developer-jobs-in-india-6
+              - link "7" [ref=e1359] [cursor=pointer]:
+                - /url: /fullstack-developer-jobs-in-india-7
+              - link "8" [ref=e1360] [cursor=pointer]:
+                - /url: /fullstack-developer-jobs-in-india-8
+              - link "9" [ref=e1361] [cursor=pointer]:
+                - /url: /fullstack-developer-jobs-in-india-9
+              - link "10" [ref=e1362] [cursor=pointer]:
+                - /url: /fullstack-developer-jobs-in-india-10
+            - link "Next " [ref=e1363] [cursor=pointer]:
+              - /url: /fullstack-developer-jobs-in-india-2
+              - generic [ref=e1364]: Next
+              - generic [ref=e1365]: 
+          - generic [ref=e1366]:
+            - heading "Apply to 4011 Fullstack Developer Jobs In India on Naukri.com" [level=2] [ref=e1367]
+            - generic [ref=e1368]:
+              - generic [ref=e1369]:
+                - generic [ref=e1370] [cursor=pointer]: Bangalore
+                - list [ref=e1372]:
+                  - listitem [ref=e1373]:
+                    - link "• Software Developer Jobs In Bangalore" [ref=e1374] [cursor=pointer]:
+                      - /url: https://www.naukri.com/software-developer-jobs-in-bangalore
+                      - generic [ref=e1375]: •
+                      - text: Software Developer Jobs In Bangalore
+                  - listitem [ref=e1376]:
+                    - link "• Software Engineer Jobs In Bangalore" [ref=e1377] [cursor=pointer]:
+                      - /url: https://www.naukri.com/software-engineer-jobs-in-bangalore
+                      - generic [ref=e1378]: •
+                      - text: Software Engineer Jobs In Bangalore
+                  - listitem [ref=e1379]:
+                    - link "• Fullstack Web Developer Jobs In Bangalore" [ref=e1380] [cursor=pointer]:
+                      - /url: https://www.naukri.com/fullstack-web-developer-jobs-in-bangalore
+                      - generic [ref=e1381]: •
+                      - text: Fullstack Web Developer Jobs In Bangalore
+                  - listitem [ref=e1382]:
+                    - link "• Back End Developer Jobs In Bangalore" [ref=e1383] [cursor=pointer]:
+                      - /url: https://www.naukri.com/back-end-developer-jobs-in-bangalore
+                      - generic [ref=e1384]: •
+                      - text: Back End Developer Jobs In Bangalore
+                  - listitem [ref=e1385]:
+                    - link "• Java Full Stack Developer Jobs In Bangalore" [ref=e1386] [cursor=pointer]:
+                      - /url: https://www.naukri.com/java-full-stack-developer-jobs-in-bangalore
+                      - generic [ref=e1387]: •
+                      - text: Java Full Stack Developer Jobs In Bangalore
+                  - listitem [ref=e1388]:
+                    - link "• Web Developer Jobs In Bangalore" [ref=e1389] [cursor=pointer]:
+                      - /url: https://www.naukri.com/web-developer-jobs-in-bangalore
+                      - generic [ref=e1390]: •
+                      - text: Web Developer Jobs In Bangalore
+                  - listitem [ref=e1391]:
+                    - link "• Front End Developer Jobs In Bangalore" [ref=e1392] [cursor=pointer]:
+                      - /url: https://www.naukri.com/front-end-developer-jobs-in-bangalore
+                      - generic [ref=e1393]: •
+                      - text: Front End Developer Jobs In Bangalore
+                  - listitem [ref=e1394]:
+                    - link "• Mean Stack Developer Jobs In Bangalore" [ref=e1395] [cursor=pointer]:
+                      - /url: https://www.naukri.com/mean-stack-developer-jobs-in-bangalore
+                      - generic [ref=e1396]: •
+                      - text: Mean Stack Developer Jobs In Bangalore
+                  - listitem [ref=e1397]:
+                    - link "• Software Development Engineer Jobs In Bangalore" [ref=e1398] [cursor=pointer]:
+                      - /url: https://www.naukri.com/software-development-engineer-jobs-in-bangalore
+                      - generic [ref=e1399]: •
+                      - text: Software Development Engineer Jobs In Bangalore
+                  - listitem [ref=e1400]:
+                    - link "• Java Developer Jobs In Bangalore" [ref=e1401] [cursor=pointer]:
+                      - /url: https://www.naukri.com/java-developer-jobs-in-bangalore
+                      - generic [ref=e1402]: •
+                      - text: Java Developer Jobs In Bangalore
+              - generic [ref=e1404] [cursor=pointer]: Delhi NCR
+              - generic [ref=e1406] [cursor=pointer]: Hyderabad Secunderabad
+              - generic [ref=e1408] [cursor=pointer]: Mumbai
+              - generic [ref=e1410] [cursor=pointer]: Chennai
+              - generic [ref=e1412] [cursor=pointer]: All Jobs
+              - generic [ref=e1414] [cursor=pointer]: Top Companies
+          - list [ref=e1416]:
+            - listitem [ref=e1417]:
+              - link "Home" [ref=e1418] [cursor=pointer]:
+                - /url: https://www.naukri.com
+            - listitem [ref=e1419]:
+              - generic [ref=e1420]: 
+            - listitem [ref=e1421]:
+              - link "Jobs in india" [ref=e1422] [cursor=pointer]:
+                - /url: https://www.naukri.com/jobs-in-india
+            - listitem [ref=e1423]:
+              - generic [ref=e1424]: 
+            - listitem [ref=e1425]:
+              - link "Fullstack Developer Jobs" [ref=e1426] [cursor=pointer]:
+                - /url: https://www.naukri.com/fullstack-developer-jobs
+            - listitem [ref=e1427]:
+              - generic [ref=e1428]: 
+            - listitem [ref=e1429]: Fullstack Developer Jobs In india
+      - status
+    - contentinfo [ref=e1431]:
+      - generic [ref=e1434]:
+        - generic [ref=e1435]:
+          - link "Naukri Campus Logo" [ref=e1436] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus
+            - img "Naukri Campus Logo" [ref=e1437]
+          - generic [ref=e1438]:
+            - generic "Connect with us" [ref=e1439] [cursor=pointer]
+            - link "naukri social icons" [ref=e1440] [cursor=pointer]:
+              - /url: https://www.facebook.com/firstnaukri
+              - img "naukri social icons" [ref=e1441]
+            - link "naukri social icons" [ref=e1442] [cursor=pointer]:
+              - /url: https://instagram.com/naukri_campus/
+              - img "naukri social icons" [ref=e1443]
+            - link "naukri social icons" [ref=e1444] [cursor=pointer]:
+              - /url: https://twitter.com/naukri_campus
+              - img "naukri social icons" [ref=e1445]
+            - link "naukri social icons" [ref=e1446] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/naukricampus
+              - img "naukri social icons" [ref=e1447]
+        - list [ref=e1449]:
+          - listitem [ref=e1450]:
+            - link "About us" [ref=e1451] [cursor=pointer]:
+              - /url: https://infoedge.in
+          - listitem [ref=e1452]:
+            - link "Careers" [ref=e1453] [cursor=pointer]:
+              - /url: https://careers.infoedge.com/
+          - listitem [ref=e1454]:
+            - link "Employer home" [ref=e1455] [cursor=pointer]:
+              - /url: https://www.firstnaukri.com/employer
+          - listitem [ref=e1456]:
+            - link "Sitemap" [ref=e1457] [cursor=pointer]:
+              - /url: https://www.naukri.com/sitemap/sitemap.php
+          - listitem [ref=e1458]:
+            - link "Credits" [ref=e1459] [cursor=pointer]:
+              - /url: https://www.naukri.com/credits
+        - list [ref=e1461]:
+          - listitem [ref=e1462]:
+            - link "Help center" [ref=e1463] [cursor=pointer]:
+              - /url: https://www.naukri.com/faq/job-seeker?utm_source=footer
+          - listitem [ref=e1464]:
+            - link "Summons/Notices" [ref=e1465] [cursor=pointer]:
+              - /url: https://w5.naukri.com/summons-notices-form/
+          - listitem [ref=e1466]:
+            - link "Grievances" [ref=e1467] [cursor=pointer]:
+              - /url: https://w5.naukri.com/grievances-form/
+          - listitem [ref=e1468]:
+            - link "Report issue" [ref=e1469] [cursor=pointer]:
+              - /url: https://w5.naukri.com/fdbck/main/feedback.php?app_id=15
+        - list [ref=e1471]:
+          - listitem [ref=e1472]:
+            - link "Privacy policy" [ref=e1473] [cursor=pointer]:
+              - /url: https://www.naukri.com/privacypolicy
+          - listitem [ref=e1474]:
+            - link "Terms & conditions" [ref=e1475] [cursor=pointer]:
+              - /url: https://www.naukri.com/termsconditions
+          - listitem [ref=e1476]:
+            - link "Fraud alert" [ref=e1477] [cursor=pointer]:
+              - /url: https://www.naukri.com/imposter/report-fake-job-recruiter
+          - listitem [ref=e1478]:
+            - link "Trust & safety" [ref=e1479] [cursor=pointer]:
+              - /url: https://www.naukri.com/jobsearch/trust-safety
+        - generic [ref=e1480]:
+          - generic [ref=e1481]: Apply on the go
+          - generic [ref=e1482]: Get real-time job updates on our App
+          - generic [ref=e1483]:
+            - link "naukri app download" [ref=e1484] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=naukriApp.appModules.login&hl=en&utm_source=naukri&utm_medium=footer
+              - img "naukri app download" [ref=e1485]
+            - link "naukri app download" [ref=e1486] [cursor=pointer]:
+              - /url: https://itunes.apple.com/in/app/naukri.com-job-search/id482877505?mt=8
+              - img "naukri app download" [ref=e1487]
+      - generic [ref=e1489]:
+        - generic [ref=e1490]:
+          - link "naukri social logos" [ref=e1492] [cursor=pointer]:
+            - /url: https://infoedge.in
+            - img "naukri social logos" [ref=e1493]
+          - generic [ref=e1494]:
+            - generic [ref=e1495]: All trademarks are the property of their respective owners
+            - generic [ref=e1496]: All rights reserved 2026 Info Edge (India) Ltd.
+        - generic [ref=e1497]: Our businesses
+        - list [ref=e1500]:
+          - listitem [ref=e1501]:
+            - link "nnacres" [ref=e1503] [cursor=pointer]:
+              - /url: https://www.99acres.com/
+              - img "nnacres" [ref=e1504]
+          - listitem [ref=e1505]:
+            - link "jeevansathi" [ref=e1507] [cursor=pointer]:
+              - /url: https://www.jeevansathi.com/
+              - img "jeevansathi" [ref=e1508]
+          - listitem [ref=e1509]:
+            - link "ng" [ref=e1511] [cursor=pointer]:
+              - /url: https://www.naukrigulf.com/
+              - img "ng" [ref=e1512]
+          - listitem [ref=e1513]:
+            - link "shiksha" [ref=e1515] [cursor=pointer]:
+              - /url: https://www.shiksha.com/
+              - img "shiksha" [ref=e1516]
+          - listitem [ref=e1517]:
+            - link "iimjobs" [ref=e1519] [cursor=pointer]:
+              - /url: https://www.iimjobs.com
+              - img "iimjobs" [ref=e1520]
+          - listitem [ref=e1521]:
+            - link "hirist" [ref=e1523] [cursor=pointer]:
+              - /url: https://www.hirist.com
+              - img "hirist" [ref=e1524]
+          - listitem [ref=e1525]:
+            - link "jobhai" [ref=e1527] [cursor=pointer]:
+              - /url: https://www.jobhai.com
+              - img "jobhai" [ref=e1528]
+          - listitem [ref=e1529]:
+            - link "Doselect" [ref=e1531] [cursor=pointer]:
+              - /url: https://doselect.com/
+              - img "Doselect" [ref=e1532]
+          - listitem [ref=e1533]:
+            - link "techminis" [ref=e1535] [cursor=pointer]:
+              - /url: https://techminis.com
+              - img "techminis" [ref=e1536]
+          - listitem [ref=e1537]:
+            - link "codingninjas" [ref=e1539] [cursor=pointer]:
+              - /url: https://www.codingninjas.com/?utm_source=naukri&utm_medium=desktop-footer
+              - img "codingninjas" [ref=e1540]
+  - alert [ref=e12]
+```

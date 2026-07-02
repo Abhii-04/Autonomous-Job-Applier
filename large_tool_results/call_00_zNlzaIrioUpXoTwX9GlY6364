@@ -1,0 +1,1542 @@
+### Open tabs
+- 0: [Naukri - 404 Error Found](https://www.naukri.com/job-details/python-developer-appscrip-0-to-1-years-018242502627?src=cluster&db=1&sid=17445777138321467_5&xp=2)
+- 1: (current) [Python Developer Jobs In India - 3125 Python Developer Job Vacancies In India - Naukri.com](https://www.naukri.com/python-developer-jobs-in-india?k=Python%20Developer&experience=0-1)
+- 2: [Fullstack Developer Jobs In India - 4011 Fullstack Developer Job Vacancies In India - Naukri.com](https://www.naukri.com/fullstack-developer-jobs-in-india?k=Fullstack%20Developer&experience=0-1)
+### Page
+- Page URL: https://www.naukri.com/python-developer-jobs-in-india?k=Python%20Developer&experience=0-1
+- Page Title: Python Developer Jobs In India - 3125 Python Developer Job Vacancies In India - Naukri.com
+- Console: 1 errors, 1 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e15]:
+      - link "Naukri Campus Logo" [ref=e16] [cursor=pointer]:
+        - /url: https://www.naukri.com/campus
+        - img "Naukri Campus Logo" [ref=e17]
+      - navigation:
+        - list [ref=e18]:
+          - listitem [ref=e19]:
+            - link "Prepare" [ref=e20] [cursor=pointer]:
+              - /url: https://www.naukri.com/campus/prepare?src=gnbPrepare
+              - generic [ref=e21]: Prepare
+            - generic:
+              - list:
+                - listitem:
+                  - link "Rolesense":
+                    - /url: https://www.naukri.com/campus/rolesense?src=gnbPrepare
+                    - generic:
+                      - generic:
+                        - generic: Rolesense
+                - listitem:
+                  - link "NCAT":
+                    - /url: https://www.naukri.com/campus/ncat-aptitude-test?src=gnbPrepare
+                    - generic:
+                      - generic:
+                        - generic: NCAT
+                - listitem:
+                  - link "Expert speak":
+                    - /url: https://www.naukri.com/campus/webinars?src=gnbPrepare
+                    - generic:
+                      - generic:
+                        - generic: Expert speak
+                - listitem:
+                  - link "Resume maker":
+                    - /url: https://www.naukri.com/campus/resume-maker?src=gnbPrepare
+                    - generic:
+                      - generic:
+                        - generic: Resume maker
+                - listitem:
+                  - link "Personalised interview Q/A":
+                    - /url: https://www.naukri.com/campus/interview-questions-and-answers?src=gnbPrepare
+                    - generic:
+                      - generic:
+                        - generic: Personalised interview Q/A
+                - listitem:
+                  - link "Career guidance":
+                    - /url: https://www.naukri.com/campus/career-guidance?src=gnbPrepare
+                    - generic:
+                      - generic:
+                        - generic: Career guidance
+                - listitem:
+                  - link "Interview Experiences":
+                    - /url: https://www.naukri.com/campus/interview-experiences?src=gnbPrepare
+                    - generic:
+                      - generic:
+                        - generic: Interview Experiences
+                - listitem:
+                  - link "Speech assessment":
+                    - /url: https://www.naukri.com/campus/speech-assessment?src=gnbPrepare
+                    - generic:
+                      - generic:
+                        - generic: Speech assessment
+                - listitem:
+                  - link "AI Prompt Mastery":
+                    - /url: https://www.naukri.com/campus/ai-prompt-mastery?src=gnbPrepare
+                    - generic:
+                      - generic:
+                        - generic: AI Prompt Mastery
+          - listitem [ref=e22]:
+            - link "Participate" [ref=e23] [cursor=pointer]:
+              - /url: https://www.naukri.com/campus/participate?src=gnbParticipate
+              - generic [ref=e24]: Participate
+            - generic:
+              - list:
+                - listitem:
+                  - link "Contests":
+                    - /url: https://www.naukri.com/campus/contests?src=gnbParticipate
+                    - generic:
+                      - generic:
+                        - generic: Contests
+                - listitem:
+                  - link "All India NCAT":
+                    - /url: https://www.naukri.com/campus/contests/all-india-online-aptitude-test?src=gnbParticipate
+                    - generic:
+                      - generic:
+                        - generic: All India NCAT
+                - listitem:
+                  - link "Naukri Campus Young Turks":
+                    - /url: https://www.naukri.com/campus/contests/young-turks-skills-assessment-test?src=gnbParticipate
+                    - generic:
+                      - generic:
+                        - generic: Naukri Campus Young Turks
+                - listitem:
+                  - link "Naukri Campus Squad":
+                    - /url: https://www.naukri.com/campus/ambassador-program?src=gnbParticipate
+                    - generic:
+                      - generic:
+                        - generic: Naukri Campus Squad
+                - listitem:
+                  - link "Engineers' Ring of Honour":
+                    - /url: https://www.naukri.com/campus/contests/scholarship-for-engineering-students?src=gnbParticipate
+                    - generic:
+                      - generic:
+                        - generic: Engineers' Ring of Honour
+                - listitem:
+                  - link "CareerVerse":
+                    - /url: https://www.naukri.com/campus/contests/career-fair-2026?src=gnbParticipate
+                    - generic:
+                      - generic:
+                        - generic: CareerVerse
+          - listitem [ref=e25]:
+            - link "Opportunities" [ref=e26] [cursor=pointer]:
+              - /url: https://www.naukri.com/campus/opportunities?src=gnbOpportunities
+              - generic [ref=e27]: Opportunities
+            - generic:
+              - list:
+                - listitem:
+                  - link "Recommended jobs":
+                    - /url: https://www.naukri.com/mnjuser/recommendedjobs?src=gnbOpportunities
+                    - generic:
+                      - generic:
+                        - generic: Recommended jobs
+                - listitem:
+                  - link "Job invites":
+                    - /url: https://www.naukri.com/mnjuser/inbox?src=gnbOpportunities
+                    - generic:
+                      - generic:
+                        - generic: Job invites
+                - listitem:
+                  - link "Jobs from alerts":
+                    - /url: https://www.naukri.com/alert/merged?src=gnbOpportunities
+                    - generic:
+                      - generic:
+                        - generic: Jobs from alerts
+                - listitem:
+                  - link "Application status":
+                    - /url: https://www.naukri.com/myapply/historypage?src=gnbOpportunities
+                    - generic:
+                      - generic:
+                        - generic: Application status
+                - listitem:
+                  - link "Saved jobs":
+                    - /url: https://www.naukri.com/mnjuser/savedjobs?src=gnbOpportunities
+                    - generic:
+                      - generic:
+                        - generic: Saved jobs
+      - generic [ref=e28] [cursor=pointer]:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - textbox "Select job type"
+                - generic: 
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - textbox "Enter keyword / designation / companies": Python Developer,
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - textbox "Enter location": india,
+        - generic "Python Developer, 0-1 years, india" [ref=e29]
+        - button "" [ref=e30]:
+          - generic [ref=e31]: 
+      - generic [ref=e34] [cursor=pointer]: 
+      - generic [ref=e41] [cursor=pointer]:
+        - img "naukri user profile img" [ref=e42]
+        - generic [ref=e43]: "2"
+    - main [ref=e44]:
+      - generic [ref=e45]:
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - generic [ref=e50]: All Filters
+            - generic [ref=e51] [cursor=pointer]: Applied (1)
+          - generic [ref=e52]:
+            - generic [ref=e53]:
+              - generic [ref=e54] [cursor=pointer]:
+                - generic [ref=e55]: Work mode
+                - generic [ref=e56]: 
+              - generic [ref=e57]:
+                - generic [ref=e59] [cursor=pointer]:
+                  - generic [ref=e60]: 
+                  - paragraph [ref=e61]:
+                    - generic "Work from office" [ref=e62]
+                    - generic [ref=e63]: (3084)
+                - generic [ref=e65] [cursor=pointer]:
+                  - generic [ref=e66]: 
+                  - paragraph [ref=e67]:
+                    - generic "Hybrid" [ref=e68]
+                    - generic [ref=e69]: (24)
+                - generic [ref=e71] [cursor=pointer]:
+                  - generic [ref=e72]: 
+                  - paragraph [ref=e73]:
+                    - generic "Remote" [ref=e74]
+                    - generic [ref=e75]: (17)
+            - generic [ref=e76]:
+              - generic [ref=e77] [cursor=pointer]:
+                - generic [ref=e78]: Department
+                - generic [ref=e79]: 
+              - generic [ref=e80]:
+                - generic [ref=e82] [cursor=pointer]:
+                  - generic [ref=e83]: 
+                  - paragraph [ref=e84]:
+                    - generic "Engineering - Software & QA" [ref=e85]
+                    - generic [ref=e86]: (2059)
+                - generic [ref=e88] [cursor=pointer]:
+                  - generic [ref=e89]: 
+                  - paragraph [ref=e90]:
+                    - generic "UX, Design & Architecture" [ref=e91]
+                    - generic [ref=e92]: (239)
+                - generic [ref=e94] [cursor=pointer]:
+                  - generic [ref=e95]: 
+                  - paragraph [ref=e96]:
+                    - generic "Marketing & Communication" [ref=e97]
+                    - generic [ref=e98]: (129)
+                - generic [ref=e100] [cursor=pointer]:
+                  - generic [ref=e101]: 
+                  - paragraph [ref=e102]:
+                    - generic "Teaching & Training" [ref=e103]
+                    - generic [ref=e104]: (75)
+                - generic [ref=e105] [cursor=pointer]: View More
+            - generic [ref=e106]:
+              - generic [ref=e107] [cursor=pointer]:
+                - generic [ref=e108]: Salary
+                - generic [ref=e109]: 
+              - generic [ref=e110]:
+                - generic [ref=e112] [cursor=pointer]:
+                  - generic [ref=e113]: 
+                  - paragraph [ref=e114]:
+                    - generic "0-3 Lakhs" [ref=e115]
+                    - generic [ref=e116]: (2094)
+                - generic [ref=e118] [cursor=pointer]:
+                  - generic [ref=e119]: 
+                  - paragraph [ref=e120]:
+                    - generic "3-6 Lakhs" [ref=e121]
+                    - generic [ref=e122]: (2679)
+                - generic [ref=e124] [cursor=pointer]:
+                  - generic [ref=e125]: 
+                  - paragraph [ref=e126]:
+                    - generic "6-10 Lakhs" [ref=e127]
+                    - generic [ref=e128]: (991)
+                - generic [ref=e130] [cursor=pointer]:
+                  - generic [ref=e131]: 
+                  - paragraph [ref=e132]:
+                    - generic "10-15 Lakhs" [ref=e133]
+                    - generic [ref=e134]: (230)
+                - generic [ref=e135] [cursor=pointer]: View More
+            - generic [ref=e136]:
+              - generic [ref=e137] [cursor=pointer]:
+                - generic [ref=e138]: Company type
+                - generic [ref=e139]: 
+              - generic [ref=e140]:
+                - generic [ref=e142] [cursor=pointer]:
+                  - generic [ref=e143]: 
+                  - paragraph [ref=e144]:
+                    - generic "Corporate" [ref=e145]
+                    - generic [ref=e146]: (455)
+                - generic [ref=e148] [cursor=pointer]:
+                  - generic [ref=e149]: 
+                  - paragraph [ref=e150]:
+                    - generic "Foreign MNC" [ref=e151]
+                    - generic [ref=e152]: (190)
+                - generic [ref=e154] [cursor=pointer]:
+                  - generic [ref=e155]: 
+                  - paragraph [ref=e156]:
+                    - generic "Startup" [ref=e157]
+                    - generic [ref=e158]: (100)
+                - generic [ref=e160] [cursor=pointer]:
+                  - generic [ref=e161]: 
+                  - paragraph [ref=e162]:
+                    - generic "Indian MNC" [ref=e163]
+                    - generic [ref=e164]: (69)
+                - generic [ref=e165] [cursor=pointer]: View More
+            - generic [ref=e166]:
+              - generic [ref=e167] [cursor=pointer]:
+                - generic [ref=e168]: Role category
+                - generic [ref=e169]: 
+              - generic [ref=e170]:
+                - generic [ref=e172] [cursor=pointer]:
+                  - generic [ref=e173]: 
+                  - paragraph [ref=e174]:
+                    - generic "Software Development" [ref=e175]
+                    - generic [ref=e176]: (1859)
+                - generic [ref=e178] [cursor=pointer]:
+                  - generic [ref=e179]: 
+                  - paragraph [ref=e180]:
+                    - generic "Other Design" [ref=e181]
+                    - generic [ref=e182]: (182)
+                - generic [ref=e184] [cursor=pointer]:
+                  - generic [ref=e185]: 
+                  - paragraph [ref=e186]:
+                    - generic "Quality Assurance and Testing" [ref=e187]
+                    - generic [ref=e188]: (155)
+                - generic [ref=e190] [cursor=pointer]:
+                  - generic [ref=e191]: 
+                  - paragraph [ref=e192]:
+                    - generic "Digital Marketing" [ref=e193]
+                    - generic [ref=e194]: (98)
+                - generic [ref=e195] [cursor=pointer]: View More
+            - generic [ref=e196]:
+              - generic [ref=e197] [cursor=pointer]:
+                - generic [ref=e198]: Education
+                - generic [ref=e199]: 
+              - generic [ref=e200]:
+                - generic [ref=e202] [cursor=pointer]:
+                  - generic [ref=e203]: 
+                  - paragraph [ref=e204]:
+                    - generic "Any Postgraduate" [ref=e205]
+                    - generic [ref=e206]: (2430)
+                - generic [ref=e208] [cursor=pointer]:
+                  - generic [ref=e209]: 
+                  - paragraph [ref=e210]:
+                    - generic "MCA" [ref=e211]
+                    - generic [ref=e212]: (185)
+                - generic [ref=e214] [cursor=pointer]:
+                  - generic [ref=e215]: 
+                  - paragraph [ref=e216]:
+                    - generic "B.Tech / B.E." [ref=e217]
+                    - generic [ref=e218]: (418)
+                - generic [ref=e220] [cursor=pointer]:
+                  - generic [ref=e221]: 
+                  - paragraph [ref=e222]:
+                    - generic "Any Graduate" [ref=e223]
+                    - generic [ref=e224]: (2695)
+                - generic [ref=e225] [cursor=pointer]: View More
+            - generic [ref=e226]:
+              - generic [ref=e227] [cursor=pointer]:
+                - generic [ref=e228]: Posted by
+                - generic [ref=e229]: 
+              - generic [ref=e230]:
+                - generic [ref=e232] [cursor=pointer]:
+                  - generic [ref=e233]: 
+                  - paragraph [ref=e234]:
+                    - generic "Company Jobs" [ref=e235]
+                    - generic [ref=e236]: (3026)
+                - generic [ref=e238] [cursor=pointer]:
+                  - generic [ref=e239]: 
+                  - paragraph [ref=e240]:
+                    - generic "Consultant Jobs" [ref=e241]
+                    - generic [ref=e242]: (99)
+            - generic [ref=e243]:
+              - generic [ref=e244] [cursor=pointer]:
+                - generic [ref=e245]: Industry
+                - generic [ref=e246]: 
+              - generic [ref=e247]:
+                - generic [ref=e249] [cursor=pointer]:
+                  - generic [ref=e250]: 
+                  - paragraph [ref=e251]:
+                    - generic "IT Services & Consulting" [ref=e252]
+                    - generic [ref=e253]: (1761)
+                - generic [ref=e255] [cursor=pointer]:
+                  - generic [ref=e256]: 
+                  - paragraph [ref=e257]:
+                    - generic "Education / Training" [ref=e258]
+                    - generic [ref=e259]: (146)
+                - generic [ref=e261] [cursor=pointer]:
+                  - generic [ref=e262]: 
+                  - paragraph [ref=e263]:
+                    - generic "Management Consulting" [ref=e264]
+                    - generic [ref=e265]: (134)
+                - generic [ref=e267] [cursor=pointer]:
+                  - generic [ref=e268]: 
+                  - paragraph [ref=e269]:
+                    - generic "Advertising & Marketing" [ref=e270]
+                    - generic [ref=e271]: (127)
+                - generic [ref=e272] [cursor=pointer]: View More
+            - generic [ref=e273]:
+              - generic [ref=e274] [cursor=pointer]:
+                - generic [ref=e275]: Top companies
+                - generic [ref=e276]: 
+              - generic [ref=e277]:
+                - generic [ref=e279] [cursor=pointer]:
+                  - generic [ref=e280]: 
+                  - paragraph [ref=e281]:
+                    - generic "Accenture" [ref=e282]
+                    - generic [ref=e283]: (9)
+                - generic [ref=e285] [cursor=pointer]:
+                  - generic [ref=e286]: 
+                  - paragraph [ref=e287]:
+                    - generic "Bahwan CyberTek" [ref=e288]
+                    - generic [ref=e289]: (8)
+                - generic [ref=e291] [cursor=pointer]:
+                  - generic [ref=e292]: 
+                  - paragraph [ref=e293]:
+                    - generic "eClerx" [ref=e294]
+                    - generic [ref=e295]: (7)
+                - generic [ref=e297] [cursor=pointer]:
+                  - generic [ref=e298]: 
+                  - paragraph [ref=e299]:
+                    - generic "Google" [ref=e300]
+                    - generic [ref=e301]: (6)
+                - generic [ref=e302] [cursor=pointer]: View More
+            - generic [ref=e303]:
+              - generic [ref=e305] [cursor=pointer]: Freshness
+              - button "Select " [ref=e309] [cursor=pointer]:
+                - text: Select
+                - generic [ref=e310]: 
+            - generic [ref=e311]:
+              - generic [ref=e312] [cursor=pointer]:
+                - generic [ref=e313]: Location
+                - generic [ref=e314]: 
+              - generic [ref=e315]:
+                - generic [ref=e317] [cursor=pointer]:
+                  - generic [ref=e318]: 
+                  - paragraph [ref=e319]:
+                    - generic "Kanpur" [ref=e320]
+                    - generic [ref=e321]: (14)
+                - generic [ref=e323] [cursor=pointer]:
+                  - generic [ref=e324]: 
+                  - paragraph [ref=e325]:
+                    - generic "Bengaluru" [ref=e326]
+                    - generic [ref=e327]: (526)
+                - generic [ref=e329] [cursor=pointer]:
+                  - generic [ref=e330]: 
+                  - paragraph [ref=e331]:
+                    - generic "Chennai" [ref=e332]
+                    - generic [ref=e333]: (378)
+                - generic [ref=e335] [cursor=pointer]:
+                  - generic [ref=e336]: 
+                  - paragraph [ref=e337]:
+                    - generic "Pune" [ref=e338]
+                    - generic [ref=e339]: (352)
+                - generic [ref=e340] [cursor=pointer]: View More
+            - generic [ref=e341]:
+              - generic [ref=e342] [cursor=pointer]:
+                - generic [ref=e343]: Experience
+                - generic [ref=e344]: 
+              - generic [ref=e347]:
+                - generic [ref=e352] [cursor=pointer]: "0"
+                - generic:
+                  - generic [ref=e354]: 0 Yrs
+                  - generic [ref=e355]: 30 Yrs
+        - generic [ref=e356]:
+          - generic [ref=e357]:
+            - generic [ref=e358]:
+              - generic "1 - 20 of 3125" [ref=e359]
+              - heading "Python Developer Jobs In India" [level=1] [ref=e360]
+            - generic [ref=e361]:
+              - text: Send me jobs like these
+              - generic [ref=e362]:
+                - generic [ref=e363]: "Sort by:"
+                - button "Recommended " [ref=e365] [cursor=pointer]:
+                  - text: Recommended
+                  - generic [ref=e366]: 
+          - generic [ref=e368]:
+            - generic [ref=e370]:
+              - generic [ref=e371]:
+                - heading "Python Developer" [level=2] [ref=e372]:
+                  - link "Python Developer" [ref=e373] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-python-developer-appscrip-bengaluru-0-to-1-years-220626917620
+                - img [ref=e375]
+              - generic [ref=e377]:
+                - link "Appscrip" [ref=e378] [cursor=pointer]:
+                  - /url: https://www.naukri.com/appscrip-jobs-careers-3930644
+                - link " 2.7" [ref=e379] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/appscrip-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e380]: 
+                  - generic [ref=e381]: "2.7"
+                  - text: 
+                - link "52 Reviews" [ref=e382] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/appscrip-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e384]:
+                - generic [ref=e386]:
+                  - text: 
+                  - generic "0-1 Yrs" [ref=e387]
+                - generic [ref=e389]:
+                  - text: 
+                  - generic "Bengaluru" [ref=e390]
+              - generic [ref=e392]: " Preferred Qualifications : - Bachelors degree in Computer Science, Engineering, or a re..."
+              - list [ref=e394]:
+                - listitem [ref=e395]: python developer
+                - listitem [ref=e396]: rest
+                - listitem [ref=e397]: python
+                - listitem [ref=e398]: version control
+                - listitem [ref=e399]: scalable systems
+                - listitem [ref=e400]: ai
+                - listitem [ref=e401]: cloud platforms
+                - listitem [ref=e402]: numpy
+              - generic [ref=e403]:
+                - generic [ref=e404]: 5 days ago
+                - generic [ref=e405]: save
+            - generic [ref=e407]:
+              - generic [ref=e408]:
+                - heading "Python Developer" [level=2] [ref=e409]:
+                  - link "Python Developer" [ref=e410] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-python-developer-thoughts2binary-gurugram-0-to-1-years-281221000347
+                - img [ref=e412]
+              - generic [ref=e414]:
+                - link "Thoughts2Binary" [ref=e415] [cursor=pointer]:
+                  - /url: https://www.naukri.com/thoughts2binary-jobs-careers-976216
+                - link " 4.6" [ref=e416] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/thoughts2binary-consulting-and-solutions-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e417]: 
+                  - generic [ref=e418]: "4.6"
+                  - text: 
+                - link "76 Reviews" [ref=e419] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/thoughts2binary-consulting-and-solutions-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e421]:
+                - generic [ref=e423]:
+                  - text: 
+                  - generic "0-1 Yrs" [ref=e424]
+                - generic [ref=e426]:
+                  - text: 
+                  - generic "Gurugram" [ref=e427]
+              - generic [ref=e429]: " Job Description: Good understanding of Python / Django / Flask tech stack with exposur..."
+              - list [ref=e431]:
+                - listitem [ref=e432]: Application Programming
+                - listitem [ref=e433]: Github
+                - listitem [ref=e434]: Programming
+                - listitem [ref=e435]: Rest Api
+                - listitem [ref=e436]: Software Development
+                - listitem [ref=e437]: S3
+                - listitem [ref=e438]: OOPS
+                - listitem [ref=e439]: JSON
+              - generic [ref=e440]:
+                - generic [ref=e441]: 4 days ago
+                - generic [ref=e442]: save
+            - generic [ref=e444]:
+              - generic [ref=e445]:
+                - heading "Python Developer" [level=2] [ref=e446]:
+                  - link "Python Developer" [ref=e447] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-python-developer-exponential-ai-hyderabad-0-to-1-years-230626501653
+                - img [ref=e449]
+              - generic [ref=e451]:
+                - link "Exponential Ai Software Services" [ref=e452] [cursor=pointer]:
+                  - /url: https://www.naukri.com/exponential-ai-services-jobs-careers-124517218
+                - link " 4.9" [ref=e453] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/exponential-machine-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e454]: 
+                  - generic [ref=e455]: "4.9"
+                  - text: 
+                - link "3 Reviews" [ref=e456] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/exponential-machine-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e458]:
+                - generic [ref=e460]:
+                  - text: 
+                  - generic "0-1 Yrs" [ref=e461]
+                - generic [ref=e463]:
+                  - text: 
+                  - generic "Hyderabad" [ref=e464]
+              - generic [ref=e466]: " Education: Bachelor s degree in Computer Science, Engineering, or a related field. . Wh..."
+              - list [ref=e468]:
+                - listitem [ref=e469]: Computer science
+                - listitem [ref=e470]: Object oriented design
+                - listitem [ref=e471]: Backend
+                - listitem [ref=e472]: Front end
+                - listitem [ref=e473]: TDD
+                - listitem [ref=e474]: Django
+                - listitem [ref=e475]: MongoDB
+                - listitem [ref=e476]: Unit testing
+              - generic [ref=e477]:
+                - generic [ref=e478]: 4 days ago
+                - generic [ref=e479]: save
+            - generic [ref=e481] [cursor=pointer]:
+              - generic [ref=e482]:
+                - heading "Python Software Developer" [level=2] [ref=e483]:
+                  - link "Python Software Developer" [ref=e484]:
+                    - /url: https://www.naukri.com/job-listings-python-software-developer-ti-steps-hyderabad-chennai-bengaluru-0-to-1-years-281125019972
+                - img [ref=e486]
+              - generic [ref=e488]:
+                - link "ti Steps" [ref=e489]:
+                  - /url: https://www.naukri.com/ti-steps-jobs-careers-5853718
+                - link " 3.9" [ref=e490]:
+                  - /url: https://www.ambitionbox.com/reviews/ti-steps-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e491]: 
+                  - generic [ref=e492]: "3.9"
+                  - text: 
+                - link "19 Reviews" [ref=e493]:
+                  - /url: https://www.ambitionbox.com/reviews/ti-steps-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e495]:
+                - generic [ref=e497]:
+                  - text: 
+                  - generic "0-1 Yrs" [ref=e498]
+                - generic [ref=e500]:
+                  - text: 
+                  - generic "4.5-7.5 Lacs PA" [ref=e501]
+                - generic [ref=e503]:
+                  - text: 
+                  - generic "Bengaluru, Hyderabad, Chennai" [ref=e504]
+              - generic [ref=e506]:  About the RoleWe are looking for a skilled Python Developer to join our team. You will...
+              - list [ref=e508]:
+                - listitem [ref=e509]: Pandas
+                - listitem [ref=e510]: Python Development
+                - listitem [ref=e511]: Web Scraping
+                - listitem [ref=e512]: Docker
+                - listitem [ref=e513]: Django Framework
+                - listitem [ref=e514]: AWS
+                - listitem [ref=e515]: Numpy
+                - listitem [ref=e516]: SQL
+              - generic [ref=e517]:
+                - generic [ref=e518]: 4 days ago
+                - generic [ref=e519]: save
+            - generic [ref=e521]:
+              - generic [ref=e522]:
+                - heading "Python Software Developer" [level=2] [ref=e523]:
+                  - link "Python Software Developer" [ref=e524] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-python-software-developer-ti-steps-hyderabad-chennai-bengaluru-0-to-1-years-281125019597
+                - img [ref=e526]
+              - generic [ref=e528]:
+                - link "ti Steps" [ref=e529] [cursor=pointer]:
+                  - /url: https://www.naukri.com/ti-steps-jobs-careers-5853718
+                - link " 3.9" [ref=e530] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/ti-steps-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e531]: 
+                  - generic [ref=e532]: "3.9"
+                  - text: 
+                - link "19 Reviews" [ref=e533] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/ti-steps-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e535]:
+                - generic [ref=e537]:
+                  - text: 
+                  - generic "0-1 Yrs" [ref=e538]
+                - generic [ref=e540]:
+                  - text: 
+                  - generic "3.25-6.5 Lacs PA" [ref=e541]
+                - generic [ref=e543]:
+                  - text: 
+                  - generic "Bengaluru, Hyderabad, Chennai" [ref=e544]
+              - generic [ref=e546]:  About the RoleWe are looking for a skilled Python Developer to join our team. You will...
+              - list [ref=e548]:
+                - listitem [ref=e549]: Pandas
+                - listitem [ref=e550]: Django Framework
+                - listitem [ref=e551]: Python Development
+                - listitem [ref=e552]: AWS
+                - listitem [ref=e553]: Numpy
+                - listitem [ref=e554]: Web Scraping
+                - listitem [ref=e555]: Python
+                - listitem [ref=e556]: SQL
+              - generic [ref=e557]:
+                - generic [ref=e558]: 4 days ago
+                - generic [ref=e559]: save
+            - link [ref=e570] [cursor=pointer]:
+              - /url: https://www.naukri.com/campus/resume-maker?utm_source=desktop_SRP_banner&utm_medium=desktop&utm_campaign=resume_banner
+            - generic [ref=e573]:
+              - generic [ref=e574]:
+                - heading "Python Software Developer" [level=2] [ref=e575]:
+                  - link "Python Software Developer" [ref=e576] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-python-software-developer-ti-steps-hyderabad-chennai-bengaluru-0-to-1-years-171125011141
+                - img [ref=e578]
+              - generic [ref=e580]:
+                - link "ti Steps" [ref=e581] [cursor=pointer]:
+                  - /url: https://www.naukri.com/ti-steps-jobs-careers-5853718
+                - link " 3.9" [ref=e582] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/ti-steps-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e583]: 
+                  - generic [ref=e584]: "3.9"
+                  - text: 
+                - link "19 Reviews" [ref=e585] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/ti-steps-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e587]:
+                - generic [ref=e589]:
+                  - text: 
+                  - generic "0-1 Yrs" [ref=e590]
+                - generic [ref=e592]:
+                  - text: 
+                  - generic "3.5-6.5 Lacs PA" [ref=e593]
+                - generic [ref=e595]:
+                  - text: 
+                  - generic "Bengaluru, Hyderabad, Chennai" [ref=e596]
+              - generic [ref=e598]:  Experience with manual testing of web and / or mobile applications. Basic understanding...
+              - list [ref=e600]:
+                - listitem [ref=e601]: Python Development
+                - listitem [ref=e602]: Python
+                - listitem [ref=e603]: Pandas
+                - listitem [ref=e604]: Web Scraping
+                - listitem [ref=e605]: Numpy
+                - listitem [ref=e606]: SQL
+                - listitem [ref=e607]: Development
+                - listitem [ref=e608]: Software development
+              - generic [ref=e609]:
+                - generic [ref=e610]: 6 days ago
+                - generic [ref=e611]: save
+            - generic [ref=e613]:
+              - generic [ref=e614]:
+                - heading "Python Developer" [level=2] [ref=e615]:
+                  - link "Python Developer" [ref=e616] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-python-developer-technresources-ahmedabad-0-to-2-years-160626033616
+                - img [ref=e618]
+              - link "Technresources" [ref=e621] [cursor=pointer]:
+                - /url: https://www.naukri.com/technresources-jobs-careers-123465973
+              - generic [ref=e623]:
+                - generic [ref=e625]:
+                  - text: 
+                  - generic "0-2 Yrs" [ref=e626]
+                - generic [ref=e628]:
+                  - text: 
+                  - generic "2-4 Lacs PA" [ref=e629]
+                - generic [ref=e631]:
+                  - text: 
+                  - generic "Ahmedabad" [ref=e632]
+              - generic [ref=e634]: " Job Title: Python Developer Department: Engineering Industry: IT Services & Consultin..."
+              - list [ref=e636]:
+                - listitem [ref=e637]: Python
+                - listitem [ref=e638]: Rest
+                - listitem [ref=e639]: GIT
+                - listitem [ref=e640]: Docker
+                - listitem [ref=e641]: Django
+                - listitem [ref=e642]: Pandas
+                - listitem [ref=e643]: API
+                - listitem [ref=e644]: AWS
+              - generic [ref=e645]:
+                - generic [ref=e646]: 1 week ago
+                - generic [ref=e647]: save
+            - generic [ref=e648]:
+              - paragraph [ref=e649]:
+                - img "naukri filter icon" [ref=e650]
+                - generic [ref=e651]: Filter jobs by
+                - generic [ref=e652]: salary
+              - generic:
+                - generic [ref=e653] [cursor=pointer]:
+                  - generic [ref=e655]: 
+                  - generic [ref=e656]:
+                    - paragraph [ref=e657]: 0-3 Lakhs
+                    - paragraph [ref=e658]: 2094 Jobs
+                - generic [ref=e659] [cursor=pointer]:
+                  - generic [ref=e661]: 
+                  - generic [ref=e662]:
+                    - paragraph [ref=e663]: 3-6 Lakhs
+                    - paragraph [ref=e664]: 2679 Jobs
+                - generic [ref=e665] [cursor=pointer]:
+                  - generic [ref=e667]: 
+                  - generic [ref=e668]:
+                    - paragraph [ref=e669]: 6-10 Lakhs
+                    - paragraph [ref=e670]: 991 Jobs
+                - generic [ref=e671] [cursor=pointer]:
+                  - generic [ref=e673]: 
+                  - generic [ref=e674]:
+                    - paragraph [ref=e675]: 10-15 Lakhs
+                    - paragraph [ref=e676]: 230 Jobs
+            - generic [ref=e678]:
+              - generic [ref=e679]:
+                - heading "Python Developer" [level=2] [ref=e680]:
+                  - link "Python Developer" [ref=e681] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-python-developer-jobsmill-business-solutions-private-limited-hyderabad-0-to-3-years-140825022023
+                - img [ref=e683]
+              - link "Jobsmill" [ref=e686] [cursor=pointer]:
+                - /url: https://www.naukri.com/jobsmill-jobs-careers-1637226
+              - generic [ref=e688]:
+                - generic [ref=e690]:
+                  - text: 
+                  - generic "0-3 Yrs" [ref=e691]
+                - generic [ref=e693]:
+                  - text: 
+                  - generic "3-8 Lacs PA" [ref=e694]
+                - generic [ref=e696]:
+                  - text: 
+                  - generic "Hyderabad" [ref=e697]
+              - generic [ref=e699]: " Require Python Developers for our Client Exp: 0-3 years Location: Hyderabad Ping us on ..."
+              - list [ref=e701]:
+                - listitem [ref=e702]: Software Engineering
+                - listitem [ref=e703]: Python Development
+                - listitem [ref=e704]: Python
+                - listitem [ref=e705]: Development
+                - listitem [ref=e706]: Software
+                - listitem [ref=e707]: Engineering
+              - generic [ref=e708]:
+                - generic [ref=e709]: Few hours ago
+                - generic [ref=e710]: save
+            - generic [ref=e712]:
+              - generic [ref=e713]:
+                - heading "UC Python Developer" [level=2] [ref=e714]:
+                  - link "UC Python Developer" [ref=e715] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-uc-python-developer-zensar-bengaluru-0-to-2-years-180626020146
+                - img [ref=e717]
+              - generic [ref=e719]:
+                - link "Zensar" [ref=e720] [cursor=pointer]:
+                  - /url: https://www.naukri.com/zensar-jobs-careers-1405
+                - link " 3.7" [ref=e721] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/zensar-technologies-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e722]: 
+                  - generic [ref=e723]: "3.7"
+                  - text: 
+                - link "3041 Reviews" [ref=e724] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/zensar-technologies-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e726]:
+                - generic [ref=e728]:
+                  - text: 
+                  - generic "0-2 Yrs" [ref=e729]
+                - generic [ref=e731]:
+                  - text: 
+                  - generic "Bengaluru" [ref=e732]
+              - generic [ref=e734]:  Preferred candidate profile . Bachelors or Masters degree in Computer Science, Engineer...
+              - list [ref=e736]:
+                - listitem [ref=e737]: python
+                - listitem [ref=e738]: Shell Scripting
+                - listitem [ref=e739]: VOIP
+                - listitem [ref=e740]: SIP
+                - listitem [ref=e741]: Codecs
+                - listitem [ref=e742]: Github Copilot
+                - listitem [ref=e743]: Github
+                - listitem [ref=e744]: Scripting
+              - generic [ref=e745]:
+                - generic [ref=e746]: 1 week ago
+                - generic [ref=e747]: save
+            - generic [ref=e749]:
+              - generic [ref=e750]:
+                - heading "Python Developer" [level=2] [ref=e751]:
+                  - link "Python Developer" [ref=e752] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-python-developer-appzlogic-mobility-solutions-pvt-ltd-kolkata-mumbai-new-delhi-hyderabad-pune-chennai-bengaluru-0-to-3-years-121124502854
+                - img [ref=e754]
+              - generic [ref=e756]:
+                - link "Appzlogic" [ref=e757] [cursor=pointer]:
+                  - /url: https://www.naukri.com/appzlogic-jobs-careers-2243532
+                - link " 3.1" [ref=e758] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/appzlogic-mobility-solutions-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e759]: 
+                  - generic [ref=e760]: "3.1"
+                  - text: 
+                - link "40 Reviews" [ref=e761] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/appzlogic-mobility-solutions-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e763]:
+                - generic [ref=e765]:
+                  - text: 
+                  - generic "0-3 Yrs" [ref=e766]
+                - generic [ref=e768]:
+                  - text: 
+                  - generic "Bengaluru, Hyderabad, Pune, Kolkata, Mumbai, New Delhi, Chennai" [ref=e769]
+              - generic [ref=e771]:  Appzlogic Mobility Solutions Pvt Ltd is looking for Python Developer to join our dynami...
+              - list [ref=e773]:
+                - listitem [ref=e774]: python
+                - listitem [ref=e775]: css
+                - listitem [ref=e776]: c
+                - listitem [ref=e777]: software testing
+                - listitem [ref=e778]: natural language processing
+                - listitem [ref=e779]: python development
+                - listitem [ref=e780]: machine learning
+                - listitem [ref=e781]: artificial intelligence
+              - generic [ref=e782]:
+                - generic [ref=e783]: 3+ weeks ago
+                - generic [ref=e784]: save
+            - generic [ref=e785]:
+              - paragraph [ref=e786]:
+                - img "naukri filter icon" [ref=e787]
+                - generic [ref=e788]: Filter jobs by
+                - generic [ref=e789]: Top Companies
+              - generic:
+                - generic [ref=e790] [cursor=pointer]:
+                  - img "10476" [ref=e792]
+                  - generic [ref=e793]:
+                    - paragraph [ref=e794]: Accenture
+                    - paragraph [ref=e795]: 9 Jobs
+                - generic [ref=e796] [cursor=pointer]:
+                  - img "957140" [ref=e798]
+                  - generic [ref=e799]:
+                    - paragraph [ref=e800]: Bahwan CyberTek
+                    - paragraph [ref=e801]: 8 Jobs
+                - generic [ref=e802] [cursor=pointer]:
+                  - img "10472" [ref=e804]
+                  - generic [ref=e805]:
+                    - paragraph [ref=e806]: eClerx
+                    - paragraph [ref=e807]: 7 Jobs
+                - generic [ref=e808] [cursor=pointer]:
+                  - img "255614" [ref=e810]
+                  - generic [ref=e811]:
+                    - paragraph [ref=e812]: Google
+                    - paragraph [ref=e813]: 6 Jobs
+            - generic [ref=e815]:
+              - generic [ref=e816]:
+                - heading "Python Developer" [level=2] [ref=e817]:
+                  - link "Python Developer" [ref=e818] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-python-developer-consultit-noida-0-to-4-years-020724502596
+                - img [ref=e820]
+              - generic [ref=e822]:
+                - link "Consultit" [ref=e823] [cursor=pointer]:
+                  - /url: https://www.naukri.com/consultit-jobs-careers-124266640
+                - link " 4.5" [ref=e824] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/consultit-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e825]: 
+                  - generic [ref=e826]: "4.5"
+                  - text: 
+                - link "9 Reviews" [ref=e827] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/consultit-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e829]:
+                - generic [ref=e831]:
+                  - text: 
+                  - generic "0-4 Yrs" [ref=e832]
+                - generic [ref=e834]:
+                  - text: 
+                  - generic "Noida" [ref=e835]
+              - generic [ref=e837]:  ConsultIT is looking for Python Developer to join our dynamic team and embark on a rewa...
+              - list [ref=e839]:
+                - listitem [ref=e840]: python
+                - listitem [ref=e841]: css
+                - listitem [ref=e842]: c
+                - listitem [ref=e843]: software testing
+                - listitem [ref=e844]: natural language processing
+                - listitem [ref=e845]: python development
+                - listitem [ref=e846]: machine learning
+                - listitem [ref=e847]: artificial intelligence
+              - generic [ref=e848]:
+                - generic [ref=e849]: 3+ weeks ago
+                - generic [ref=e850]: save
+            - generic [ref=e852]:
+              - generic [ref=e853]:
+                - heading "Python Developer" [level=2] [ref=e854]:
+                  - link "Python Developer" [ref=e855] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-python-developer-speqto-technologies-pvt-ltd-noida-0-to-1-years-120424502463
+                - img [ref=e857]
+              - generic [ref=e859]:
+                - link "Speqto Technologies" [ref=e860] [cursor=pointer]:
+                  - /url: https://www.naukri.com/speqto-technologies-jobs-careers-5876258
+                - link " 4.3" [ref=e861] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/speqto-technologies-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e862]: 
+                  - generic [ref=e863]: "4.3"
+                  - text: 
+                - link "56 Reviews" [ref=e864] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/speqto-technologies-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e866]:
+                - generic [ref=e868]:
+                  - text: 
+                  - generic "0-1 Yrs" [ref=e869]
+                - generic [ref=e871]:
+                  - text: 
+                  - generic "Noida" [ref=e872]
+              - generic [ref=e874]:  Team spirit . Good problem-solving skills To be successful in this role, you should ha...
+              - list [ref=e876]:
+                - listitem [ref=e877]: Backend
+                - listitem [ref=e878]: CSS
+                - listitem [ref=e879]: Front end
+                - listitem [ref=e880]: Web services
+                - listitem [ref=e881]: HP data protector
+                - listitem [ref=e882]: Django
+                - listitem [ref=e883]: Debugging
+                - listitem [ref=e884]: Javascript
+              - generic [ref=e885]:
+                - generic [ref=e886]: 3+ weeks ago
+                - generic [ref=e887]: save
+            - generic [ref=e893]:
+              - generic [ref=e894]: Jobs based on your applies
+              - generic [ref=e896]:
+                - generic [ref=e897]:
+                  - generic [ref=e900] [cursor=pointer]:
+                    - generic [ref=e901]: Junior AI Builder
+                    - generic [ref=e903]: Predictive Data Sciences
+                    - generic [ref=e904]:
+                      - img [ref=e905]
+                      - generic [ref=e906]: Bengaluru, Delhi / NCR, Mumbai
+                  - generic [ref=e909] [cursor=pointer]:
+                    - generic [ref=e910]: Back-End Developer
+                    - generic [ref=e911]:
+                      - generic [ref=e912]: QCS Dc Labs
+                      - generic [ref=e913]:
+                        - generic [ref=e914]:
+                          - img [ref=e915]
+                          - text: "4.3"
+                        - generic [ref=e918]: 13 Reviews
+                    - generic [ref=e919]:
+                      - img [ref=e920]
+                      - generic [ref=e921]: Bengaluru, BTM 2nd Stage
+                  - generic [ref=e924] [cursor=pointer]:
+                    - generic [ref=e925]: Trainee Software Engineers - Freshers
+                    - generic [ref=e926]:
+                      - generic [ref=e927]: Razorthink
+                      - generic [ref=e928]:
+                        - generic [ref=e929]:
+                          - img [ref=e930]
+                          - text: "3.3"
+                        - generic [ref=e933]: 5 Reviews
+                    - generic [ref=e934]:
+                      - img [ref=e935]
+                      - generic [ref=e936]: Bengaluru
+                  - generic [ref=e939] [cursor=pointer]:
+                    - generic [ref=e940]: Business Analyst
+                    - generic [ref=e941]:
+                      - generic [ref=e942]: Incanus Technologies
+                      - generic [ref=e943]:
+                        - generic [ref=e944]:
+                          - img [ref=e945]
+                          - text: "3.3"
+                        - generic [ref=e948]: 10 Reviews
+                    - generic [ref=e949]:
+                      - img [ref=e950]
+                      - generic [ref=e951]: Hybrid - Bengaluru, Delhi / NCR, Pune
+                  - generic [ref=e954] [cursor=pointer]:
+                    - generic [ref=e955]: python, django, fresher , expereinced developer
+                    - generic [ref=e956]:
+                      - generic [ref=e957]: EXCELPTP
+                      - generic [ref=e958]:
+                        - generic [ref=e959]:
+                          - img [ref=e960]
+                          - text: "3.8"
+                        - generic [ref=e963]: 3 Reviews
+                    - generic [ref=e964]:
+                      - img [ref=e965]
+                      - generic [ref=e966]: Ahmedabad(Navrangpura)
+                  - generic [ref=e969] [cursor=pointer]:
+                    - generic [ref=e970]: Data Analytics Intern
+                    - generic [ref=e971]:
+                      - generic [ref=e972]: TP
+                      - generic [ref=e973]:
+                        - generic [ref=e974]:
+                          - img [ref=e975]
+                          - text: "3.9"
+                        - generic [ref=e978]: 39K Reviews
+                    - generic [ref=e979]:
+                      - img [ref=e980]
+                      - generic [ref=e981]: Gurugram
+                  - generic [ref=e984] [cursor=pointer]:
+                    - generic [ref=e985]: Graduate Engineer
+                    - generic [ref=e987]: Rvr Innovations
+                    - generic [ref=e988]:
+                      - img [ref=e989]
+                      - generic [ref=e990]: Bengaluru, Delhi / NCR, Pune
+                  - generic [ref=e993] [cursor=pointer]:
+                    - generic [ref=e994]: Android Developer (Internship + Permanent Role)
+                    - generic [ref=e995]:
+                      - generic [ref=e996]: Lufick
+                      - generic [ref=e997]:
+                        - generic [ref=e998]:
+                          - img [ref=e999]
+                          - text: "4.2"
+                        - generic [ref=e1002]: 8 Reviews
+                    - generic [ref=e1003]:
+                      - img [ref=e1004]
+                      - generic [ref=e1005]: Bengaluru, Delhi / NCR, Hyderabad
+                  - generic [ref=e1008] [cursor=pointer]:
+                    - generic [ref=e1009]: Software Engineer at A FinTech Company
+                    - generic [ref=e1011]: Talentzo Delhi
+                    - generic [ref=e1012]:
+                      - img [ref=e1013]
+                      - generic [ref=e1014]: Remote
+                  - generic [ref=e1017] [cursor=pointer]:
+                    - generic [ref=e1018]: Data Analyst Fresher , Data Analytics
+                    - generic [ref=e1020]: Apex Engineering Solutions
+                    - generic [ref=e1021]:
+                      - img [ref=e1022]
+                      - generic [ref=e1023]: Bengaluru, Delhi / NCR, Hyderabad
+                - button "Next slide" [ref=e1024] [cursor=pointer]
+            - generic [ref=e1026]:
+              - generic [ref=e1027]:
+                - heading "Python developer" [level=2] [ref=e1028]:
+                  - link "Python developer" [ref=e1029] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-python-developer-rexcel-it-services-pvt-ltd-greater-noida-0-to-2-years-101025503651
+                - img [ref=e1031]
+              - generic [ref=e1033]:
+                - link "Rexcel It Services" [ref=e1034] [cursor=pointer]:
+                  - /url: https://www.naukri.com/rexcel-it-services-jobs-careers-4379734
+                - link " 4.5" [ref=e1035] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/rexcel-it-services-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e1036]: 
+                  - generic [ref=e1037]: "4.5"
+                  - text: 
+                - link "6 Reviews" [ref=e1038] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/rexcel-it-services-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e1040]:
+                - generic [ref=e1042]:
+                  - text: 
+                  - generic "0-2 Yrs" [ref=e1043]
+                - generic [ref=e1045]:
+                  - text: 
+                  - generic "Greater Noida" [ref=e1046]
+              - generic [ref=e1048]:  Required Experience, Skills and Qualifications . Unix . Good Understanding of Object o...
+              - list [ref=e1050]:
+                - listitem [ref=e1051]: object oriented analysis
+                - listitem [ref=e1052]: algorithms
+                - listitem [ref=e1053]: css
+                - listitem [ref=e1054]: c++
+                - listitem [ref=e1055]: linux internals
+                - listitem [ref=e1056]: jquery
+                - listitem [ref=e1057]: sql
+                - listitem [ref=e1058]: scripting
+              - generic [ref=e1059]:
+                - generic [ref=e1060]: 3+ weeks ago
+                - generic [ref=e1061]: save
+            - generic [ref=e1067]:
+              - generic [ref=e1068]: How relevant do you find these jobs?
+              - generic [ref=e1069]:
+                - generic [ref=e1070] [cursor=pointer]:
+                  - img [ref=e1071]
+                  - generic [ref=e1072]: Not Useful
+                - generic [ref=e1073] [cursor=pointer]:
+                  - img [ref=e1074]
+                  - generic [ref=e1075]: Neutral
+                - generic [ref=e1076] [cursor=pointer]:
+                  - img [ref=e1077]
+                  - generic [ref=e1078]: Very Useful
+            - generic [ref=e1080]:
+              - generic [ref=e1081]:
+                - heading "Python Developer" [level=2] [ref=e1082]:
+                  - link "Python Developer" [ref=e1083] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-python-developer-algodom-media-llp-noida-0-to-2-years-140225501473
+                - img [ref=e1085]
+              - link "Byteview Technologies" [ref=e1088] [cursor=pointer]:
+                - /url: https://www.naukri.com/byteview-technologies-jobs-careers-5190042
+              - generic [ref=e1090]:
+                - generic [ref=e1092]:
+                  - text: 
+                  - generic "0-2 Yrs" [ref=e1093]
+                - generic [ref=e1095]:
+                  - text: 
+                  - generic "Noida" [ref=e1096]
+              - generic [ref=e1098]:  . Must have experience in REST API design, TDD, and best practices . Must have experien...
+              - list [ref=e1100]:
+                - listitem [ref=e1101]: GIT
+                - listitem [ref=e1102]: TDD
+                - listitem [ref=e1103]: Analytical
+                - listitem [ref=e1104]: Architectural design
+                - listitem [ref=e1105]: MySQL
+                - listitem [ref=e1106]: Javascript
+                - listitem [ref=e1107]: MVC
+                - listitem [ref=e1108]: Python
+              - generic [ref=e1109]:
+                - generic [ref=e1110]: 3+ weeks ago
+                - generic [ref=e1111]: save
+            - generic [ref=e1113]:
+              - generic [ref=e1114]:
+                - heading "Python Developer" [level=2] [ref=e1115]:
+                  - link "Python Developer" [ref=e1116] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-python-developer-billions-united-bengaluru-0-to-2-years-250725500803
+                - img [ref=e1118]
+              - link "Billions United" [ref=e1121] [cursor=pointer]:
+                - /url: https://www.naukri.com/billions-united-jobs-careers-4260502
+              - generic [ref=e1123]:
+                - generic [ref=e1125]:
+                  - text: 
+                  - generic "0-2 Yrs" [ref=e1126]
+                - generic [ref=e1128]:
+                  - text: 
+                  - generic "Bengaluru" [ref=e1129]
+              - generic [ref=e1131]:  We are looking for a passionate Python developer to join our team at Billions United. ...
+              - list [ref=e1133]:
+                - listitem [ref=e1134]: css
+                - listitem [ref=e1135]: scikit-learn
+                - listitem [ref=e1136]: nltk
+                - listitem [ref=e1137]: numpy
+                - listitem [ref=e1138]: sql
+                - listitem [ref=e1139]: spacy
+                - listitem [ref=e1140]: data science
+                - listitem [ref=e1141]: gcp
+              - generic [ref=e1142]:
+                - generic [ref=e1143]: 3+ weeks ago
+                - generic [ref=e1144]: save
+            - generic [ref=e1146]:
+              - generic [ref=e1147]:
+                - heading "Python Developer" [level=2] [ref=e1148]:
+                  - link "Python Developer" [ref=e1149] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-python-developer-virtue-software-technologies-private-limited-hyderabad-0-to-4-years-140725503018
+                - img [ref=e1151]
+              - generic [ref=e1153]:
+                - link "Virtue Software Technologies" [ref=e1154] [cursor=pointer]:
+                  - /url: https://www.naukri.com/virtue-technologies-jobs-careers-123634003
+                - link " 3.2" [ref=e1155] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/virtue-software-technologies-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e1156]: 
+                  - generic [ref=e1157]: "3.2"
+                  - text: 
+                - link "3 Reviews" [ref=e1158] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/virtue-software-technologies-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e1160]:
+                - generic [ref=e1162]:
+                  - text: 
+                  - generic "0-4 Yrs" [ref=e1163]
+                - generic [ref=e1165]:
+                  - text: 
+                  - generic "Hyderabad" [ref=e1166]
+              - generic [ref=e1168]: " . Job Requirement . Required Skills: . Strong foundation in . Python programming . Expo..."
+              - list [ref=e1170]:
+                - listitem [ref=e1171]: continuous integration
+                - listitem [ref=e1172]: css
+                - listitem [ref=e1173]: ci/cd
+                - listitem [ref=e1174]: artificial intelligence
+                - listitem [ref=e1175]: docker
+                - listitem [ref=e1176]: react.js
+                - listitem [ref=e1177]: tensorflow
+                - listitem [ref=e1178]: owasp zap
+              - generic [ref=e1179]:
+                - generic [ref=e1180]: 3+ weeks ago
+                - generic [ref=e1181]: save
+            - generic [ref=e1183]:
+              - generic [ref=e1184]:
+                - heading "Python Developer" [level=2] [ref=e1185]:
+                  - link "Python Developer" [ref=e1186] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-python-developer-hunter-tech-ventures-pvt-ltd-bengaluru-0-to-2-years-140524501680
+                - img [ref=e1188]
+              - link "Huntertech Ventures" [ref=e1191] [cursor=pointer]:
+                - /url: https://www.naukri.com/huntertech-ventures-jobs-careers-3113586
+              - generic [ref=e1193]:
+                - generic [ref=e1195]:
+                  - text: 
+                  - generic "0-2 Yrs" [ref=e1196]
+                - generic [ref=e1198]:
+                  - text: 
+                  - generic "Bengaluru" [ref=e1199]
+              - generic [ref=e1201]:  Hunter Tech Ventures Pvt Ltd is looking for Python Developer to join our dynamic team a...
+              - list [ref=e1203]:
+                - listitem [ref=e1204]: python
+                - listitem [ref=e1205]: css
+                - listitem [ref=e1206]: c
+                - listitem [ref=e1207]: software testing
+                - listitem [ref=e1208]: natural language processing
+                - listitem [ref=e1209]: python development
+                - listitem [ref=e1210]: machine learning
+                - listitem [ref=e1211]: artificial intelligence
+              - generic [ref=e1212]:
+                - generic [ref=e1213]: 3+ weeks ago
+                - generic [ref=e1214]: save
+            - generic [ref=e1216]:
+              - generic [ref=e1217]:
+                - heading "Python Developer" [level=2] [ref=e1218]:
+                  - link "Python Developer" [ref=e1219] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-python-developer-ocean-software-technologies-nagpur-bengaluru-0-to-1-years-290526508258
+                - img [ref=e1221]
+              - generic [ref=e1223]:
+                - link "Ocean Software Technologies" [ref=e1224] [cursor=pointer]:
+                  - /url: https://www.naukri.com/ocean-technologies-jobs-careers-4873466
+                - link " 4.5" [ref=e1225] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/ocean-software-technologies-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e1226]: 
+                  - generic [ref=e1227]: "4.5"
+                  - text: 
+                - link "14 Reviews" [ref=e1228] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/ocean-software-technologies-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e1230]:
+                - generic [ref=e1232]:
+                  - text: 
+                  - generic "0-1 Yrs" [ref=e1233]
+                - generic [ref=e1235]:
+                  - text: 
+                  - generic "Bengaluru, Nagpur" [ref=e1236]
+              - generic [ref=e1238]:  Ocean Software Technologies is looking for Python Developer to join our dynamic team an...
+              - list [ref=e1240]:
+                - listitem [ref=e1241]: rest
+                - listitem [ref=e1242]: python
+                - listitem [ref=e1243]: css
+                - listitem [ref=e1244]: github
+                - listitem [ref=e1245]: data processing
+                - listitem [ref=e1246]: python development
+                - listitem [ref=e1247]: machine learning
+                - listitem [ref=e1248]: javascript
+              - generic [ref=e1249]:
+                - generic [ref=e1250]: 3+ weeks ago
+                - generic [ref=e1251]: save
+            - generic [ref=e1253]:
+              - generic [ref=e1254]:
+                - heading "Python Developer" [level=2] [ref=e1255]:
+                  - link "Python Developer" [ref=e1256] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-python-developer-clerro-technologies-hyderabad-0-to-5-years-140225501883
+                - img [ref=e1258]
+              - link "Clerro Technologies" [ref=e1261] [cursor=pointer]:
+                - /url: https://www.naukri.com/clerro-technologies-jobs-careers-124626230
+              - generic [ref=e1263]:
+                - generic [ref=e1265]:
+                  - text: 
+                  - generic "0-5 Yrs" [ref=e1266]
+                - generic [ref=e1268]:
+                  - text: 
+                  - generic "Hyderabad" [ref=e1269]
+              - generic [ref=e1271]:  Bachelor s degree in Computer Science or a related field . .
+              - list [ref=e1273]:
+                - listitem [ref=e1274]: css
+                - listitem [ref=e1275]: jquery
+                - listitem [ref=e1276]: sql
+                - listitem [ref=e1277]: docker
+                - listitem [ref=e1278]: git
+                - listitem [ref=e1279]: postgresql
+                - listitem [ref=e1280]: linux
+                - listitem [ref=e1281]: oops
+              - generic [ref=e1282]:
+                - generic [ref=e1283]: 3+ weeks ago
+                - generic [ref=e1284]: save
+            - generic [ref=e1286]:
+              - generic [ref=e1287]:
+                - heading "Python Developer" [level=2] [ref=e1288]:
+                  - link "Python Developer" [ref=e1289] [cursor=pointer]:
+                    - /url: https://www.naukri.com/job-listings-python-developer-flying-lion-media-ahmedabad-0-to-3-years-111125502489
+                - img [ref=e1291]
+              - generic [ref=e1293]:
+                - link "Flying Lion Media" [ref=e1294] [cursor=pointer]:
+                  - /url: https://www.naukri.com/flying-lion-media-jobs-careers-5292516
+                - link " 2.5" [ref=e1295] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/flying-leoz-media-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+                  - generic [ref=e1296]: 
+                  - generic [ref=e1297]: "2.5"
+                  - text: 
+                - link "2 Reviews" [ref=e1298] [cursor=pointer]:
+                  - /url: https://www.ambitionbox.com/reviews/flying-leoz-media-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=5c54ac97da1240e9b8a55213d289a83d
+              - generic [ref=e1300]:
+                - generic [ref=e1302]:
+                  - text: 
+                  - generic "0-3 Yrs" [ref=e1303]
+                - generic [ref=e1305]:
+                  - text: 
+                  - generic "Ahmedabad" [ref=e1306]
+              - generic [ref=e1308]:  Coordinate with internal teams to understand user requirements and provide technical so...
+              - list [ref=e1310]:
+                - listitem [ref=e1311]: server
+                - listitem [ref=e1312]: css
+                - listitem [ref=e1313]: microsoft dynamics navision
+                - listitem [ref=e1314]: navision
+                - listitem [ref=e1315]: sql
+                - listitem [ref=e1316]: cal
+                - listitem [ref=e1317]: git
+                - listitem [ref=e1318]: microsoft dynamics nav
+              - generic [ref=e1319]:
+                - generic [ref=e1320]: 3+ weeks ago
+                - generic [ref=e1321]: save
+          - generic [ref=e1323]:
+            - generic:
+              - generic: 
+              - generic: Previous
+            - generic [ref=e1324]:
+              - link "1" [ref=e1325] [cursor=pointer]:
+                - /url: /python-developer-jobs-in-india
+              - link "2" [ref=e1326] [cursor=pointer]:
+                - /url: /python-developer-jobs-in-india-2
+              - link "3" [ref=e1327] [cursor=pointer]:
+                - /url: /python-developer-jobs-in-india-3
+              - link "4" [ref=e1328] [cursor=pointer]:
+                - /url: /python-developer-jobs-in-india-4
+              - link "5" [ref=e1329] [cursor=pointer]:
+                - /url: /python-developer-jobs-in-india-5
+              - link "6" [ref=e1330] [cursor=pointer]:
+                - /url: /python-developer-jobs-in-india-6
+              - link "7" [ref=e1331] [cursor=pointer]:
+                - /url: /python-developer-jobs-in-india-7
+              - link "8" [ref=e1332] [cursor=pointer]:
+                - /url: /python-developer-jobs-in-india-8
+              - link "9" [ref=e1333] [cursor=pointer]:
+                - /url: /python-developer-jobs-in-india-9
+              - link "10" [ref=e1334] [cursor=pointer]:
+                - /url: /python-developer-jobs-in-india-10
+            - link "Next " [ref=e1335] [cursor=pointer]:
+              - /url: /python-developer-jobs-in-india-2
+              - generic [ref=e1336]: Next
+              - generic [ref=e1337]: 
+          - generic [ref=e1338]:
+            - heading "Apply to 3125 Python Developer Jobs In India on Naukri.com" [level=2] [ref=e1339]
+            - generic [ref=e1340]:
+              - generic [ref=e1341]:
+                - generic [ref=e1342] [cursor=pointer]: Bangalore
+                - list [ref=e1344]:
+                  - listitem [ref=e1345]:
+                    - link "• Python And Django Developer Jobs In Bangalore" [ref=e1346] [cursor=pointer]:
+                      - /url: https://www.naukri.com/python-and-django-developer-jobs-in-bangalore
+                      - generic [ref=e1347]: •
+                      - text: Python And Django Developer Jobs In Bangalore
+                  - listitem [ref=e1348]:
+                    - link "• Software Developer Jobs In Bangalore" [ref=e1349] [cursor=pointer]:
+                      - /url: https://www.naukri.com/software-developer-jobs-in-bangalore
+                      - generic [ref=e1350]: •
+                      - text: Software Developer Jobs In Bangalore
+                  - listitem [ref=e1351]:
+                    - link "• Software Engineer Jobs In Bangalore" [ref=e1352] [cursor=pointer]:
+                      - /url: https://www.naukri.com/software-engineer-jobs-in-bangalore
+                      - generic [ref=e1353]: •
+                      - text: Software Engineer Jobs In Bangalore
+                  - listitem [ref=e1354]:
+                    - link "• Data Analyst Jobs In Bangalore" [ref=e1355] [cursor=pointer]:
+                      - /url: https://www.naukri.com/data-analyst-jobs-in-bangalore
+                      - generic [ref=e1356]: •
+                      - text: Data Analyst Jobs In Bangalore
+                  - listitem [ref=e1357]:
+                    - link "• Data Scientist Jobs In Bangalore" [ref=e1358] [cursor=pointer]:
+                      - /url: https://www.naukri.com/data-scientist-jobs-in-bangalore
+                      - generic [ref=e1359]: •
+                      - text: Data Scientist Jobs In Bangalore
+                  - listitem [ref=e1360]:
+                    - link "• System Engineer Jobs In Bangalore" [ref=e1361] [cursor=pointer]:
+                      - /url: https://www.naukri.com/system-engineer-jobs-in-bangalore
+                      - generic [ref=e1362]: •
+                      - text: System Engineer Jobs In Bangalore
+                  - listitem [ref=e1363]:
+                    - link "• Technical Lead Jobs In Bangalore" [ref=e1364] [cursor=pointer]:
+                      - /url: https://www.naukri.com/technical-lead-jobs-in-bangalore
+                      - generic [ref=e1365]: •
+                      - text: Technical Lead Jobs In Bangalore
+                  - listitem [ref=e1366]:
+                    - link "• Consultant Jobs In Bangalore" [ref=e1367] [cursor=pointer]:
+                      - /url: https://www.naukri.com/consultant-jobs-in-bangalore
+                      - generic [ref=e1368]: •
+                      - text: Consultant Jobs In Bangalore
+                  - listitem [ref=e1369]:
+                    - link "• Associate Jobs In Bangalore" [ref=e1370] [cursor=pointer]:
+                      - /url: https://www.naukri.com/associate-jobs-in-bangalore
+                      - generic [ref=e1371]: •
+                      - text: Associate Jobs In Bangalore
+                  - listitem [ref=e1372]:
+                    - link "• Business Analyst Jobs In Bangalore" [ref=e1373] [cursor=pointer]:
+                      - /url: https://www.naukri.com/business-analyst-jobs-in-bangalore
+                      - generic [ref=e1374]: •
+                      - text: Business Analyst Jobs In Bangalore
+              - generic [ref=e1376] [cursor=pointer]: Delhi NCR
+              - generic [ref=e1378] [cursor=pointer]: Hyderabad Secunderabad
+              - generic [ref=e1380] [cursor=pointer]: Mumbai
+              - generic [ref=e1382] [cursor=pointer]: Chennai
+              - generic [ref=e1384] [cursor=pointer]: All Jobs
+              - generic [ref=e1386] [cursor=pointer]: Top Companies
+          - list [ref=e1388]:
+            - listitem [ref=e1389]:
+              - link "Home" [ref=e1390] [cursor=pointer]:
+                - /url: https://www.naukri.com
+            - listitem [ref=e1391]:
+              - generic [ref=e1392]: 
+            - listitem [ref=e1393]:
+              - link "Jobs in india" [ref=e1394] [cursor=pointer]:
+                - /url: https://www.naukri.com/jobs-in-india
+            - listitem [ref=e1395]:
+              - generic [ref=e1396]: 
+            - listitem [ref=e1397]:
+              - link "Python Developer Jobs" [ref=e1398] [cursor=pointer]:
+                - /url: https://www.naukri.com/python-developer-jobs
+            - listitem [ref=e1399]:
+              - generic [ref=e1400]: 
+            - listitem [ref=e1401]: Python Developer Jobs In india
+      - status
+    - contentinfo [ref=e1403]:
+      - generic [ref=e1406]:
+        - generic [ref=e1407]:
+          - link "Naukri Campus Logo" [ref=e1408] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus
+            - img "Naukri Campus Logo" [ref=e1409]
+          - generic [ref=e1410]:
+            - generic "Connect with us" [ref=e1411] [cursor=pointer]
+            - link "naukri social icons" [ref=e1412] [cursor=pointer]:
+              - /url: https://www.facebook.com/firstnaukri
+              - img "naukri social icons" [ref=e1413]
+            - link "naukri social icons" [ref=e1414] [cursor=pointer]:
+              - /url: https://instagram.com/naukri_campus/
+              - img "naukri social icons" [ref=e1415]
+            - link "naukri social icons" [ref=e1416] [cursor=pointer]:
+              - /url: https://twitter.com/naukri_campus
+              - img "naukri social icons" [ref=e1417]
+            - link "naukri social icons" [ref=e1418] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/naukricampus
+              - img "naukri social icons" [ref=e1419]
+        - list [ref=e1421]:
+          - listitem [ref=e1422]:
+            - link "About us" [ref=e1423] [cursor=pointer]:
+              - /url: https://infoedge.in
+          - listitem [ref=e1424]:
+            - link "Careers" [ref=e1425] [cursor=pointer]:
+              - /url: https://careers.infoedge.com/
+          - listitem [ref=e1426]:
+            - link "Employer home" [ref=e1427] [cursor=pointer]:
+              - /url: https://www.firstnaukri.com/employer
+          - listitem [ref=e1428]:
+            - link "Sitemap" [ref=e1429] [cursor=pointer]:
+              - /url: https://www.naukri.com/sitemap/sitemap.php
+          - listitem [ref=e1430]:
+            - link "Credits" [ref=e1431] [cursor=pointer]:
+              - /url: https://www.naukri.com/credits
+        - list [ref=e1433]:
+          - listitem [ref=e1434]:
+            - link "Help center" [ref=e1435] [cursor=pointer]:
+              - /url: https://www.naukri.com/faq/job-seeker?utm_source=footer
+          - listitem [ref=e1436]:
+            - link "Summons/Notices" [ref=e1437] [cursor=pointer]:
+              - /url: https://w5.naukri.com/summons-notices-form/
+          - listitem [ref=e1438]:
+            - link "Grievances" [ref=e1439] [cursor=pointer]:
+              - /url: https://w5.naukri.com/grievances-form/
+          - listitem [ref=e1440]:
+            - link "Report issue" [ref=e1441] [cursor=pointer]:
+              - /url: https://w5.naukri.com/fdbck/main/feedback.php?app_id=15
+        - list [ref=e1443]:
+          - listitem [ref=e1444]:
+            - link "Privacy policy" [ref=e1445] [cursor=pointer]:
+              - /url: https://www.naukri.com/privacypolicy
+          - listitem [ref=e1446]:
+            - link "Terms & conditions" [ref=e1447] [cursor=pointer]:
+              - /url: https://www.naukri.com/termsconditions
+          - listitem [ref=e1448]:
+            - link "Fraud alert" [ref=e1449] [cursor=pointer]:
+              - /url: https://www.naukri.com/imposter/report-fake-job-recruiter
+          - listitem [ref=e1450]:
+            - link "Trust & safety" [ref=e1451] [cursor=pointer]:
+              - /url: https://www.naukri.com/jobsearch/trust-safety
+        - generic [ref=e1452]:
+          - generic [ref=e1453]: Apply on the go
+          - generic [ref=e1454]: Get real-time job updates on our App
+          - generic [ref=e1455]:
+            - link "naukri app download" [ref=e1456] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=naukriApp.appModules.login&hl=en&utm_source=naukri&utm_medium=footer
+              - img "naukri app download" [ref=e1457]
+            - link "naukri app download" [ref=e1458] [cursor=pointer]:
+              - /url: https://itunes.apple.com/in/app/naukri.com-job-search/id482877505?mt=8
+              - img "naukri app download" [ref=e1459]
+      - generic [ref=e1461]:
+        - generic [ref=e1462]:
+          - link "naukri social logos" [ref=e1464] [cursor=pointer]:
+            - /url: https://infoedge.in
+            - img "naukri social logos" [ref=e1465]
+          - generic [ref=e1466]:
+            - generic [ref=e1467]: All trademarks are the property of their respective owners
+            - generic [ref=e1468]: All rights reserved 2026 Info Edge (India) Ltd.
+        - generic [ref=e1469]: Our businesses
+        - list [ref=e1472]:
+          - listitem [ref=e1473]:
+            - link "nnacres" [ref=e1475] [cursor=pointer]:
+              - /url: https://www.99acres.com/
+              - img "nnacres" [ref=e1476]
+          - listitem [ref=e1477]:
+            - link "jeevansathi" [ref=e1479] [cursor=pointer]:
+              - /url: https://www.jeevansathi.com/
+              - img "jeevansathi" [ref=e1480]
+          - listitem [ref=e1481]:
+            - link "ng" [ref=e1483] [cursor=pointer]:
+              - /url: https://www.naukrigulf.com/
+              - img "ng" [ref=e1484]
+          - listitem [ref=e1485]:
+            - link "shiksha" [ref=e1487] [cursor=pointer]:
+              - /url: https://www.shiksha.com/
+              - img "shiksha" [ref=e1488]
+          - listitem [ref=e1489]:
+            - link "iimjobs" [ref=e1491] [cursor=pointer]:
+              - /url: https://www.iimjobs.com
+              - img "iimjobs" [ref=e1492]
+          - listitem [ref=e1493]:
+            - link "hirist" [ref=e1495] [cursor=pointer]:
+              - /url: https://www.hirist.com
+              - img "hirist" [ref=e1496]
+          - listitem [ref=e1497]:
+            - link "jobhai" [ref=e1499] [cursor=pointer]:
+              - /url: https://www.jobhai.com
+              - img "jobhai" [ref=e1500]
+          - listitem [ref=e1501]:
+            - link "Doselect" [ref=e1503] [cursor=pointer]:
+              - /url: https://doselect.com/
+              - img "Doselect" [ref=e1504]
+          - listitem [ref=e1505]:
+            - link "techminis" [ref=e1507] [cursor=pointer]:
+              - /url: https://techminis.com
+              - img "techminis" [ref=e1508]
+          - listitem [ref=e1509]:
+            - link "codingninjas" [ref=e1511] [cursor=pointer]:
+              - /url: https://www.codingninjas.com/?utm_source=naukri&utm_medium=desktop-footer
+              - img "codingninjas" [ref=e1512]
+  - alert [ref=e12]
+```

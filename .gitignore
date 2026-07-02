@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Runtime browser/session artifacts
+browser-profile/
+reports/
+*_state.md
+*_page.md
+*_form.md
+*_modal.md
+*_step*.md
+*_apply.md
+*_easyapply.md
+*_job.png
+*_state.png
+*_form.png
+
+.env
+
+jobs/
