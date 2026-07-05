@@ -1,7 +1,6 @@
-
-
 from src.tools.bash import bash
 from src.middleware.localcontext import ConversationSummaryMiddleware
+from langchain.agents.middleware import ContextEditingMiddleware, ClearToolUsesEdit
 
 import os 
 from dotenv import load_dotenv
@@ -13,7 +12,8 @@ from pathlib import Path
 from langgraph.checkpoint.memory import InMemorySaver
 from langgraph.store.memory import InMemoryStore
 from langchain_openai import ChatOpenAI
-from src.prompt import orchestrator_prompt
+from src.prompt import applier_prompt, orchestrator_prompt,Evaluator_prompt
+from src.middleware.stoponloop import RepetativeToolCall
 import uuid
 from deepagents.backends.filesystem import FilesystemBackend
 from src.tools.mcp import get_mcp_tools
@@ -42,12 +42,21 @@ def orchestrator(tools:List):
         tools = tools ,
         system_prompt=orchestrator_prompt,
         skills = [SKILLS_DIR],
-        checkpointer = checkpointer,             #short term memory
-        memory = ["memory/AGENT.md"],            #Long term memory
+        checkpointer = checkpointer,       #short term memory
+        # memory = ["memory/AGENT.md"],      #Long term memory
         backend=FilesystemBackend(root_dir = PROJECT_ROOT,virtual_mode=True),
         store=store,
         middleware=[
-            ConversationSummaryMiddleware(model=llm, keep_last=8),
+            # ConversationSummaryMiddleware(model=llm, keep_last=8),
+            RepetativeToolCall(),
+            ContextEditingMiddleware(
+            edits=[
+                ClearToolUsesEdit(
+                    trigger=100000,
+                    keep=5,
+                ),
+            ],
+        ),
         ],
         interrupt_on={
             "submit": True,
@@ -63,8 +72,16 @@ def orchestrator(tools:List):
             {
                 "name" : "applier",
                 "description": "use this tool  to peform all web related tasks such as web automation etc",
-                "system_prompt":"peform web tasks as tols by the user",
+                "system_prompt":applier_prompt,
                 "tools" : tools
+            },
+            {
+                "name" : "evaluator",
+                "description": "use this tool to evaluate the worker's performance",
+                "system_prompt":Evaluator_prompt,
+                "tools" : [bash],
+                "middleware":[ConversationSummaryMiddleware(model=llm, keep_last=8),
+                ]
             }
         ]
     )
@@ -74,7 +91,7 @@ class BrowserAgentRuntime:
     async def __aenter__(self):
         self._mcp_tools_context = get_mcp_tools()
         mcp_tools = await self._mcp_tools_context.__aenter__()
-        tools = [bash, *mcp_tools]
+        tools = [ *mcp_tools]
         self.agent = orchestrator(tools)
         self.config = {"configurable": {"thread_id": str(uuid.uuid4())}}
         return self
