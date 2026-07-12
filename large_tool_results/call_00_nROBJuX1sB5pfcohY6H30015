@@ -1,0 +1,2023 @@
+### Page
+- Page URL: https://www.naukri.com/mnjuser/homepage
+- Page Title: Fresher Jobs - Resume Builder Service - Interview Preparation - Naukri.com
+- Console: 2 errors, 2 warnings
+### Snapshot
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e6]:
+    - link [ref=e7] [cursor=pointer]:
+      - /url: https://www.naukri.com/campus
+      - img "Naukri Campus Logo" [ref=e8]
+    - navigation:
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - link "Prepare" [ref=e11] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/prepare?src=gnbPrepare
+          - generic:
+            - list:
+              - listitem:
+                - link "Rolesense":
+                  - /url: https://www.naukri.com/campus/rolesense?src=gnbPrepare
+              - listitem:
+                - link "NCAT":
+                  - /url: https://www.naukri.com/campus/ncat-aptitude-test?src=gnbPrepare
+              - listitem:
+                - link "Expert speak":
+                  - /url: https://www.naukri.com/campus/webinars?src=gnbPrepare
+              - listitem:
+                - link "Resume maker":
+                  - /url: https://www.naukri.com/campus/resume-maker?src=gnbPrepare
+              - listitem:
+                - link "Personalised interview Q/A":
+                  - /url: https://www.naukri.com/campus/interview-questions-and-answers?src=gnbPrepare
+              - listitem:
+                - link "Career guidance":
+                  - /url: https://www.naukri.com/campus/career-guidance?src=gnbPrepare
+              - listitem:
+                - link "Interview Experiences":
+                  - /url: https://www.naukri.com/campus/interview-experiences?src=gnbPrepare
+              - listitem:
+                - link "Speech assessment":
+                  - /url: https://www.naukri.com/campus/speech-assessment?src=gnbPrepare
+              - listitem:
+                - link "AI Prompt Mastery":
+                  - /url: https://www.naukri.com/campus/ai-prompt-mastery?src=gnbPrepare
+              - listitem:
+                - link "Daily quiz challenge":
+                  - /url: https://www.naukri.com/campus/qotd?src=gnbPrepare
+        - listitem [ref=e13]:
+          - link "Participate" [ref=e14] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/participate?src=gnbParticipate
+          - generic:
+            - list:
+              - listitem:
+                - link "Contests":
+                  - /url: https://www.naukri.com/campus/contests?src=gnbParticipate
+              - listitem:
+                - link "All India NCAT":
+                  - /url: https://www.naukri.com/campus/contests/all-india-online-aptitude-test?src=gnbParticipate
+              - listitem:
+                - link "Naukri Campus Young Turks":
+                  - /url: https://www.naukri.com/campus/contests/young-turks-skills-assessment-test?src=gnbParticipate
+              - listitem:
+                - link "Naukri Campus Squad":
+                  - /url: https://www.naukri.com/campus/ambassador-program?src=gnbParticipate
+              - listitem:
+                - link "Engineers' Ring of Honour":
+                  - /url: https://www.naukri.com/campus/contests/scholarship-for-engineering-students?src=gnbParticipate
+              - listitem:
+                - link "CareerVerse":
+                  - /url: https://www.naukri.com/campus/contests/career-fair-2026?src=gnbParticipate
+        - listitem [ref=e16]:
+          - link "Opportunities" [ref=e17] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/opportunities?src=gnbOpportunities
+          - generic:
+            - list:
+              - listitem:
+                - link "Recommended jobs":
+                  - /url: https://www.naukri.com/mnjuser/recommendedjobs?src=gnbOpportunities
+              - listitem:
+                - link "Job invites":
+                  - /url: https://www.naukri.com/mnjuser/inbox?src=gnbOpportunities
+              - listitem:
+                - link "Jobs from alerts":
+                  - /url: https://www.naukri.com/alert/merged?src=gnbOpportunities
+              - listitem:
+                - link "Application status":
+                  - /url: https://www.naukri.com/myapply/historypage?src=gnbOpportunities
+              - listitem:
+                - link "Saved jobs":
+                  - /url: https://www.naukri.com/mnjuser/savedjobs?src=gnbOpportunities
+    - generic [ref=e19] [cursor=pointer]:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - textbox "Select job type"
+              - generic: 
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - textbox "Enter keyword / designation / companies"
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - textbox "Enter location"
+      - generic [ref=e20]: Search jobs here
+      - button "" [ref=e21]
+    - generic [ref=e24] [cursor=pointer]:
+      - generic [ref=e25]: 
+      - generic: "8"
+    - generic [ref=e33] [cursor=pointer]:
+      - img "naukri user profile img" [ref=e34]
+      - generic [ref=e35]: "2"
+  - generic [ref=e38]:
+    - generic [ref=e39]:
+      - generic [ref=e42]:
+        - generic [ref=e43]:
+          - img "profile" [ref=e47]
+          - generic [ref=e48]: 50%
+        - generic [ref=e49]: Abhishek yadav
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - generic [ref=e53]: B.Tech / B.E. Computer Science and Engineering (CSE)
+            - generic [ref=e54]: "@ University of Petroleum and Energy Studies, Dehradun"
+          - paragraph [ref=e55]: Last updated 11d ago
+          - link "Complete profile" [ref=e57] [cursor=pointer]:
+            - /url: /mnjuser/profile
+        - generic [ref=e58]:
+          - generic [ref=e59]: Profile performance
+          - generic [ref=e61]:
+            - generic [ref=e62]:
+              - generic [ref=e63]: Search appearances
+              - link [ref=e64] [cursor=pointer]:
+                - /url: /mnjuser/performance
+            - generic [ref=e70]:
+              - generic [ref=e71]: Recruiter actions
+              - link [ref=e72] [cursor=pointer]:
+                - /url: /mnjuser/performance#recruiterActions
+      - generic [ref=e78]:
+        - generic [ref=e87]:
+          - link [ref=e89] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/contests/naukri-campus-creator-community-contest-event-36334?utm_source=dtop_small_banner
+          - link [ref=e92] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/ambassador-program?utm_source=dtop_small_banner
+          - link [ref=e95] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/contests/techquest-sharp-32-future-proof-skills-and-tech-careers-contest-event-34572?utm_source=dtop_small_banner
+          - link [ref=e98] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/contests/codequezt-sharp-32-coding-challenge-contest-event-34157?utm_source=dtop_small_banner
+          - link [ref=e101] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/contests/digiquezt-sharp-1-seo-and-sem-basics-contest-event-36479?utm_source=pwa_banner
+          - link [ref=e104] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/contests/codequezt-sharp-32-coding-challenge-contest-event-34157?utm_source=pwa_banner
+          - link [ref=e107] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/contests/naukri-campus-creator-community-contest-event-36334?utm_source=dtop_small_banner
+          - link [ref=e110] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/ambassador-program?utm_source=dtop_small_banner
+          - link [ref=e113] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/contests/techquest-sharp-32-future-proof-skills-and-tech-careers-contest-event-34572?utm_source=dtop_small_banner
+          - link [ref=e116] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/contests/codequezt-sharp-32-coding-challenge-contest-event-34157?utm_source=dtop_small_banner
+          - link [ref=e119] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/contests/digiquezt-sharp-1-seo-and-sem-basics-contest-event-36479?utm_source=pwa_banner
+          - link [ref=e122] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/contests/codequezt-sharp-32-coding-challenge-contest-event-34157?utm_source=pwa_banner
+          - link [ref=e125] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/contests/naukri-campus-creator-community-contest-event-36334?utm_source=dtop_small_banner
+          - link [ref=e128] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/ambassador-program?utm_source=dtop_small_banner
+          - link [ref=e131] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/contests/techquest-sharp-32-future-proof-skills-and-tech-careers-contest-event-34572?utm_source=dtop_small_banner
+          - link [ref=e134] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/contests/codequezt-sharp-32-coding-challenge-contest-event-34157?utm_source=dtop_small_banner
+          - link [ref=e137] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/contests/digiquezt-sharp-1-seo-and-sem-basics-contest-event-36479?utm_source=pwa_banner
+          - link [ref=e140] [cursor=pointer]:
+            - /url: https://www.naukri.com/campus/contests/codequezt-sharp-32-coding-challenge-contest-event-34157?utm_source=pwa_banner
+        - generic [ref=e142]:
+          - generic [ref=e143]:
+            - generic [ref=e144]: Recommended jobs for you
+            - link "View all" [ref=e145] [cursor=pointer]:
+              - /url: /mnjuser/recommendedjobs
+          - generic [ref=e146]:
+            - generic [ref=e147]:
+              - generic [ref=e148]:
+                - generic [ref=e149]: Applies (28)
+                - generic [ref=e152]: Profile (11)
+                - generic [ref=e155]: You might like (33)
+                - generic [ref=e158]: Preferences (0)
+              - separator [ref=e161]
+            - generic [ref=e162]:
+              - generic [ref=e164]:
+                - generic [ref=e167] [cursor=pointer]:
+                  - generic [ref=e168]:
+                    - img "Creative Hands HR" [ref=e170]
+                    - generic [ref=e171]: 4d ago
+                  - generic [ref=e172]:
+                    - generic [ref=e173]: Software-Java Developer
+                    - generic [ref=e174]: Creative Hands HR
+                    - generic [ref=e177]:
+                      - img "location" [ref=e178]
+                      - generic [ref=e179]: Bengaluru, Hyderabad, Chennai
+                - generic [ref=e182] [cursor=pointer]:
+                  - generic [ref=e183]:
+                    - img "Capgemini" [ref=e185]
+                    - generic [ref=e186]: 4d ago
+                  - generic [ref=e187]:
+                    - generic [ref=e188]: Software Engineer
+                    - generic [ref=e189]:
+                      - generic [ref=e190]: Capgemini
+                      - generic [ref=e191]:
+                        - img "rating" [ref=e192]
+                        - generic [ref=e193]: "3.6"
+                    - generic [ref=e195]:
+                      - img "location" [ref=e196]
+                      - generic [ref=e197]: Pune
+                - generic [ref=e200] [cursor=pointer]:
+                  - generic [ref=e201]:
+                    - img "Bitespeed" [ref=e203]
+                    - generic [ref=e204]: 2d ago
+                  - generic [ref=e205]:
+                    - generic [ref=e206]: L1 Product Support Engineer
+                    - generic [ref=e207]:
+                      - generic [ref=e208]: Bitespeed
+                      - generic [ref=e209]:
+                        - img "rating" [ref=e210]
+                        - generic [ref=e211]: "1.0"
+                    - generic [ref=e213]:
+                      - img "location" [ref=e214]
+                      - generic [ref=e215]: Bengaluru
+                - generic [ref=e218] [cursor=pointer]:
+                  - generic [ref=e219]:
+                    - img "Numerator" [ref=e221]
+                    - generic [ref=e222]: 2d ago
+                  - generic [ref=e223]:
+                    - generic [ref=e224]: Software Engineer
+                    - generic [ref=e225]:
+                      - generic [ref=e226]: Numerator
+                      - generic [ref=e227]:
+                        - img "rating" [ref=e228]
+                        - generic [ref=e229]: "3.9"
+                    - generic [ref=e231]:
+                      - img "location" [ref=e232]
+                      - generic [ref=e233]: Remote
+                - generic [ref=e236] [cursor=pointer]:
+                  - generic [ref=e237]:
+                    - img "Acciojob" [ref=e239]
+                    - generic [ref=e240]: 3d ago
+                  - generic [ref=e241]:
+                    - generic [ref=e242]: Fullstack Developer
+                    - generic [ref=e243]:
+                      - generic [ref=e244]: Acciojob
+                      - generic [ref=e245]:
+                        - img "rating" [ref=e246]
+                        - generic [ref=e247]: "3.5"
+                    - generic [ref=e249]:
+                      - img "location" [ref=e250]
+                      - generic [ref=e251]: Bengaluru
+                - generic [ref=e254] [cursor=pointer]:
+                  - generic [ref=e255]:
+                    - img "Amoga" [ref=e257]
+                    - generic [ref=e258]: 4d ago
+                  - generic [ref=e259]:
+                    - generic [ref=e260]: Software Engineer
+                    - generic [ref=e261]:
+                      - generic [ref=e262]: Amoga
+                      - generic [ref=e263]:
+                        - img "rating" [ref=e264]
+                        - generic [ref=e265]: "2.9"
+                    - generic [ref=e267]:
+                      - img "location" [ref=e268]
+                      - generic [ref=e269]: Bengaluru
+                - generic [ref=e272] [cursor=pointer]:
+                  - generic [ref=e273]:
+                    - img "EY" [ref=e275]
+                    - generic [ref=e276]: 2d ago
+                  - generic [ref=e277]:
+                    - generic [ref=e278]: DE-RCE-CCAR-CreditRisk-Tech-Analyst-GDSN02
+                    - generic [ref=e279]:
+                      - generic [ref=e280]: EY
+                      - generic [ref=e281]:
+                        - img "rating" [ref=e282]
+                        - generic [ref=e283]: "3.4"
+                    - generic [ref=e285]:
+                      - img "location" [ref=e286]
+                      - generic [ref=e287]: Bengaluru
+                - generic [ref=e290] [cursor=pointer]:
+                  - generic [ref=e291]:
+                    - img "ZS" [ref=e293]
+                    - generic [ref=e294]: 1d ago
+                  - generic [ref=e295]:
+                    - generic [ref=e296]: Business Technology Solutions Associate- SFDC
+                    - generic [ref=e297]:
+                      - generic [ref=e298]: ZS
+                      - generic [ref=e299]:
+                        - img "rating" [ref=e300]
+                        - generic [ref=e301]: "3.0"
+                    - generic [ref=e303]:
+                      - img "location" [ref=e304]
+                      - generic [ref=e305]: Gurugram, Pune
+                - generic [ref=e308] [cursor=pointer]:
+                  - generic [ref=e309]:
+                    - img "Experian" [ref=e311]
+                    - generic [ref=e312]: 5d ago
+                  - generic [ref=e313]:
+                    - generic [ref=e314]: Software Engineer
+                    - generic [ref=e315]:
+                      - generic [ref=e316]: Experian
+                      - generic [ref=e317]:
+                        - img "rating" [ref=e318]
+                        - generic [ref=e319]: "3.8"
+                    - generic [ref=e321]:
+                      - img "location" [ref=e322]
+                      - generic [ref=e323]: Hyderabad
+                - generic [ref=e326] [cursor=pointer]:
+                  - generic [ref=e327]:
+                    - img "Benovymed Healthcare" [ref=e329]
+                    - generic [ref=e330]: 3d ago
+                  - generic [ref=e331]:
+                    - generic [ref=e332]: Principal Data Scientist / Senior Data Scientist/Data Scientist - NLP
+                    - generic [ref=e333]: Benovymed Healthcare
+                    - generic [ref=e336]:
+                      - img "location" [ref=e337]
+                      - generic [ref=e338]: Faridabad
+                - generic [ref=e339]: View all jobs
+              - button "Next slide" [ref=e342] [cursor=pointer]
+        - generic [ref=e343]:
+          - generic [ref=e347]:
+            - generic [ref=e348]:
+              - paragraph [ref=e349]: Explore jobs by top companies
+              - generic [ref=e350] [cursor=pointer]: View all
+            - generic [ref=e352]:
+              - generic [ref=e354]:
+                - link "Oracle 3.3 6.7K+ reviews View jobs" [ref=e356] [cursor=pointer]:
+                  - /url: https://www.naukri.com/oracle-overview-18850?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e358]:
+                    - paragraph [ref=e359]: Oracle
+                    - generic [ref=e360]:
+                      - generic [ref=e361]: "3.3"
+                      - generic [ref=e363]: 6.7K+ reviews
+                  - generic [ref=e364]: View jobs
+                - link "AMERICAN EXPRESS 4.1 4K+ reviews View jobs" [ref=e366] [cursor=pointer]:
+                  - /url: https://www.naukri.com/american-express-overview-82242?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e368]:
+                    - paragraph [ref=e369]: AMERICAN EXPRESS
+                    - generic [ref=e370]:
+                      - generic [ref=e371]: "4.1"
+                      - generic [ref=e373]: 4K+ reviews
+                  - generic [ref=e374]: View jobs
+                - link "Reckitt 3.9 1.8K+ reviews View jobs" [ref=e376] [cursor=pointer]:
+                  - /url: https://www.naukri.com/reckitt-overview-717262?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e378]:
+                    - paragraph [ref=e379]: Reckitt
+                    - generic [ref=e380]:
+                      - generic [ref=e381]: "3.9"
+                      - generic [ref=e383]: 1.8K+ reviews
+                  - generic [ref=e384]: View jobs
+                - link "Ample Technologies 3.7 363 reviews View jobs" [ref=e386] [cursor=pointer]:
+                  - /url: https://www.naukri.com/ample-technologies-overview-144042?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e388]:
+                    - paragraph [ref=e389]: Ample Technologies
+                    - generic [ref=e390]:
+                      - generic [ref=e391]: "3.7"
+                      - generic [ref=e393]: 363 reviews
+                  - generic [ref=e394]: View jobs
+                - link "Datamatics 3.4 2.5K+ reviews View jobs" [ref=e396] [cursor=pointer]:
+                  - /url: https://www.naukri.com/datamatics-overview-315118?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e398]:
+                    - paragraph [ref=e399]: Datamatics
+                    - generic [ref=e400]:
+                      - generic [ref=e401]: "3.4"
+                      - generic [ref=e403]: 2.5K+ reviews
+                  - generic [ref=e404]: View jobs
+                - link "Deloitte Shared Services India 3.6 24K+ reviews View jobs" [ref=e406] [cursor=pointer]:
+                  - /url: https://www.naukri.com/deloitte-shared-services-india-overview-8206007?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e408]:
+                    - paragraph [ref=e409]: Deloitte Shared Services India
+                    - generic [ref=e410]:
+                      - generic [ref=e411]: "3.6"
+                      - generic [ref=e413]: 24K+ reviews
+                  - generic [ref=e414]: View jobs
+                - link "SMFG INDIA CREDIT COMPANY 3.9 6.1K+ reviews View jobs" [ref=e416] [cursor=pointer]:
+                  - /url: https://www.naukri.com/smfg-india-credit-company-overview-86414?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e418]:
+                    - paragraph [ref=e419]: SMFG INDIA CREDIT COMPANY
+                    - generic [ref=e420]:
+                      - generic [ref=e421]: "3.9"
+                      - generic [ref=e423]: 6.1K+ reviews
+                  - generic [ref=e424]: View jobs
+                - link "IDFC FIRST Bank 4.0 15.3K+ reviews View jobs" [ref=e426] [cursor=pointer]:
+                  - /url: https://www.naukri.com/idfc-first-bank-overview-2338674?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e428]:
+                    - paragraph [ref=e429]: IDFC FIRST Bank
+                    - generic [ref=e430]:
+                      - generic [ref=e431]: "4.0"
+                      - generic [ref=e433]: 15.3K+ reviews
+                  - generic [ref=e434]: View jobs
+                - link "UFO Moviez 3.0 205 reviews View jobs" [ref=e436] [cursor=pointer]:
+                  - /url: https://www.naukri.com/ufo-moviez-overview-1033534?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e438]:
+                    - paragraph [ref=e439]: UFO Moviez
+                    - generic [ref=e440]:
+                      - generic [ref=e441]: "3.0"
+                      - generic [ref=e443]: 205 reviews
+                  - generic [ref=e444]: View jobs
+                - link "Paras Health 4.1 2.5K+ reviews View jobs" [ref=e446] [cursor=pointer]:
+                  - /url: https://www.naukri.com/paras-health-overview-8882741?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e448]:
+                    - paragraph [ref=e449]: Paras Health
+                    - generic [ref=e450]:
+                      - generic [ref=e451]: "4.1"
+                      - generic [ref=e453]: 2.5K+ reviews
+                  - generic [ref=e454]: View jobs
+                - link "Sharda University 3.7 381 reviews View jobs" [ref=e456] [cursor=pointer]:
+                  - /url: https://www.naukri.com/sharda-university-overview-247350?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e458]:
+                    - paragraph [ref=e459]: Sharda University
+                    - generic [ref=e460]:
+                      - generic [ref=e461]: "3.7"
+                      - generic [ref=e463]: 381 reviews
+                  - generic [ref=e464]: View jobs
+                - link "Tata Capital 4.0 5.9K+ reviews View jobs" [ref=e466] [cursor=pointer]:
+                  - /url: https://www.naukri.com/tata-capital-overview-172058?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e468]:
+                    - paragraph [ref=e469]: Tata Capital
+                    - generic [ref=e470]:
+                      - generic [ref=e471]: "4.0"
+                      - generic [ref=e473]: 5.9K+ reviews
+                  - generic [ref=e474]: View jobs
+                - link "Unichem Laboratories 3.7 1.4K+ reviews View jobs" [ref=e476] [cursor=pointer]:
+                  - /url: https://www.naukri.com/unichem-laboratories-overview-276124?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e478]:
+                    - paragraph [ref=e479]: Unichem Laboratories
+                    - generic [ref=e480]:
+                      - generic [ref=e481]: "3.7"
+                      - generic [ref=e483]: 1.4K+ reviews
+                  - generic [ref=e484]: View jobs
+                - link "K Raheja Corp 4.2 855 reviews View jobs" [ref=e486] [cursor=pointer]:
+                  - /url: https://www.naukri.com/k-raheja-corp-overview-410908?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e488]:
+                    - paragraph [ref=e489]: K Raheja Corp
+                    - generic [ref=e490]:
+                      - generic [ref=e491]: "4.2"
+                      - generic [ref=e493]: 855 reviews
+                  - generic [ref=e494]: View jobs
+                - link "Fortis 4.1 2.6K+ reviews View jobs" [ref=e496] [cursor=pointer]:
+                  - /url: https://www.naukri.com/fortis-overview-533010?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e498]:
+                    - paragraph [ref=e499]: Fortis
+                    - generic [ref=e500]:
+                      - generic [ref=e501]: "4.1"
+                      - generic [ref=e503]: 2.6K+ reviews
+                  - generic [ref=e504]: View jobs
+                - link "Hatsun Agro Product 3.8 1.4K+ reviews View jobs" [ref=e506] [cursor=pointer]:
+                  - /url: https://www.naukri.com/hatsun-agro-product-overview-2945110?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e508]:
+                    - paragraph [ref=e509]: Hatsun Agro Product
+                    - generic [ref=e510]:
+                      - generic [ref=e511]: "3.8"
+                      - generic [ref=e513]: 1.4K+ reviews
+                  - generic [ref=e514]: View jobs
+                - link "Navneet Education 4.3 62 reviews View jobs" [ref=e516] [cursor=pointer]:
+                  - /url: https://www.naukri.com/navneet-education-overview-4614173?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e518]:
+                    - paragraph [ref=e519]: Navneet Education
+                    - generic [ref=e520]:
+                      - generic [ref=e521]: "4.3"
+                      - generic [ref=e523]: 62 reviews
+                  - generic [ref=e524]: View jobs
+                - link "TVS Electronics 3.6 699 reviews View jobs" [ref=e526] [cursor=pointer]:
+                  - /url: https://www.naukri.com/tvs-electronics-overview-644370?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e528]:
+                    - paragraph [ref=e529]: TVS Electronics
+                    - generic [ref=e530]:
+                      - generic [ref=e531]: "3.6"
+                      - generic [ref=e533]: 699 reviews
+                  - generic [ref=e534]: View jobs
+                - link "VFS Global 3.4 1.4K+ reviews View jobs" [ref=e536] [cursor=pointer]:
+                  - /url: https://www.naukri.com/vfs-global-overview-1426254?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e538]:
+                    - paragraph [ref=e539]: VFS Global
+                    - generic [ref=e540]:
+                      - generic [ref=e541]: "3.4"
+                      - generic [ref=e543]: 1.4K+ reviews
+                  - generic [ref=e544]: View jobs
+                - link "Star Union Dai ichi Life Insurance (SUD Life) 3.8 2.3K+ reviews View jobs" [ref=e546] [cursor=pointer]:
+                  - /url: https://www.naukri.com/star-union-dai-ichi-life-insurance-sud-life-overview-4630969?tab=jobs&src=nc_homepage_srch&experience=0
+                  - generic [ref=e548]:
+                    - paragraph [ref=e549]: Star Union Dai ichi Life Insurance (SUD Life)
+                    - generic [ref=e550]:
+                      - generic [ref=e551]: "3.8"
+                      - generic [ref=e553]: 2.3K+ reviews
+                  - generic [ref=e554]: View jobs
+              - button "Next slide" [ref=e555] [cursor=pointer]
+          - generic [ref=e559]:
+            - generic [ref=e560]:
+              - generic [ref=e561]:
+                - heading "Just a few minutes to master essential skills" [level=2] [ref=e562]
+                - paragraph [ref=e563]: Quick daily quizzes designed to help you prepare & practice for topics essential for placement
+              - generic [ref=e564] [cursor=pointer]: Explore now
+            - generic [ref=e566]:
+              - generic [ref=e568]:
+                - generic [ref=e570]:
+                  - img "icon" [ref=e572]
+                  - generic [ref=e573]:
+                    - generic [ref=e574]:
+                      - heading "Data Structures & Algorithms" [level=3] [ref=e575]
+                      - generic [ref=e576]:
+                        - generic [ref=e577]: Problem Solving
+                        - generic [ref=e578]: Algorithms
+                        - generic [ref=e579]: Data Structures
+                    - generic [ref=e580]:
+                      - generic [ref=e581]:
+                        - button "Start now" [ref=e582] [cursor=pointer]
+                        - button "View details" [ref=e583] [cursor=pointer]
+                      - generic [ref=e584]:
+                        - img "participants" [ref=e585]
+                        - generic [ref=e586]: +1.9k have started
+                - generic [ref=e588]:
+                  - img "icon" [ref=e590]
+                  - generic [ref=e591]:
+                    - generic [ref=e592]:
+                      - heading "Aptitude" [level=3] [ref=e593]
+                      - generic [ref=e594]:
+                        - generic [ref=e595]: Quant
+                        - generic [ref=e596]: LRDI
+                        - generic [ref=e597]: VARC
+                    - generic [ref=e598]:
+                      - generic [ref=e599]:
+                        - button "Start now" [ref=e600] [cursor=pointer]
+                        - button "View details" [ref=e601] [cursor=pointer]
+                      - generic [ref=e602]:
+                        - img "participants" [ref=e603]
+                        - generic [ref=e604]: +1.4k have started
+                - generic [ref=e606]:
+                  - img "icon" [ref=e608]
+                  - generic [ref=e609]:
+                    - generic [ref=e610]:
+                      - heading "SQL" [level=3] [ref=e611]
+                      - generic [ref=e612]:
+                        - generic [ref=e613]: Queries
+                        - generic [ref=e614]: Joins
+                        - generic [ref=e615]: Databases
+                    - generic [ref=e616]:
+                      - generic [ref=e617]:
+                        - button "Start now" [ref=e618] [cursor=pointer]
+                        - button "View details" [ref=e619] [cursor=pointer]
+                      - generic [ref=e620]:
+                        - img "participants" [ref=e621]
+                        - generic [ref=e622]: +910 have started
+                - generic [ref=e624]:
+                  - img "icon" [ref=e626]
+                  - generic [ref=e627]:
+                    - generic [ref=e628]:
+                      - heading "Accounting" [level=3] [ref=e629]
+                      - generic [ref=e630]:
+                        - generic [ref=e631]: Bookkeeping
+                        - generic [ref=e632]: Taxation
+                        - generic [ref=e633]: Financial Statements
+                    - generic [ref=e634]:
+                      - generic [ref=e635]:
+                        - button "Start now" [ref=e636] [cursor=pointer]
+                        - button "View details" [ref=e637] [cursor=pointer]
+                      - generic [ref=e638]:
+                        - img "participants" [ref=e639]
+                        - generic [ref=e640]: +293 have started
+              - button "Next slide" [ref=e641] [cursor=pointer]
+          - generic [ref=e645]:
+            - generic [ref=e647]:
+              - img "Pathfinder" [ref=e648]
+              - heading [level=2] [ref=e649]:
+                - paragraph [ref=e650]: Discover the career path that's right for you!
+                - link "Explore more" [ref=e651] [cursor=pointer]:
+                  - /url: /campus/rolesense
+              - paragraph [ref=e653]: Explore roles, check your readiness, and succeed with a personalised learning plan
+            - generic [ref=e654]:
+              - button "All" [ref=e655] [cursor=pointer]
+              - button "B.Tech / B.E." [ref=e656] [cursor=pointer]
+              - button "B.Com" [ref=e657] [cursor=pointer]
+              - button "B.Sc" [ref=e658] [cursor=pointer]
+              - button "B.A - Bachelor of Arts" [ref=e659] [cursor=pointer]
+              - button "B.C.A." [ref=e660] [cursor=pointer]
+              - button "B.B.A. / B.M.S." [ref=e661] [cursor=pointer]
+              - button "B.Pharma" [ref=e662] [cursor=pointer]
+              - button "LLB - Bachelor of Laws" [ref=e663] [cursor=pointer]
+              - button "BHM /BHMCT" [ref=e664] [cursor=pointer]
+            - generic [ref=e667]:
+              - generic [ref=e669]:
+                - generic [ref=e671] [cursor=pointer]:
+                  - generic [ref=e672]:
+                    - heading "Product Manager" [level=3] [ref=e673]
+                    - paragraph [ref=e674]: Internet, IT / Software / Hardware
+                  - generic [ref=e675]:
+                    - generic [ref=e676]:
+                      - paragraph [ref=e677]: Avg. Salary
+                      - paragraph [ref=e678]: ₹8 LPA
+                    - generic [ref=e679]:
+                      - paragraph [ref=e680]: Key Skills
+                      - paragraph [ref=e682]: User Empathy, Research, Market Research, Communication, Collaboration, Analytical Skills, Prioritization
+                    - generic [ref=e683]:
+                      - paragraph [ref=e684]: Hiring companies
+                      - generic [ref=e685]:
+                        - img "Company logo 1" [ref=e686]
+                        - img "Company logo 2" [ref=e687]
+                        - img "Company logo 3" [ref=e688]
+                        - img "Company logo 4" [ref=e689]
+                  - generic [ref=e690]: Learn more about this role
+                - generic [ref=e693] [cursor=pointer]:
+                  - generic [ref=e694]: "Popularity: 🔥 high"
+                  - generic [ref=e696]:
+                    - heading "Software Development Engineer Testing" [level=3] [ref=e697]
+                    - paragraph [ref=e698]: IT services and consulting company
+                  - generic [ref=e699]:
+                    - generic [ref=e700]:
+                      - paragraph [ref=e701]: Avg. Salary
+                      - paragraph [ref=e702]: ₹4 LPA
+                    - generic [ref=e703]:
+                      - paragraph [ref=e704]: Key Skills
+                      - paragraph [ref=e706]: Test Automation, Manual Testing, Problem-Solving, Attention to Detail, Communication
+                    - generic [ref=e707]:
+                      - paragraph [ref=e708]: Hiring companies
+                      - generic [ref=e709]:
+                        - img "Company logo 1" [ref=e710]
+                        - img "Company logo 2" [ref=e711]
+                        - img "Company logo 3" [ref=e712]
+                        - img "Company logo 4" [ref=e713]
+                  - generic [ref=e714]:
+                    - generic [ref=e715]: Take readiness test
+                    - link "Know more" [ref=e716]:
+                      - /url: /campus/rolesense/Software-Development-Engineer-Testing-6
+                - generic [ref=e718] [cursor=pointer]:
+                  - generic [ref=e719]:
+                    - heading "Software Development Engineer Testing" [level=3] [ref=e720]
+                    - paragraph [ref=e721]: Internet/ E-Commerce company
+                  - generic [ref=e722]:
+                    - generic [ref=e723]:
+                      - paragraph [ref=e724]: Avg. Salary
+                      - paragraph [ref=e725]: ₹3 LPA
+                    - generic [ref=e726]:
+                      - paragraph [ref=e727]: Key Skills
+                      - paragraph [ref=e729]: Test Automation, Manual Testing, Problem-Solving, Attention to Detail, Communication
+                    - generic [ref=e730]:
+                      - paragraph [ref=e731]: Hiring companies
+                      - generic [ref=e732]:
+                        - img "Company logo 1" [ref=e733]
+                        - img "Company logo 2" [ref=e734]
+                        - img "Company logo 3" [ref=e735]
+                        - img "Company logo 4" [ref=e736]
+                  - generic [ref=e737]:
+                    - generic [ref=e738]: Take readiness test
+                    - link "Know more" [ref=e739]:
+                      - /url: /campus/rolesense/Software-Development-Engineer-Testing-9
+                - generic [ref=e741] [cursor=pointer]:
+                  - generic [ref=e742]:
+                    - heading "Software Development Engineer Testing" [level=3] [ref=e743]
+                    - paragraph [ref=e744]: Startup company
+                  - generic [ref=e745]:
+                    - generic [ref=e746]:
+                      - paragraph [ref=e747]: Avg. Salary
+                      - paragraph [ref=e748]: ₹4 LPA
+                    - generic [ref=e749]:
+                      - paragraph [ref=e750]: Key Skills
+                      - paragraph [ref=e752]: Test Automation, Manual Testing, Problem-Solving, Attention to Detail, Communication
+                    - generic [ref=e753]:
+                      - paragraph [ref=e754]: Hiring companies
+                      - generic [ref=e755]:
+                        - img "Company logo 1" [ref=e756]
+                        - img "Company logo 2" [ref=e757]
+                        - img "Company logo 3" [ref=e758]
+                        - img "Company logo 4" [ref=e759]
+                  - generic [ref=e760]:
+                    - generic [ref=e761]: Take readiness test
+                    - link "Know more" [ref=e762]:
+                      - /url: /campus/rolesense/Software-Development-Engineer-Testing-11
+                - generic [ref=e764] [cursor=pointer]:
+                  - generic [ref=e765]: "Popularity: 🔥 high"
+                  - generic [ref=e767]:
+                    - heading "Software Development Engineer Testing" [level=3] [ref=e768]
+                    - paragraph [ref=e769]: Software Product company
+                  - generic [ref=e770]:
+                    - generic [ref=e771]:
+                      - paragraph [ref=e772]: Avg. Salary
+                      - paragraph [ref=e773]: ₹4 LPA
+                    - generic [ref=e774]:
+                      - paragraph [ref=e775]: Key Skills
+                      - paragraph [ref=e777]: Test Automation, Manual Testing, Problem-Solving, Attention to Detail, Communication
+                    - generic [ref=e778]:
+                      - paragraph [ref=e779]: Hiring companies
+                      - generic [ref=e780]:
+                        - img "Company logo 1" [ref=e781]
+                        - img "Company logo 2" [ref=e782]
+                        - img "Company logo 3" [ref=e783]
+                        - img "Company logo 4" [ref=e784]
+                  - generic [ref=e785]:
+                    - generic [ref=e786]: Take readiness test
+                    - link "Know more" [ref=e787]:
+                      - /url: /campus/rolesense/Software-Development-Engineer-Testing-3
+                - generic [ref=e789] [cursor=pointer]:
+                  - generic [ref=e790]:
+                    - heading "Software Development Engineer Testing" [level=3] [ref=e791]
+                    - paragraph [ref=e792]: GCC company
+                  - generic [ref=e793]:
+                    - generic [ref=e794]:
+                      - paragraph [ref=e795]: Avg. Salary
+                      - paragraph [ref=e796]: ₹4 LPA
+                    - generic [ref=e797]:
+                      - paragraph [ref=e798]: Key Skills
+                      - paragraph [ref=e800]: Test Automation, Manual Testing, Problem-Solving, Attention to Detail, Communication
+                    - generic [ref=e801]:
+                      - paragraph [ref=e802]: Hiring companies
+                      - generic [ref=e803]:
+                        - img "Company logo 1" [ref=e804]
+                        - img "Company logo 2" [ref=e805]
+                        - img "Company logo 3" [ref=e806]
+                        - img "Company logo 4" [ref=e807]
+                  - generic [ref=e808]:
+                    - generic [ref=e809]: Take readiness test
+                    - link "Know more" [ref=e810]:
+                      - /url: /campus/rolesense/Software-Development-Engineer-Testing-13
+                - generic [ref=e812] [cursor=pointer]:
+                  - generic [ref=e813]: "Popularity: 🔥 high"
+                  - generic [ref=e815]:
+                    - heading "Operations Trainee Technology" [level=3] [ref=e816]
+                    - paragraph [ref=e817]: IT / Software / Hardware, Education & EdTech, BPO/ITES/KPO
+                  - generic [ref=e818]:
+                    - generic [ref=e819]:
+                      - paragraph [ref=e820]: Avg. Salary
+                      - paragraph [ref=e821]: ₹3 LPA
+                    - generic [ref=e822]:
+                      - paragraph [ref=e823]: Key Skills
+                      - paragraph [ref=e825]: Technical Aptitude, Problem-Solving, Communication, Data Analysis, Organizational Skills
+                    - generic [ref=e826]:
+                      - paragraph [ref=e827]: Hiring companies
+                      - generic [ref=e828]:
+                        - img "Company logo 1" [ref=e829]
+                        - img "Company logo 2" [ref=e830]
+                        - img "Company logo 3" [ref=e831]
+                        - img "Company logo 4" [ref=e832]
+                  - generic [ref=e833]: Learn more about this role
+                - generic [ref=e836] [cursor=pointer]:
+                  - generic [ref=e837]:
+                    - heading "Software Development Engineer" [level=3] [ref=e838]
+                    - paragraph [ref=e839]: Software Product company
+                  - generic [ref=e840]:
+                    - generic [ref=e841]:
+                      - paragraph [ref=e842]: Avg. Salary
+                      - paragraph [ref=e843]: ₹5 LPA
+                    - generic [ref=e844]:
+                      - paragraph [ref=e845]: Key Skills
+                      - paragraph [ref=e847]: Data Structures, Algorithms, DSA, Programming, Problem-Solving, Version Control (Git), Debugging Skills
+                    - generic [ref=e848]:
+                      - paragraph [ref=e849]: Hiring companies
+                      - generic [ref=e850]:
+                        - img "Company logo 1" [ref=e851]
+                        - img "Company logo 2" [ref=e852]
+                        - img "Company logo 3" [ref=e853]
+                        - img "Company logo 4" [ref=e854]
+                  - generic [ref=e855]:
+                    - generic [ref=e856]: Take readiness test
+                    - link "Know more" [ref=e857]:
+                      - /url: /campus/rolesense/Software-Development-Engineer-1
+                - generic [ref=e859] [cursor=pointer]:
+                  - generic [ref=e860]:
+                    - heading "Software Development Engineer" [level=3] [ref=e861]
+                    - paragraph [ref=e862]: IT services and consulting company
+                  - generic [ref=e863]:
+                    - generic [ref=e864]:
+                      - paragraph [ref=e865]: Avg. Salary
+                      - paragraph [ref=e866]: ₹4 LPA
+                    - generic [ref=e867]:
+                      - paragraph [ref=e868]: Key Skills
+                      - paragraph [ref=e870]: Data Structures, Algorithms, DSA, Programming, Problem-Solving, Version Control (Git), Debugging Skills
+                    - generic [ref=e871]:
+                      - paragraph [ref=e872]: Hiring companies
+                      - generic [ref=e873]:
+                        - img "Company logo 1" [ref=e874]
+                        - img "Company logo 2" [ref=e875]
+                        - img "Company logo 3" [ref=e876]
+                        - img "Company logo 4" [ref=e877]
+                  - generic [ref=e878]:
+                    - generic [ref=e879]: Take readiness test
+                    - link "Know more" [ref=e880]:
+                      - /url: /campus/rolesense/Software-Development-Engineer-5
+                - generic [ref=e882] [cursor=pointer]:
+                  - generic [ref=e883]:
+                    - heading "Software Development Engineer" [level=3] [ref=e884]
+                    - paragraph [ref=e885]: Internet/ E-Commerce company
+                  - generic [ref=e886]:
+                    - generic [ref=e887]:
+                      - paragraph [ref=e888]: Avg. Salary
+                      - paragraph [ref=e889]: ₹9 LPA
+                    - generic [ref=e890]:
+                      - paragraph [ref=e891]: Key Skills
+                      - paragraph [ref=e893]: Data Structures, Algorithms, DSA, Programming, Problem-Solving, Version Control (Git), Debugging Skills
+                    - generic [ref=e894]:
+                      - paragraph [ref=e895]: Hiring companies
+                      - generic [ref=e896]:
+                        - img "Company logo 1" [ref=e897]
+                        - img "Company logo 2" [ref=e898]
+                        - img "Company logo 3" [ref=e899]
+                        - img "Company logo 4" [ref=e900]
+                  - generic [ref=e901]:
+                    - generic [ref=e902]: Take readiness test
+                    - link "Know more" [ref=e903]:
+                      - /url: /campus/rolesense/Software-Development-Engineer-8
+                - generic [ref=e905] [cursor=pointer]:
+                  - generic [ref=e906]:
+                    - heading "Software Development Engineer" [level=3] [ref=e907]
+                    - paragraph [ref=e908]: Startup company
+                  - generic [ref=e909]:
+                    - generic [ref=e910]:
+                      - paragraph [ref=e911]: Avg. Salary
+                      - paragraph [ref=e912]: ₹7 LPA
+                    - generic [ref=e913]:
+                      - paragraph [ref=e914]: Key Skills
+                      - paragraph [ref=e916]: Data Structures, Algorithms, DSA, Programming, Problem-Solving, Version Control (Git), Debugging Skills
+                    - generic [ref=e917]:
+                      - paragraph [ref=e918]: Hiring companies
+                      - generic [ref=e919]:
+                        - img "Company logo 1" [ref=e920]
+                        - img "Company logo 2" [ref=e921]
+                        - img "Company logo 3" [ref=e922]
+                        - img "Company logo 4" [ref=e923]
+                  - generic [ref=e924]:
+                    - generic [ref=e925]: Take readiness test
+                    - link "Know more" [ref=e926]:
+                      - /url: /campus/rolesense/Software-Development-Engineer-10
+                - generic [ref=e928] [cursor=pointer]:
+                  - generic [ref=e929]:
+                    - heading "Software Development Engineer" [level=3] [ref=e930]
+                    - paragraph [ref=e931]: GCC company
+                  - generic [ref=e932]:
+                    - generic [ref=e933]:
+                      - paragraph [ref=e934]: Avg. Salary
+                      - paragraph [ref=e935]: ₹12 LPA
+                    - generic [ref=e936]:
+                      - paragraph [ref=e937]: Key Skills
+                      - paragraph [ref=e939]: Data Structures, Algorithms, DSA, Programming, Problem-Solving, Version Control (Git), Debugging Skills
+                    - generic [ref=e940]:
+                      - paragraph [ref=e941]: Hiring companies
+                      - generic [ref=e942]:
+                        - img "Company logo 1" [ref=e943]
+                        - img "Company logo 2" [ref=e944]
+                        - img "Company logo 3" [ref=e945]
+                        - img "Company logo 4" [ref=e946]
+                  - generic [ref=e947]:
+                    - generic [ref=e948]: Take readiness test
+                    - link "Know more" [ref=e949]:
+                      - /url: /campus/rolesense/Software-Development-Engineer-12
+                - generic [ref=e951] [cursor=pointer]:
+                  - generic [ref=e952]:
+                    - heading "DevOps Engineer" [level=3] [ref=e953]
+                    - paragraph [ref=e954]: IT / Software / Hardware
+                  - generic [ref=e955]:
+                    - generic [ref=e956]:
+                      - paragraph [ref=e957]: Avg. Salary
+                      - paragraph [ref=e958]: ₹4 LPA
+                    - generic [ref=e959]:
+                      - paragraph [ref=e960]: Key Skills
+                      - paragraph [ref=e962]: Linux Fundamentals, Scripting, Cloud Computing, AWS, Azure, GCP, CI/CD Tools, Jenkins, GitLab, Version Control (Git), Containerization, Docker, Kubernetes
+                    - generic [ref=e963]:
+                      - paragraph [ref=e964]: Hiring companies
+                      - generic [ref=e965]:
+                        - img "Company logo 1" [ref=e966]
+                        - img "Company logo 2" [ref=e967]
+                        - img "Company logo 3" [ref=e968]
+                        - img "Company logo 4" [ref=e969]
+                  - generic [ref=e970]: Learn more about this role
+                - generic [ref=e973] [cursor=pointer]:
+                  - generic [ref=e974]:
+                    - heading "Production Trainee" [level=3] [ref=e975]
+                    - paragraph [ref=e976]: Power, Oil & Gas, Steel & cement, Defence & Aerospace, Manufacturing, E-commerce / Retail / FMCG /FMCD, IT / Software / Hardware, Textile and apperal, Automobile, Medical services, Healthcare and Pharmaceuticals, Construction/ Real estate, Electronics and Electrical, Industrial Automation, Chemical & fertilizers
+                  - generic [ref=e977]:
+                    - generic [ref=e978]:
+                      - paragraph [ref=e979]: Avg. Salary
+                      - paragraph [ref=e980]: ₹2 LPA
+                    - generic [ref=e981]:
+                      - paragraph [ref=e982]: Key Skills
+                      - paragraph [ref=e984]: Technical Knowledge (manufacturing processes), Problem-Solving, Attention to Detail, Communication, Teamwork, Safety Awareness
+                    - generic [ref=e985]:
+                      - paragraph [ref=e986]: Hiring companies
+                      - generic [ref=e987]:
+                        - img "Company logo 1" [ref=e988]
+                        - img "Company logo 2" [ref=e989]
+                        - img "Company logo 3" [ref=e990]
+                        - img "Company logo 4" [ref=e991]
+                  - generic [ref=e992]: Learn more about this role
+                - generic [ref=e995] [cursor=pointer]:
+                  - generic [ref=e996]:
+                    - heading "Hardware & Network Engineer" [level=3] [ref=e997]
+                    - paragraph [ref=e998]: Automobile, IT / Software / Hardware, Manufacturing, Construction/ Real estate, Electronics and Electrical
+                  - generic [ref=e999]:
+                    - generic [ref=e1000]:
+                      - paragraph [ref=e1001]: Avg. Salary
+                      - paragraph [ref=e1002]: ₹3 LPA
+                    - generic [ref=e1003]:
+                      - paragraph [ref=e1004]: Key Skills
+                      - paragraph [ref=e1006]: Networking Fundamentals, Operating Systems, Hardware Troubleshooting, Network Security Basics, Scripting (Python)
+                    - generic [ref=e1007]:
+                      - paragraph [ref=e1008]: Hiring companies
+                      - generic [ref=e1009]:
+                        - img "Company logo 1" [ref=e1010]
+                        - img "Company logo 2" [ref=e1011]
+                        - img "Company logo 3" [ref=e1012]
+                        - img "Company logo 4" [ref=e1013]
+                  - generic [ref=e1014]: Learn more about this role
+                - generic [ref=e1017] [cursor=pointer]:
+                  - generic [ref=e1018]:
+                    - heading "Civil Engineer Trainee" [level=3] [ref=e1019]
+                    - paragraph [ref=e1020]: Construction/ Real estate
+                  - generic [ref=e1021]:
+                    - generic [ref=e1022]:
+                      - paragraph [ref=e1023]: Avg. Salary
+                      - paragraph [ref=e1024]: ₹3 LPA
+                    - generic [ref=e1025]:
+                      - paragraph [ref=e1026]: Key Skills
+                      - paragraph [ref=e1028]: Technical Knowledge (materials design), AutoCAD, Communication, Teamwork, Problem-Solving, Project Management
+                    - generic [ref=e1029]:
+                      - paragraph [ref=e1030]: Hiring companies
+                      - generic [ref=e1031]:
+                        - img "Company logo 1" [ref=e1032]
+                        - img "Company logo 2" [ref=e1033]
+                        - img "Company logo 3" [ref=e1034]
+                        - img "Company logo 4" [ref=e1035]
+                  - generic [ref=e1036]: Learn more about this role
+                - generic [ref=e1039] [cursor=pointer]:
+                  - generic [ref=e1040]: "Popularity: 🔥 high"
+                  - generic [ref=e1042]:
+                    - heading "Mechanical Engineer" [level=3] [ref=e1043]
+                    - paragraph [ref=e1044]: Automobile, Steel & cement, Manufacturing, Construction/ Real estate
+                  - generic [ref=e1045]:
+                    - generic [ref=e1046]:
+                      - paragraph [ref=e1047]: Avg. Salary
+                      - paragraph [ref=e1048]: ₹3 LPA
+                    - generic [ref=e1049]:
+                      - paragraph [ref=e1050]: Key Skills
+                      - paragraph [ref=e1052]: CAD Software (SolidWorks), Fundamentals of Mechanics, Analytical, Mathematics, Problem-Solving, Teamwork
+                    - generic [ref=e1053]:
+                      - paragraph [ref=e1054]: Hiring companies
+                      - generic [ref=e1055]:
+                        - img "Company logo 1" [ref=e1056]
+                        - img "Company logo 2" [ref=e1057]
+                        - img "Company logo 3" [ref=e1058]
+                        - img "Company logo 4" [ref=e1059]
+                  - generic [ref=e1060]: Learn more about this role
+                - generic [ref=e1063] [cursor=pointer]:
+                  - generic [ref=e1064]:
+                    - heading "Business Analyst Trainee" [level=3] [ref=e1065]
+                    - paragraph [ref=e1066]: IT / Software / Hardware
+                  - generic [ref=e1067]:
+                    - generic [ref=e1068]:
+                      - paragraph [ref=e1069]: Avg. Salary
+                      - paragraph [ref=e1070]: ₹5 LPA
+                    - generic [ref=e1071]:
+                      - paragraph [ref=e1072]: Key Skills
+                      - paragraph [ref=e1074]: Data Analysis, Visualization, Problem-Solving, Critical Thinking, Communication, Interpersonal Skills, Requirement Elicitation, MS Office, Presentation Skills
+                    - generic [ref=e1075]:
+                      - paragraph [ref=e1076]: Hiring companies
+                      - generic [ref=e1077]:
+                        - img "Company logo 1" [ref=e1078]
+                        - img "Company logo 2" [ref=e1079]
+                        - img "Company logo 3" [ref=e1080]
+                        - img "Company logo 4" [ref=e1081]
+                  - generic [ref=e1082]: Learn more about this role
+                - generic [ref=e1085] [cursor=pointer]:
+                  - generic [ref=e1086]: "Popularity: 🔥 high"
+                  - generic [ref=e1088]:
+                    - heading "Data Analyst" [level=3] [ref=e1089]
+                    - paragraph [ref=e1090]: Internet, BPO/ITES/KPO, IT / Software / Hardware
+                  - generic [ref=e1091]:
+                    - generic [ref=e1092]:
+                      - paragraph [ref=e1093]: Avg. Salary
+                      - paragraph [ref=e1094]: ₹4 LPA
+                    - generic [ref=e1095]:
+                      - paragraph [ref=e1096]: Key Skills
+                      - paragraph [ref=e1098]: SQL, Microsoft Excel, Data Visualization, Tableau, Power BI, Critical Thinking, Statistical Programming, Python, R
+                    - generic [ref=e1099]:
+                      - paragraph [ref=e1100]: Hiring companies
+                      - generic [ref=e1101]:
+                        - img "Company logo 1" [ref=e1102]
+                        - img "Company logo 2" [ref=e1103]
+                        - img "Company logo 3" [ref=e1104]
+                        - img "Company logo 4" [ref=e1105]
+                  - generic [ref=e1106]: Learn more about this role
+                - generic [ref=e1109] [cursor=pointer]:
+                  - generic [ref=e1110]:
+                    - heading "Electrical & Electronics Engineer" [level=3] [ref=e1111]
+                    - paragraph [ref=e1112]: Construction/ Real estate, Manufacturing, Electronics and Electrical
+                  - generic [ref=e1113]:
+                    - generic [ref=e1114]:
+                      - paragraph [ref=e1115]: Avg. Salary
+                      - paragraph [ref=e1116]: ₹3 LPA
+                    - generic [ref=e1117]:
+                      - paragraph [ref=e1118]: Key Skills
+                      - paragraph [ref=e1120]: Circuit Design, Circuit Analysis, Programming, Technical Software (MATLAB), Problem-Solving, Knowledge of Microcontrollers
+                    - generic [ref=e1121]:
+                      - paragraph [ref=e1122]: Hiring companies
+                      - generic [ref=e1123]:
+                        - img "Company logo 1" [ref=e1124]
+                        - img "Company logo 2" [ref=e1125]
+                        - img "Company logo 3" [ref=e1126]
+                        - img "Company logo 4" [ref=e1127]
+                  - generic [ref=e1128]: Learn more about this role
+                - generic [ref=e1131] [cursor=pointer]:
+                  - generic [ref=e1132]:
+                    - heading "Data Science & Machine Learning Scientist" [level=3] [ref=e1133]
+                    - paragraph [ref=e1134]: IT / Software / Hardware
+                  - generic [ref=e1135]:
+                    - generic [ref=e1136]:
+                      - paragraph [ref=e1137]: Avg. Salary
+                      - paragraph [ref=e1138]: ₹5 LPA
+                    - generic [ref=e1139]:
+                      - paragraph [ref=e1140]: Key Skills
+                      - paragraph [ref=e1142]: Programming, Python, R, Statistics, Mathematics, Machine Learning Algorithms, Data Wrangling, Data Visualization.
+                    - generic [ref=e1143]:
+                      - paragraph [ref=e1144]: Hiring companies
+                      - generic [ref=e1145]:
+                        - img "Company logo 1" [ref=e1146]
+                        - img "Company logo 2" [ref=e1147]
+                        - img "Company logo 3" [ref=e1148]
+                        - img "Company logo 4" [ref=e1149]
+                  - generic [ref=e1150]: Learn more about this role
+                - generic [ref=e1153] [cursor=pointer]:
+                  - generic [ref=e1154]:
+                    - heading "Cyber Security Trainee" [level=3] [ref=e1155]
+                    - paragraph [ref=e1156]: IT / Software / Hardware
+                  - generic [ref=e1157]:
+                    - generic [ref=e1158]:
+                      - paragraph [ref=e1159]: Avg. Salary
+                      - paragraph [ref=e1160]: ₹4 LPA
+                    - generic [ref=e1161]:
+                      - paragraph [ref=e1162]: Key Skills
+                      - paragraph [ref=e1164]: Network Fundamentals, Operating Systems, Programming, Python, Critical Thinking, Incident Response Awareness
+                    - generic [ref=e1165]:
+                      - paragraph [ref=e1166]: Hiring companies
+                      - generic [ref=e1167]:
+                        - img "Company logo 1" [ref=e1168]
+                        - img "Company logo 2" [ref=e1169]
+                        - img "Company logo 3" [ref=e1170]
+                        - img "Company logo 4" [ref=e1171]
+                  - generic [ref=e1172]: Learn more about this role
+                - generic [ref=e1175] [cursor=pointer]:
+                  - generic [ref=e1176]:
+                    - heading "Quality Engineer Trainee" [level=3] [ref=e1177]
+                    - paragraph [ref=e1178]: Automobile
+                  - generic [ref=e1179]:
+                    - generic [ref=e1180]:
+                      - paragraph [ref=e1181]: Avg. Salary
+                      - paragraph [ref=e1182]: ₹3 LPA
+                    - generic [ref=e1183]:
+                      - paragraph [ref=e1184]: Key Skills
+                      - paragraph [ref=e1186]: ISO, Analytical, Problem-Solving, Attention to Detail, Documentation Skills, Communication
+                    - generic [ref=e1187]:
+                      - paragraph [ref=e1188]: Hiring companies
+                      - generic [ref=e1189]:
+                        - img "Company logo 1" [ref=e1190]
+                        - img "Company logo 2" [ref=e1191]
+                        - img "Company logo 3" [ref=e1192]
+                        - img "Company logo 4" [ref=e1193]
+                  - generic [ref=e1194]: Learn more about this role
+                - generic [ref=e1197] [cursor=pointer]:
+                  - generic [ref=e1198]:
+                    - heading "Project Engineer Trainee" [level=3] [ref=e1199]
+                    - paragraph [ref=e1200]: Construction/ Real estate
+                  - generic [ref=e1201]:
+                    - generic [ref=e1202]:
+                      - paragraph [ref=e1203]: Avg. Salary
+                      - paragraph [ref=e1204]: ₹5 LPA
+                    - generic [ref=e1205]:
+                      - paragraph [ref=e1206]: Key Skills
+                      - paragraph [ref=e1208]: Project Planning, Technical Knowledge, Problem-Solving, Communication, Organizational Skills
+                    - generic [ref=e1209]:
+                      - paragraph [ref=e1210]: Hiring companies
+                      - generic [ref=e1211]:
+                        - img "Company logo 1" [ref=e1212]
+                        - img "Company logo 2" [ref=e1213]
+                        - img "Company logo 3" [ref=e1214]
+                  - generic [ref=e1215]: Learn more about this role
+                - generic [ref=e1218] [cursor=pointer]:
+                  - generic [ref=e1219]:
+                    - heading "Environmental Engineering Trainee" [level=3] [ref=e1220]
+                    - paragraph [ref=e1221]: Construction/ Real estate, Manufacturing
+                  - generic [ref=e1222]:
+                    - generic [ref=e1223]:
+                      - paragraph [ref=e1224]: Avg. Salary
+                      - paragraph [ref=e1225]: ₹3 LPA
+                    - generic [ref=e1226]:
+                      - paragraph [ref=e1227]: Key Skills
+                      - paragraph [ref=e1229]: Environmental Regulations, GIS (Geographic Information Systems), Water & Wastewater Treatment, Data Analysis, Communication, Report Writing
+                    - generic [ref=e1230]:
+                      - paragraph [ref=e1231]: Hiring companies
+                      - generic [ref=e1232]:
+                        - img "Company logo 1" [ref=e1233]
+                        - img "Company logo 2" [ref=e1234]
+                  - generic [ref=e1235]: Learn more about this role
+                - generic [ref=e1238] [cursor=pointer]:
+                  - generic [ref=e1239]: "Popularity: 🔥 high"
+                  - generic [ref=e1241]:
+                    - heading "Sales Trainee" [level=3] [ref=e1242]
+                    - paragraph [ref=e1243]: All Industries
+                  - generic [ref=e1244]:
+                    - generic [ref=e1245]:
+                      - paragraph [ref=e1246]: Avg. Salary
+                      - paragraph [ref=e1247]: ₹3 LPA
+                    - generic [ref=e1248]:
+                      - paragraph [ref=e1249]: Key Skills
+                      - paragraph [ref=e1251]: Communication, Interpersonal Skills, Active Listening, Negotiation, Persuasion, Resilience, Product Knowledge, Customer Service Excellence
+                    - generic [ref=e1252]:
+                      - paragraph [ref=e1253]: Hiring companies
+                      - generic [ref=e1254]:
+                        - img "Company logo 1" [ref=e1255]
+                        - img "Company logo 2" [ref=e1256]
+                        - img "Company logo 3" [ref=e1257]
+                        - img "Company logo 4" [ref=e1258]
+                  - generic [ref=e1259]: Learn more about this role
+                - generic [ref=e1262] [cursor=pointer]:
+                  - generic [ref=e1263]:
+                    - heading "Operations Trainee" [level=3] [ref=e1264]
+                    - paragraph [ref=e1265]: All Industries
+                  - generic [ref=e1266]:
+                    - generic [ref=e1267]:
+                      - paragraph [ref=e1268]: Avg. Salary
+                      - paragraph [ref=e1269]: ₹3 LPA
+                    - generic [ref=e1270]:
+                      - paragraph [ref=e1271]: Key Skills
+                      - paragraph [ref=e1273]: Organizational, Time Management, Problem-Solving, Communication, Data Analysis, Adaptability
+                    - generic [ref=e1274]:
+                      - paragraph [ref=e1275]: Hiring companies
+                      - generic [ref=e1276]:
+                        - img "Company logo 1" [ref=e1277]
+                        - img "Company logo 2" [ref=e1278]
+                        - img "Company logo 3" [ref=e1279]
+                        - img "Company logo 4" [ref=e1280]
+                  - generic [ref=e1281]: Learn more about this role
+                - generic [ref=e1284] [cursor=pointer]:
+                  - generic [ref=e1285]:
+                    - heading "Customer Service Executive" [level=3] [ref=e1286]
+                    - paragraph [ref=e1287]: BPO/ITES/KPO, IT / Software / Hardware
+                  - generic [ref=e1288]:
+                    - generic [ref=e1289]:
+                      - paragraph [ref=e1290]: Avg. Salary
+                      - paragraph [ref=e1291]: ₹3 LPA
+                    - generic [ref=e1292]:
+                      - paragraph [ref=e1293]: Key Skills
+                      - paragraph [ref=e1295]: Active Listening, Empathy, Problem-Solving, Clear Communication, Patience, Composure, Product/Service Knowledge
+                    - generic [ref=e1296]:
+                      - paragraph [ref=e1297]: Hiring companies
+                      - generic [ref=e1298]:
+                        - img "Company logo 1" [ref=e1299]
+                        - img "Company logo 2" [ref=e1300]
+                        - img "Company logo 3" [ref=e1301]
+                        - img "Company logo 4" [ref=e1302]
+                  - generic [ref=e1303]: Learn more about this role
+                - generic [ref=e1306] [cursor=pointer]:
+                  - generic [ref=e1307]: "Popularity: 🔥 high"
+                  - generic [ref=e1309]:
+                    - heading "Administration & Staff Trainee" [level=3] [ref=e1310]
+                    - paragraph [ref=e1311]: All Industries
+                  - generic [ref=e1312]:
+                    - generic [ref=e1313]:
+                      - paragraph [ref=e1314]: Avg. Salary
+                      - paragraph [ref=e1315]: ₹3 LPA
+                    - generic [ref=e1316]:
+                      - paragraph [ref=e1317]: Key Skills
+                      - paragraph [ref=e1319]: Organizational Management, Time Management, Communication, Attention to Detail, Problem-Solving, MS Office
+                    - generic [ref=e1320]:
+                      - paragraph [ref=e1321]: Hiring companies
+                      - generic [ref=e1322]:
+                        - img "Company logo 1" [ref=e1323]
+                        - img "Company logo 2" [ref=e1324]
+                        - img "Company logo 3" [ref=e1325]
+                        - img "Company logo 4" [ref=e1326]
+                  - generic [ref=e1327]: Learn more about this role
+              - button "Next slide" [ref=e1329] [cursor=pointer]
+          - generic [ref=e1333]:
+            - generic [ref=e1334]:
+              - generic [ref=e1335]:
+                - paragraph [ref=e1336]: 80% companies hire using an aptitude test! Practice with NCAT.
+                - generic [ref=e1337]:
+                  - paragraph [ref=e1339]: Test your skills early
+                  - paragraph [ref=e1341]: Assess your strengths
+                  - paragraph [ref=e1343]: Understand areas of improvement
+              - generic [ref=e1344]:
+                - generic [ref=e1345] [cursor=pointer]: Take NCAT
+                - link "Know more" [ref=e1346] [cursor=pointer]:
+                  - /url: /campus/ncat-aptitude-test
+              - paragraph [ref=e1347]: 5.1L+ students attempted so far
+            - generic [ref=e1349]:
+              - paragraph [ref=e1351]: Qualitative Aptitude
+              - paragraph [ref=e1353]: Verbal Ability
+              - paragraph [ref=e1355]: Logical Reasoning
+          - generic [ref=e1360]:
+            - generic [ref=e1361]:
+              - paragraph [ref=e1362]: Speech Assessment
+              - paragraph [ref=e1363]: Ace interviews before your graduation batch steps out.
+              - generic [ref=e1364]:
+                - generic [ref=e1365]: Free Test
+                - generic [ref=e1369]: AI Report
+                - generic [ref=e1373]: Peer Rank
+              - paragraph [ref=e1376]:
+                - generic [ref=e1378]: Already trusted by 35+ students from University of Petroleum and Energy Studies, Dehradun
+              - generic [ref=e1379]:
+                - link "Choose assessment" [ref=e1380] [cursor=pointer]:
+                  - /url: /campus/speech-assessment?action=pick-assessment&utm_source=widget
+                - link "Know more" [ref=e1381] [cursor=pointer]:
+                  - /url: /campus/speech-assessment?utm_source=widget
+            - generic [ref=e1382]:
+              - img "College Student" [ref=e1383]
+              - generic [ref=e1385]:
+                - generic [ref=e1386]: Be interview ready
+                - generic [ref=e1389]: Detailed evaluation
+                - generic [ref=e1392]: Prepare for study-abroad
+          - generic [ref=e1399]:
+            - banner [ref=e1400]:
+              - generic [ref=e1401]: Popular contests among students
+              - link "View all" [ref=e1402] [cursor=pointer]:
+                - /url: /campus/contests?ref-src=DHomePage
+            - generic [ref=e1404]:
+              - generic [ref=e1406]:
+                - 'link "naukri campus presents Techquest #32 - Future-Proof Skills and Tech Careers Round : 1 Duration : 30 mins, Jul 12 Participants : Individual enroll-user-count-svg 16153 enrolled Reg. closes in 19 hrs" [ref=e1408] [cursor=pointer]':
+                  - /url: /campus/contests/techquest-sharp-32-future-proof-skills-and-tech-careers-contest-event-34572?
+                  - banner [ref=e1409]:
+                    - generic [ref=e1412]: Quiz
+                    - img "logo" [ref=e1414]
+                  - generic [ref=e1415]:
+                    - generic [ref=e1416]:
+                      - heading "naukri campus presents" [level=4] [ref=e1417]
+                      - generic [ref=e1418]: "Techquest #32 - Future-Proof Skills and Tech Careers"
+                    - generic [ref=e1419]:
+                      - generic [ref=e1420]:
+                        - generic [ref=e1421]: "Round : 1"
+                        - generic [ref=e1423]: "Duration : 30 mins, Jul 12"
+                      - generic [ref=e1424]: "Participants : Individual"
+                    - generic [ref=e1429]:
+                      - generic [ref=e1430]:
+                        - img "enroll-user-count-svg" [ref=e1431]
+                        - generic [ref=e1432]: 16153 enrolled
+                      - generic [ref=e1433]: Reg. closes in 19 hrs
+                - 'link "naukri campus presents DigiQuezt #1 - SEO and SEM Basics Round : 1 Duration : 30 mins, Jul 18 Participants : Individual SEO SEM Digital Marketing enroll-user-count-svg 5479 enrolled Reg. closes on 18 Jul, 06:55 pm" [ref=e1435] [cursor=pointer]':
+                  - /url: /campus/contests/digiquezt-sharp-1-seo-and-sem-basics-contest-event-36479?
+                  - banner [ref=e1436]:
+                    - generic [ref=e1439]: Quiz
+                    - img "logo" [ref=e1441]
+                  - generic [ref=e1442]:
+                    - generic [ref=e1443]:
+                      - heading "naukri campus presents" [level=4] [ref=e1444]
+                      - generic [ref=e1445]: "DigiQuezt #1 - SEO and SEM Basics"
+                    - generic [ref=e1446]:
+                      - generic [ref=e1447]:
+                        - generic [ref=e1448]: "Round : 1"
+                        - generic [ref=e1450]: "Duration : 30 mins, Jul 18"
+                      - generic [ref=e1451]: "Participants : Individual"
+                    - generic [ref=e1453]:
+                      - generic [ref=e1454]: SEO
+                      - generic [ref=e1455]: SEM
+                      - generic [ref=e1456]: Digital Marketing
+                    - generic [ref=e1459]:
+                      - generic [ref=e1460]:
+                        - img "enroll-user-count-svg" [ref=e1461]
+                        - generic [ref=e1462]: 5479 enrolled
+                      - generic [ref=e1463]: Reg. closes on 18 Jul, 06:55 pm
+                - 'link "naukri campus presents Codequezt #32 - Coding Challenge Round : 1 Duration : 2 hr , Jul 19 Participants : Individual coding coding problems enroll-user-count-svg 9413 enrolled Reg. closes on 19 Jul, 06:55 pm" [ref=e1465] [cursor=pointer]':
+                  - /url: /campus/contests/codequezt-sharp-32-coding-challenge-contest-event-34157?
+                  - banner [ref=e1466]:
+                    - generic [ref=e1469]: Coding contest
+                    - img "logo" [ref=e1471]
+                  - generic [ref=e1472]:
+                    - generic [ref=e1473]:
+                      - heading "naukri campus presents" [level=4] [ref=e1474]
+                      - generic [ref=e1475]: "Codequezt #32 - Coding Challenge"
+                    - generic [ref=e1476]:
+                      - generic [ref=e1477]:
+                        - generic [ref=e1478]: "Round : 1"
+                        - generic [ref=e1480]: "Duration : 2 hr , Jul 19"
+                      - generic [ref=e1481]: "Participants : Individual"
+                    - generic [ref=e1483]:
+                      - generic [ref=e1484]: coding
+                      - generic [ref=e1485]: coding problems
+                    - generic [ref=e1488]:
+                      - generic [ref=e1489]:
+                        - img "enroll-user-count-svg" [ref=e1490]
+                        - generic [ref=e1491]: 9413 enrolled
+                      - generic [ref=e1492]: Reg. closes on 19 Jul, 06:55 pm
+                - 'link "naukri campus presents Crack Government Exam - SSC CGL #8 Round : 1 Duration : 12 hrs , Jul 25 Participants : Individual SSC CGL SSC GovtExam enroll-user-count-svg 6556 enrolled Reg. closes on 25 Jul, 08:00 pm" [ref=e1494] [cursor=pointer]':
+                  - /url: /campus/contests/crack-government-exam-ssc-cgl-sharp-8-contest-event-36551?
+                  - banner [ref=e1495]:
+                    - generic [ref=e1498]: Quiz
+                    - img "logo" [ref=e1500]
+                  - generic [ref=e1501]:
+                    - generic [ref=e1502]:
+                      - heading "naukri campus presents" [level=4] [ref=e1503]
+                      - generic [ref=e1504]: "Crack Government Exam - SSC CGL #8"
+                    - generic [ref=e1505]:
+                      - generic [ref=e1506]:
+                        - generic [ref=e1507]: "Round : 1"
+                        - generic [ref=e1509]: "Duration : 12 hrs , Jul 25"
+                      - generic [ref=e1510]: "Participants : Individual"
+                    - generic [ref=e1512]:
+                      - generic [ref=e1513]: SSC CGL
+                      - generic [ref=e1514]: SSC
+                      - generic [ref=e1515]: GovtExam
+                    - generic [ref=e1518]:
+                      - generic [ref=e1519]:
+                        - img "enroll-user-count-svg" [ref=e1520]
+                        - generic [ref=e1521]: 6556 enrolled
+                      - generic [ref=e1522]: Reg. closes on 25 Jul, 08:00 pm
+                - 'link "naukri campus presents Naukri Campus Creator Community Round : 1 Duration : 24 Jun - 31 Jul Participants : Individual Creator Community YouTube Creator Insta Creator Influencer enroll-user-count-svg 4422 enrolled Reg. closes on 31 Jul, 11:30 pm" [ref=e1524] [cursor=pointer]':
+                  - /url: /campus/contests/naukri-campus-creator-community-contest-event-36334?
+                  - banner [ref=e1525]:
+                    - generic [ref=e1528]: Quiz
+                    - img "logo" [ref=e1530]
+                  - generic [ref=e1531]:
+                    - generic [ref=e1532]:
+                      - heading "naukri campus presents" [level=4] [ref=e1533]
+                      - generic [ref=e1534]: Naukri Campus Creator Community
+                    - generic [ref=e1535]:
+                      - generic [ref=e1536]:
+                        - generic [ref=e1537]: "Round : 1"
+                        - generic [ref=e1539]: "Duration : 24 Jun - 31 Jul"
+                      - generic [ref=e1540]: "Participants : Individual"
+                    - generic [ref=e1542]:
+                      - generic [ref=e1543]: Creator Community
+                      - generic [ref=e1544]: YouTube Creator
+                      - generic [ref=e1545]: Insta Creator
+                      - generic [ref=e1546]: Influencer
+                    - generic [ref=e1549]:
+                      - generic [ref=e1550]:
+                        - img "enroll-user-count-svg" [ref=e1551]
+                        - generic [ref=e1552]: 4422 enrolled
+                      - generic [ref=e1553]: Reg. closes on 31 Jul, 11:30 pm
+                - 'link "Incedo presents Incedo - AI Innovation Challenge 2026 Round : 1 Duration : 27-31 Mar Participants : Individual AI Incedo AI Innovation completed-svg Contest Completed" [ref=e1555] [cursor=pointer]':
+                  - /url: /campus/contests/incedo-ai-innovation-challenge-2026-contest-event-34345?
+                  - banner [ref=e1556]:
+                    - generic [ref=e1559]: Hiring contest
+                    - img "logo" [ref=e1561]
+                  - generic [ref=e1562]:
+                    - generic [ref=e1563]:
+                      - heading "Incedo presents" [level=4] [ref=e1564]
+                      - generic [ref=e1565]: Incedo - AI Innovation Challenge 2026
+                    - generic [ref=e1566]:
+                      - generic [ref=e1567]:
+                        - generic [ref=e1568]: "Round : 1"
+                        - generic [ref=e1570]: "Duration : 27-31 Mar"
+                      - generic [ref=e1571]: "Participants : Individual"
+                    - generic [ref=e1573]:
+                      - generic [ref=e1574]: AI
+                      - generic [ref=e1575]: Incedo
+                      - generic [ref=e1576]: AI Innovation
+                    - generic [ref=e1580]:
+                      - img "completed-svg" [ref=e1581]
+                      - text: Contest Completed
+                - 'link "naukri campus presents Codequezt #29 Coding Challenge Round : 1 Duration : 2 hr , Mar 29 Participants : Individual coding codequezt coding challenge completed-svg Contest Completed" [ref=e1583] [cursor=pointer]':
+                  - /url: /campus/contests/codequezt-sharp-29-coding-challenge-contest-event-33618?
+                  - banner [ref=e1584]:
+                    - generic [ref=e1587]: Coding contest
+                    - img "logo" [ref=e1589]
+                  - generic [ref=e1590]:
+                    - generic [ref=e1591]:
+                      - heading "naukri campus presents" [level=4] [ref=e1592]
+                      - generic [ref=e1593]: "Codequezt #29 Coding Challenge"
+                    - generic [ref=e1594]:
+                      - generic [ref=e1595]:
+                        - generic [ref=e1596]: "Round : 1"
+                        - generic [ref=e1598]: "Duration : 2 hr , Mar 29"
+                      - generic [ref=e1599]: "Participants : Individual"
+                    - generic [ref=e1601]:
+                      - generic [ref=e1602]: coding
+                      - generic [ref=e1603]: codequezt
+                      - generic [ref=e1604]: coding challenge
+                    - generic [ref=e1608]:
+                      - img "completed-svg" [ref=e1609]
+                      - text: Contest Completed
+                - 'link "naukri campus presents BrandQuezt #32: Festive Branding and Seasonal Buzz Round : 1 Duration : 30 mins, Jul 5 Participants : Individual completed-svg Contest Completed" [ref=e1611] [cursor=pointer]':
+                  - /url: /campus/contests/brandquezt-sharp-32-festive-branding-and-seasonal-buzz-contest-event-34283?
+                  - banner [ref=e1612]:
+                    - generic [ref=e1615]: Quiz
+                    - img "logo" [ref=e1617]
+                  - generic [ref=e1618]:
+                    - generic [ref=e1619]:
+                      - heading "naukri campus presents" [level=4] [ref=e1620]
+                      - generic [ref=e1621]: "BrandQuezt #32: Festive Branding and Seasonal Buzz"
+                    - generic [ref=e1622]:
+                      - generic [ref=e1623]:
+                        - generic [ref=e1624]: "Round : 1"
+                        - generic [ref=e1626]: "Duration : 30 mins, Jul 5"
+                      - generic [ref=e1627]: "Participants : Individual"
+                    - generic [ref=e1633]:
+                      - img "completed-svg" [ref=e1634]
+                      - text: Contest Completed
+                - 'link "naukri campus presents GenQuezt - Doctors Day Quiz Round : 1 Duration : 12 hrs , Jul 4 Participants : Individual Doctors Day Pharma Medical completed-svg Contest Completed" [ref=e1636] [cursor=pointer]':
+                  - /url: /campus/contests/genquezt-doctors-day-quiz-contest-event-36355?
+                  - banner [ref=e1637]:
+                    - generic [ref=e1640]: Quiz
+                    - img "logo" [ref=e1642]
+                  - generic [ref=e1643]:
+                    - generic [ref=e1644]:
+                      - heading "naukri campus presents" [level=4] [ref=e1645]
+                      - generic [ref=e1646]: GenQuezt - Doctors Day Quiz
+                    - generic [ref=e1647]:
+                      - generic [ref=e1648]:
+                        - generic [ref=e1649]: "Round : 1"
+                        - generic [ref=e1651]: "Duration : 12 hrs , Jul 4"
+                      - generic [ref=e1652]: "Participants : Individual"
+                    - generic [ref=e1654]:
+                      - generic [ref=e1655]: Doctors Day
+                      - generic [ref=e1656]: Pharma
+                      - generic [ref=e1657]: Medical
+                    - generic [ref=e1661]:
+                      - img "completed-svg" [ref=e1662]
+                      - text: Contest Completed
+                - 'link "naukri campus presents Bizquezt #32 - Global Brands and Their Evolution Round : 1 Duration : 30 mins, Jul 3 Participants : Individual Global Brands Brand Evolution Global Brand Evolution completed-svg Contest Completed" [ref=e1664] [cursor=pointer]':
+                  - /url: /campus/contests/bizquezt-sharp-32-global-brands-and-their-evolution-contest-event-34185?
+                  - banner [ref=e1665]:
+                    - generic [ref=e1668]: Quiz
+                    - img "logo" [ref=e1670]
+                  - generic [ref=e1671]:
+                    - generic [ref=e1672]:
+                      - heading "naukri campus presents" [level=4] [ref=e1673]
+                      - generic [ref=e1674]: "Bizquezt #32 - Global Brands and Their Evolution"
+                    - generic [ref=e1675]:
+                      - generic [ref=e1676]:
+                        - generic [ref=e1677]: "Round : 1"
+                        - generic [ref=e1679]: "Duration : 30 mins, Jul 3"
+                      - generic [ref=e1680]: "Participants : Individual"
+                    - generic [ref=e1682]:
+                      - generic [ref=e1683]: Global Brands
+                      - generic [ref=e1684]: Brand Evolution
+                      - generic [ref=e1685]: Global Brand Evolution
+                    - generic [ref=e1689]:
+                      - img "completed-svg" [ref=e1690]
+                      - text: Contest Completed
+              - button "Next slide" [ref=e1691] [cursor=pointer]
+          - generic [ref=e1695]:
+            - generic [ref=e1696]:
+              - generic [ref=e1697]:
+                - generic [ref=e1698]:
+                  - paragraph [ref=e1699]: ACE YOUR TECH INTERVIEWS
+                  - text: 😎
+                - paragraph [ref=e1700]: Prepare for your applied roles with real interview experiences
+              - link "View all" [ref=e1701] [cursor=pointer]:
+                - /url: /campus/interview-experiences/search?recommendedFlow=$FLOW
+            - generic [ref=e1704]:
+              - generic [ref=e1706]:
+                - link "comp-logo Software Engineer Interviewed by Info Edge share bookmark calender Jul 2022 info 4 Rounds code 9 Coding problems Software Engineer at Info Edge 0-2 years Selected upvote 24 upvotes views 2362 views" [ref=e1708] [cursor=pointer]:
+                  - /url: /campus/interview-experiences/interview-experience-on-campus-jul-2022-2-8190-8190
+                  - generic [ref=e1709]:
+                    - generic [ref=e1710]:
+                      - img "comp-logo" [ref=e1711]
+                      - generic [ref=e1712]:
+                        - generic "Software Engineer" [ref=e1713]
+                        - heading "Interviewed by Info Edge" [level=4] [ref=e1714]
+                    - generic [ref=e1715]:
+                      - img "share" [ref=e1716]
+                      - img "bookmark" [ref=e1717]
+                  - generic [ref=e1718]:
+                    - generic [ref=e1719]:
+                      - img "calender" [ref=e1720]
+                      - generic [ref=e1721]: Jul 2022
+                    - generic [ref=e1723]:
+                      - generic [ref=e1724]:
+                        - img "info" [ref=e1725]
+                        - generic [ref=e1726]: 4 Rounds
+                      - generic [ref=e1728]:
+                        - img "code" [ref=e1729]
+                        - generic [ref=e1730]: 9 Coding problems
+                  - generic [ref=e1732]:
+                    - heading "Software Engineer at Info Edge" [level=2] [ref=e1733]
+                    - generic [ref=e1734]:
+                      - generic [ref=e1735]: 0-2 years
+                      - generic [ref=e1736]: Selected
+                  - generic [ref=e1738]:
+                    - generic [ref=e1739]:
+                      - img "upvote" [ref=e1740]
+                      - generic [ref=e1741]: 24 upvotes
+                    - generic [ref=e1743]:
+                      - img "views" [ref=e1744]
+                      - generic [ref=e1745]: 2362 views
+                - link "comp-logo Software Developer Interviewed by Josh Technology Group share bookmark calender Jan 2022 info 3 Rounds code 5 Coding problems Software Developer at Josh Technology Group 0-2 yearsNot selected upvote 2 upvotes views 757 views" [ref=e1747] [cursor=pointer]:
+                  - /url: /campus/interview-experiences/null-null
+                  - generic [ref=e1748]:
+                    - generic [ref=e1749]:
+                      - img "comp-logo" [ref=e1750]
+                      - generic [ref=e1751]:
+                        - generic "Software Developer" [ref=e1752]
+                        - heading "Interviewed by Josh Technology Group" [level=4] [ref=e1753]
+                    - generic [ref=e1754]:
+                      - img "share" [ref=e1755]
+                      - img "bookmark" [ref=e1756]
+                  - generic [ref=e1757]:
+                    - generic [ref=e1758]:
+                      - img "calender" [ref=e1759]
+                      - generic [ref=e1760]: Jan 2022
+                    - generic [ref=e1762]:
+                      - generic [ref=e1763]:
+                        - img "info" [ref=e1764]
+                        - generic [ref=e1765]: 3 Rounds
+                      - generic [ref=e1767]:
+                        - img "code" [ref=e1768]
+                        - generic [ref=e1769]: 5 Coding problems
+                  - generic [ref=e1771]:
+                    - heading "Software Developer at Josh Technology Group" [level=2] [ref=e1772]
+                    - generic [ref=e1773]:
+                      - generic [ref=e1774]: 0-2 years
+                      - text: Not selected
+                  - generic [ref=e1776]:
+                    - generic [ref=e1777]:
+                      - img "upvote" [ref=e1778]
+                      - generic [ref=e1779]: 2 upvotes
+                    - generic [ref=e1781]:
+                      - img "views" [ref=e1782]
+                      - generic [ref=e1783]: 757 views
+                - link "comp-logo Software Developer Interviewed by Nagarro share bookmark calender Jan 2022 info 3 Rounds code 7 Coding problems Software Developer at Nagarro 0-2 years Selected upvote 2 upvotes views 1981 views" [ref=e1785] [cursor=pointer]:
+                  - /url: /campus/interview-experiences/nagarro-interview-experience-by-amisha-on-campus-jan-2022-2583
+                  - generic [ref=e1786]:
+                    - generic [ref=e1787]:
+                      - img "comp-logo" [ref=e1788]
+                      - generic [ref=e1789]:
+                        - generic "Software Developer" [ref=e1790]
+                        - heading "Interviewed by Nagarro" [level=4] [ref=e1791]
+                    - generic [ref=e1792]:
+                      - img "share" [ref=e1793]
+                      - img "bookmark" [ref=e1794]
+                  - generic [ref=e1795]:
+                    - generic [ref=e1796]:
+                      - img "calender" [ref=e1797]
+                      - generic [ref=e1798]: Jan 2022
+                    - generic [ref=e1800]:
+                      - generic [ref=e1801]:
+                        - img "info" [ref=e1802]
+                        - generic [ref=e1803]: 3 Rounds
+                      - generic [ref=e1805]:
+                        - img "code" [ref=e1806]
+                        - generic [ref=e1807]: 7 Coding problems
+                  - generic [ref=e1809]:
+                    - heading "Software Developer at Nagarro" [level=2] [ref=e1810]
+                    - generic [ref=e1811]:
+                      - generic [ref=e1812]: 0-2 years
+                      - generic [ref=e1813]: Selected
+                  - generic [ref=e1815]:
+                    - generic [ref=e1816]:
+                      - img "upvote" [ref=e1817]
+                      - generic [ref=e1818]: 2 upvotes
+                    - generic [ref=e1820]:
+                      - img "views" [ref=e1821]
+                      - generic [ref=e1822]: 1981 views
+                - link "comp-logo Software Developer Interviewed by Wipro share bookmark calender Dec 2020 info 1 Round code 1 Coding problem Software Developer at Wipro 0-2 yearsNot selected upvote 11 upvotes views 1689 views" [ref=e1824] [cursor=pointer]:
+                  - /url: /campus/interview-experiences/interview-experience-by-krishan-kumar-dadhich-off-campus-dec-2020-751-751
+                  - generic [ref=e1825]:
+                    - generic [ref=e1826]:
+                      - img "comp-logo" [ref=e1827]
+                      - generic [ref=e1828]:
+                        - generic "Software Developer" [ref=e1829]
+                        - heading "Interviewed by Wipro" [level=4] [ref=e1830]
+                    - generic [ref=e1831]:
+                      - img "share" [ref=e1832]
+                      - img "bookmark" [ref=e1833]
+                  - generic [ref=e1834]:
+                    - generic [ref=e1835]:
+                      - img "calender" [ref=e1836]
+                      - generic [ref=e1837]: Dec 2020
+                    - generic [ref=e1839]:
+                      - generic [ref=e1840]:
+                        - img "info" [ref=e1841]
+                        - generic [ref=e1842]: 1 Round
+                      - generic [ref=e1844]:
+                        - img "code" [ref=e1845]
+                        - generic [ref=e1846]: 1 Coding problem
+                  - generic [ref=e1848]:
+                    - heading "Software Developer at Wipro" [level=2] [ref=e1849]
+                    - generic [ref=e1850]:
+                      - generic [ref=e1851]: 0-2 years
+                      - text: Not selected
+                  - generic [ref=e1853]:
+                    - generic [ref=e1854]:
+                      - img "upvote" [ref=e1855]
+                      - generic [ref=e1856]: 11 upvotes
+                    - generic [ref=e1858]:
+                      - img "views" [ref=e1859]
+                      - generic [ref=e1860]: 1689 views
+                - link "comp-logo Software Developer Interviewed by Lenskart share bookmark calender Feb 2022 info 4 Rounds code 5 Coding problems Software Developer at Lenskart 0-2 years Selected upvote 3 upvotes views 1457 views" [ref=e1862] [cursor=pointer]:
+                  - /url: /campus/interview-experiences/lenskart-interview-experience-off-campus-feb-2022-4817
+                  - generic [ref=e1863]:
+                    - generic [ref=e1864]:
+                      - img "comp-logo" [ref=e1865]
+                      - generic [ref=e1866]:
+                        - generic "Software Developer" [ref=e1867]
+                        - heading "Interviewed by Lenskart" [level=4] [ref=e1868]
+                    - generic [ref=e1869]:
+                      - img "share" [ref=e1870]
+                      - img "bookmark" [ref=e1871]
+                  - generic [ref=e1872]:
+                    - generic [ref=e1873]:
+                      - img "calender" [ref=e1874]
+                      - generic [ref=e1875]: Feb 2022
+                    - generic [ref=e1877]:
+                      - generic [ref=e1878]:
+                        - img "info" [ref=e1879]
+                        - generic [ref=e1880]: 4 Rounds
+                      - generic [ref=e1882]:
+                        - img "code" [ref=e1883]
+                        - generic [ref=e1884]: 5 Coding problems
+                  - generic [ref=e1886]:
+                    - heading "Software Developer at Lenskart" [level=2] [ref=e1887]
+                    - generic [ref=e1888]:
+                      - generic [ref=e1889]: 0-2 years
+                      - generic [ref=e1890]: Selected
+                  - generic [ref=e1892]:
+                    - generic [ref=e1893]:
+                      - img "upvote" [ref=e1894]
+                      - generic [ref=e1895]: 3 upvotes
+                    - generic [ref=e1897]:
+                      - img "views" [ref=e1898]
+                      - generic [ref=e1899]: 1457 views
+              - button "Next slide" [ref=e1900] [cursor=pointer]
+          - generic [ref=e1904]:
+            - generic [ref=e1905]: Your resume is ready! Choose a template & download for free.
+            - paragraph [ref=e1906]: 1.5C+ students have already downloaded their resume
+            - button "Next slide" [ref=e1926] [cursor=pointer]
+          - generic [ref=e1930]:
+            - paragraph [ref=e1931]: AI-powered
+            - generic [ref=e1932]:
+              - generic [ref=e1933]:
+                - paragraph [ref=e1934]: Decode commonly asked interview questions like a pro 😎
+                - link "View all" [ref=e1935] [cursor=pointer]:
+                  - /url: /campus/interview-questions-and-answers
+              - generic [ref=e1936]:
+                - paragraph [ref=e1937]: Get personalised answers
+                - paragraph [ref=e1938]: Get multiple answers to each question
+            - button "Next slide" [ref=e1953] [cursor=pointer]
+          - generic [ref=e1958]:
+            - generic [ref=e1959]:
+              - generic [ref=e1960]:
+                - generic [ref=e1961]: Expert speak
+                - link "View all" [ref=e1962] [cursor=pointer]:
+                  - /url: /campus/webinars?ref-src=DHomePage
+              - generic [ref=e1963]: Gain insights from industry experts
+            - generic [ref=e1965]:
+              - generic [ref=e1967]:
+                - link "How to Build AI Products That Get You Hired for Your First Job! AI Products Chatbots Naivedya Jain Staff Product Manager, AI Platforms at Walmart Mar 23, Monday 6-7 pm Completed View recording right-arrow" [ref=e1969] [cursor=pointer]:
+                  - /url: /campus/webinars/how-to-build-ai-products-that-get-you-hired-for-your-first-job-webinar-event-34111?ref-src=DHomePage
+                  - generic [ref=e1970]:
+                    - generic [ref=e1971]:
+                      - paragraph [ref=e1972]: How to Build AI Products That Get You Hired for Your First Job!
+                      - generic [ref=e1973]:
+                        - generic [ref=e1974]: AI Products
+                        - generic [ref=e1975]: Chatbots
+                    - generic [ref=e1979]:
+                      - paragraph [ref=e1980]: Naivedya Jain
+                      - paragraph [ref=e1981]: Staff Product Manager, AI Platforms at Walmart
+                    - generic [ref=e1984]:
+                      - generic [ref=e1985]: Mar 23, Monday
+                      - paragraph [ref=e1986]
+                      - paragraph [ref=e1987]: 6-7 pm
+                    - generic [ref=e1989]:
+                      - generic [ref=e1990]: Completed
+                      - generic [ref=e1991]:
+                        - text: View recording
+                        - img "right-arrow" [ref=e1992]
+                - link "Employability in the Era of AI ft. Myntra AI Careers Myntra Careers Govindraj M K CHRO at Myntra Mar 12, Thursday 6:30-7:30 pm Completed View recording right-arrow" [ref=e1994] [cursor=pointer]:
+                  - /url: /campus/webinars/employability-in-the-era-of-ai-ft-dot-myntra-webinar-event-33886?ref-src=DHomePage
+                  - generic [ref=e1995]:
+                    - generic [ref=e1996]:
+                      - paragraph [ref=e1997]: Employability in the Era of AI ft. Myntra
+                      - generic [ref=e1998]:
+                        - generic [ref=e1999]: AI Careers
+                        - generic [ref=e2000]: Myntra Careers
+                    - generic [ref=e2004]:
+                      - paragraph [ref=e2005]: Govindraj M K
+                      - paragraph [ref=e2006]: CHRO at Myntra
+                    - generic [ref=e2009]:
+                      - generic [ref=e2010]: Mar 12, Thursday
+                      - paragraph [ref=e2011]
+                      - paragraph [ref=e2012]: 6:30-7:30 pm
+                    - generic [ref=e2014]:
+                      - generic [ref=e2015]: Completed
+                      - generic [ref=e2016]:
+                        - text: View recording
+                        - img "right-arrow" [ref=e2017]
+                - 'link "Johnson & Johnson | MedTech: Overview and Career Opportunities for Young Talent & Graduates Johnson & Johnson Medtech Amit Baxi Associate Sales Director at Johnson & Johnson Feb 25, Wednesday 5:30-6:30 pm Completed View recording right-arrow" [ref=e2019] [cursor=pointer]':
+                  - /url: /campus/webinars/johnson-johnson-medtech-overview-and-career-opportunities-for-young-talent-graduates-webinar-event-33993?ref-src=DHomePage
+                  - generic [ref=e2020]:
+                    - generic [ref=e2021]:
+                      - paragraph [ref=e2022]: "Johnson & Johnson | MedTech: Overview and Career Opportunities for Young Talent & Graduates"
+                      - generic [ref=e2023]:
+                        - generic [ref=e2024]: Johnson & Johnson
+                        - generic [ref=e2025]: Medtech
+                    - generic [ref=e2029]:
+                      - paragraph [ref=e2030]: Amit Baxi
+                      - paragraph [ref=e2031]: Associate Sales Director at Johnson & Johnson
+                    - generic [ref=e2034]:
+                      - generic [ref=e2035]: Feb 25, Wednesday
+                      - paragraph [ref=e2036]
+                      - paragraph [ref=e2037]: 5:30-6:30 pm
+                    - generic [ref=e2039]:
+                      - generic [ref=e2040]: Completed
+                      - generic [ref=e2041]:
+                        - text: View recording
+                        - img "right-arrow" [ref=e2042]
+                - 'link "AI-First Careers: Why Big Tech Needs More than Just a Degree AI Career Sujit Kumar Pradhan UX Designer III at Google Jan 30, Friday 4:30-5:30 pm Completed View recording right-arrow" [ref=e2044] [cursor=pointer]':
+                  - /url: /campus/webinars/ai-first-careers-why-big-tech-needs-more-than-just-a-degree-webinar-event-33713?ref-src=DHomePage
+                  - generic [ref=e2045]:
+                    - generic [ref=e2046]:
+                      - paragraph [ref=e2047]: "AI-First Careers: Why Big Tech Needs More than Just a Degree"
+                      - generic [ref=e2048]:
+                        - generic [ref=e2049]: AI
+                        - generic [ref=e2050]: Career
+                    - generic [ref=e2054]:
+                      - paragraph [ref=e2055]: Sujit Kumar Pradhan
+                      - paragraph [ref=e2056]: UX Designer III at Google
+                    - generic [ref=e2059]:
+                      - generic [ref=e2060]: Jan 30, Friday
+                      - paragraph [ref=e2061]
+                      - paragraph [ref=e2062]: 4:30-5:30 pm
+                    - generic [ref=e2064]:
+                      - generic [ref=e2065]: Completed
+                      - generic [ref=e2066]:
+                        - text: View recording
+                        - img "right-arrow" [ref=e2067]
+                - link "How AI Is Redefining Early Careers for Young Talent Early Careers AI Anshuman Tiwari GXO - Global Experience Owner for HR at GSK [GlaxoSmithKline] Dec 17, Wednesday 5-6 pm Completed View recording right-arrow" [ref=e2069] [cursor=pointer]:
+                  - /url: /campus/webinars/how-ai-is-redefining-early-careers-for-young-talent-webinar-event-33467?ref-src=DHomePage
+                  - generic [ref=e2070]:
+                    - generic [ref=e2071]:
+                      - paragraph [ref=e2072]: How AI Is Redefining Early Careers for Young Talent
+                      - generic [ref=e2073]:
+                        - generic [ref=e2074]: Early Careers
+                        - generic [ref=e2075]: AI
+                    - generic [ref=e2079]:
+                      - paragraph [ref=e2080]: Anshuman Tiwari
+                      - paragraph [ref=e2081]: GXO - Global Experience Owner for HR at GSK [GlaxoSmithKline]
+                    - generic [ref=e2084]:
+                      - generic [ref=e2085]: Dec 17, Wednesday
+                      - paragraph [ref=e2086]
+                      - paragraph [ref=e2087]: 5-6 pm
+                    - generic [ref=e2089]:
+                      - generic [ref=e2090]: Completed
+                      - generic [ref=e2091]:
+                        - text: View recording
+                        - img "right-arrow" [ref=e2092]
+              - button "Next slide" [ref=e2093] [cursor=pointer]
+          - generic [ref=e2097]:
+            - generic [ref=e2098]:
+              - heading "Career guidance" [level=3] [ref=e2099]
+              - link "View all" [ref=e2100] [cursor=pointer]:
+                - /url: /campus/career-guidance
+            - list [ref=e2102]:
+              - listitem [ref=e2103] [cursor=pointer]:
+                - paragraph [ref=e2104]: Career management
+              - listitem [ref=e2105] [cursor=pointer]:
+                - paragraph [ref=e2106]: HR interview question & answers
+              - listitem [ref=e2107] [cursor=pointer]:
+                - paragraph [ref=e2108]: Interview experiences
+              - listitem [ref=e2109] [cursor=pointer]:
+                - paragraph [ref=e2110]: Learn from leaders
+            - generic [ref=e2112]:
+              - generic [ref=e2114]:
+                - link [ref=e2116] [cursor=pointer]:
+                  - /url: https://www.naukri.com/campus/career-guidance/top-fintech-companies-hiring-freshers?ref-src=DHomePage
+                  - generic [ref=e2119]:
+                    - heading "Best Fintech Companies for Freshers to Work at in India" [level=4] [ref=e2120]
+                    - generic [ref=e2122]:
+                      - paragraph [ref=e2123]: 9 min read
+                      - paragraph [ref=e2124]: 13,904 views
+                - link [ref=e2127] [cursor=pointer]:
+                  - /url: https://www.naukri.com/campus/career-guidance/how-to-become-a-ca-chartered-accountant?ref-src=DHomePage
+                  - generic [ref=e2130]:
+                    - heading "How to Become a CA (Chartered Accountant)" [level=4] [ref=e2131]
+                    - generic [ref=e2133]:
+                      - paragraph [ref=e2134]: 9 min read
+                      - paragraph [ref=e2135]: 9,908 views
+                - link [ref=e2138] [cursor=pointer]:
+                  - /url: https://www.naukri.com/campus/career-guidance/how-to-become-a-cybersecurity-analyst?ref-src=DHomePage
+                  - generic [ref=e2141]:
+                    - heading "How To Become A Cybersecurity Analyst In India" [level=4] [ref=e2142]
+                    - generic [ref=e2144]:
+                      - paragraph [ref=e2145]: 10 min read
+                      - paragraph [ref=e2146]: 1,709 views
+                - link [ref=e2149] [cursor=pointer]:
+                  - /url: https://www.naukri.com/campus/career-guidance/what-is-product-management?ref-src=DHomePage
+                  - generic [ref=e2152]:
+                    - heading "How to Become a Product Manager as a Fresher in 2026" [level=4] [ref=e2153]
+                    - generic [ref=e2155]:
+                      - paragraph [ref=e2156]: 12 min read
+                      - paragraph [ref=e2157]: 2,455 views
+                - link [ref=e2160] [cursor=pointer]:
+                  - /url: https://www.naukri.com/campus/career-guidance/sbi-po-vs-ibps-po?ref-src=DHomePage
+                  - generic [ref=e2163]:
+                    - 'heading "SBI PO vs. IBPS PO: Which is Better for Freshers?" [level=4] [ref=e2164]'
+                    - generic [ref=e2166]:
+                      - paragraph [ref=e2167]: 8 min read
+                      - paragraph [ref=e2168]: 6,567 views
+                - link [ref=e2171] [cursor=pointer]:
+                  - /url: https://www.naukri.com/campus/career-guidance/upsc-prelims-admit-card-exam-day-checklist?ref-src=DHomePage
+                  - generic [ref=e2174]:
+                    - 'heading "UPSC CSE 2026 Prelims: Results Out, Check PDF" [level=4] [ref=e2175]'
+                    - generic [ref=e2177]:
+                      - paragraph [ref=e2178]: 10 min read
+                      - paragraph [ref=e2179]: 4,282 views
+                - link [ref=e2182] [cursor=pointer]:
+                  - /url: https://www.naukri.com/campus/career-guidance/what-to-do-after-board-results?ref-src=DHomePage
+                  - generic [ref=e2185]:
+                    - 'heading "What to Do After Your 2026 Board Results: Expert Advice" [level=4] [ref=e2186]'
+                    - generic [ref=e2188]:
+                      - paragraph [ref=e2189]: 10 min read
+                      - paragraph [ref=e2190]: 1,180 views
+                - link [ref=e2193] [cursor=pointer]:
+                  - /url: https://www.naukri.com/campus/career-guidance/how-to-negotiate-salary-for-freshers?ref-src=DHomePage
+                  - generic [ref=e2196]:
+                    - heading "How to Negotiate Salary With HR in an Interview?" [level=4] [ref=e2197]
+                    - generic [ref=e2199]:
+                      - paragraph [ref=e2200]: 10 min read
+                      - paragraph [ref=e2201]: 72,082 views
+                      - paragraph [ref=e2203]: 1 like
+                - link [ref=e2206] [cursor=pointer]:
+                  - /url: https://www.naukri.com/campus/career-guidance/machine-learning-ml?ref-src=DHomePage
+                  - generic [ref=e2209]:
+                    - heading "What is Machine Learning - ML Technology, Applications" [level=4] [ref=e2210]
+                    - generic [ref=e2212]:
+                      - paragraph [ref=e2213]: 11 min read
+                      - paragraph [ref=e2214]: 8,295 views
+                      - paragraph [ref=e2216]: 4 likes
+                - link [ref=e2219] [cursor=pointer]:
+                  - /url: https://www.naukri.com/campus/career-guidance/how-to-become-a-ui-ux-designer?ref-src=DHomePage
+                  - generic [ref=e2222]:
+                    - heading "How to Become a UI/UX Designer in India" [level=4] [ref=e2223]
+                    - generic [ref=e2225]:
+                      - paragraph [ref=e2226]: 8 min read
+                      - paragraph [ref=e2227]: 14,263 views
+                      - paragraph [ref=e2229]: 1 like
+              - button "Next slide" [ref=e2231] [cursor=pointer]
+          - generic [ref=e2235]:
+            - generic [ref=e2236]:
+              - generic [ref=e2237]:
+                - generic [ref=e2238]: Stay informed with Minis
+                - generic [ref=e2239]: Catch up on bite-sized tech news
+              - link "View all" [ref=e2241] [cursor=pointer]:
+                - /url: https://www.naukri.com/minis?utm_source=campus&utm_medium=viewall&utm_campaign=topright&utmContent=
+            - generic [ref=e2244] [cursor=pointer]:
+              - link "article-media 500 Blog Posts To Learn About Aws logo Cloud . 11 Jul" [ref=e2248]:
+                - /url: https://www.naukri.com/minis?articleIds=-1629210881&utm_source=campus&utm_medium=article&utm_campaign=1&utmContent=
+                - img "article-media" [ref=e2249]
+                - generic [ref=e2250]:
+                  - generic [ref=e2251]: 500 Blog Posts To Learn About Aws
+                  - generic [ref=e2252]:
+                    - img "logo" [ref=e2253]
+                    - generic [ref=e2254]: Cloud
+                    - generic [ref=e2255]: .
+                    - generic [ref=e2256]: 11 Jul
+              - 'link "article-media New-Age Tech Stocks: MapmyIndia, PhysicsWallah Zoom; Ola Electric, Pine Labs Slip logo Startup News . 11 Jul" [ref=e2260]':
+                - /url: https://www.naukri.com/minis?articleIds=-1812606202&utm_source=campus&utm_medium=article&utm_campaign=2&utmContent=
+                - img "article-media" [ref=e2261]
+                - generic [ref=e2262]:
+                  - generic [ref=e2263]: "New-Age Tech Stocks: MapmyIndia, PhysicsWallah Zoom; Ola Electric, Pine Labs Slip"
+                  - generic [ref=e2264]:
+                    - img "logo" [ref=e2265]
+                    - generic [ref=e2266]: Startup News
+                    - generic [ref=e2267]: .
+                    - generic [ref=e2268]: 11 Jul
+              - link "article-media Best Crypto to Buy in 2026 as Pepeto Tops $10.4M logo Business news . 11 Jul" [ref=e2272]:
+                - /url: https://www.naukri.com/minis?articleIds=643089661&utm_source=campus&utm_medium=article&utm_campaign=3&utmContent=
+                - img "article-media" [ref=e2273]
+                - generic [ref=e2274]:
+                  - generic [ref=e2275]: Best Crypto to Buy in 2026 as Pepeto Tops $10.4M
+                  - generic [ref=e2276]:
+                    - img "logo" [ref=e2277]
+                    - generic [ref=e2278]: Business news
+                    - generic [ref=e2279]: .
+                    - generic [ref=e2280]: 11 Jul
+              - link "article-media XRP Price Nears Capitulation Zone as Whale Accumulation Builds logo Cryptocurrency . 11 Jul" [ref=e2284]:
+                - /url: https://www.naukri.com/minis?articleIds=-1791884059&utm_source=campus&utm_medium=article&utm_campaign=4&utmContent=
+                - img "article-media" [ref=e2285]
+                - generic [ref=e2286]:
+                  - generic [ref=e2287]: XRP Price Nears Capitulation Zone as Whale Accumulation Builds
+                  - generic [ref=e2288]:
+                    - img "logo" [ref=e2289]
+                    - generic [ref=e2290]: Cryptocurrency
+                    - generic [ref=e2291]: .
+                    - generic [ref=e2292]: 11 Jul
+              - link "article-media OpenAI engineer’s ‘LOL’ moment set stage for legal fight with Apple logo Technology News . 11 Jul" [ref=e2296]:
+                - /url: https://www.naukri.com/minis?articleIds=-929573649&utm_source=campus&utm_medium=article&utm_campaign=5&utmContent=
+                - img "article-media" [ref=e2297]
+                - generic [ref=e2298]:
+                  - generic [ref=e2299]: OpenAI engineer’s ‘LOL’ moment set stage for legal fight with Apple
+                  - generic [ref=e2300]:
+                    - img "logo" [ref=e2301]
+                    - generic [ref=e2302]: Technology News
+                    - generic [ref=e2303]: .
+                    - generic [ref=e2304]: 11 Jul
+      - generic [ref=e2430]:
+        - heading "Best Fintech Companies for Freshers to Work at in India" [level=3] [ref=e2431]
+        - paragraph [ref=e2432]: India is one of the fastest-growing fintech markets in the world, with over 10,000 registered fintech startups and a market valuation projected to cross $150 billion by 2025. For freshers stepping out of college in 2026, this sector represents one of the most exciting, well-paying, and future-proof career bets available. Whether you studied engineering, commerce, economics, or even humanities, fintech&hellip;
+        - link "Read more" [ref=e2433] [cursor=pointer]:
+          - /url: https://www.naukri.com/campus/career-guidance/top-fintech-companies-hiring-freshers
+    - generic [ref=e2312]:
+      - link "Home" [ref=e2314] [cursor=pointer]:
+        - /url: /
+      - paragraph [ref=e2316]: Campus
+  - contentinfo [ref=e2317]:
+    - generic [ref=e2320]:
+      - generic [ref=e2321]:
+        - link [ref=e2322] [cursor=pointer]:
+          - /url: https://www.naukri.com/campus
+          - img "Naukri Campus Logo" [ref=e2323]
+        - generic [ref=e2324]:
+          - generic "Connect with us" [ref=e2325]
+          - link [ref=e2326] [cursor=pointer]:
+            - /url: https://www.facebook.com/firstnaukri
+            - img "naukri social icons" [ref=e2327]
+          - link [ref=e2328] [cursor=pointer]:
+            - /url: https://instagram.com/naukri_campus/
+            - img "naukri social icons" [ref=e2329]
+          - link [ref=e2330] [cursor=pointer]:
+            - /url: https://twitter.com/naukri_campus
+            - img "naukri social icons" [ref=e2331]
+          - link [ref=e2332] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/naukricampus
+            - img "naukri social icons" [ref=e2333]
+      - list [ref=e2335]:
+        - listitem [ref=e2336]:
+          - link "About us" [ref=e2337] [cursor=pointer]:
+            - /url: https://infoedge.in
+        - listitem [ref=e2338]:
+          - link "Careers" [ref=e2339] [cursor=pointer]:
+            - /url: https://careers.infoedge.com/
+        - listitem [ref=e2340]:
+          - link "Employer home" [ref=e2341] [cursor=pointer]:
+            - /url: https://www.firstnaukri.com/employer
+        - listitem [ref=e2342]:
+          - link "Sitemap" [ref=e2343] [cursor=pointer]:
+            - /url: https://www.naukri.com/sitemap/sitemap.php
+        - listitem [ref=e2344]:
+          - link "Credits" [ref=e2345] [cursor=pointer]:
+            - /url: https://www.naukri.com/credits
+      - list [ref=e2347]:
+        - listitem [ref=e2348]:
+          - link "Help center" [ref=e2349] [cursor=pointer]:
+            - /url: https://www.naukri.com/faq/job-seeker?utm_source=footer
+        - listitem [ref=e2350]:
+          - link "Summons/Notices" [ref=e2351] [cursor=pointer]:
+            - /url: https://w5.naukri.com/summons-notices-form/
+        - listitem [ref=e2352]:
+          - link "Grievances" [ref=e2353] [cursor=pointer]:
+            - /url: https://w5.naukri.com/grievances-form/
+        - listitem [ref=e2354]:
+          - link "Report issue" [ref=e2355] [cursor=pointer]:
+            - /url: https://w5.naukri.com/fdbck/main/feedback.php?app_id=15
+      - list [ref=e2357]:
+        - listitem [ref=e2358]:
+          - link "Privacy policy" [ref=e2359] [cursor=pointer]:
+            - /url: https://www.naukri.com/privacypolicy
+        - listitem [ref=e2360]:
+          - link "Terms & conditions" [ref=e2361] [cursor=pointer]:
+            - /url: https://www.naukri.com/termsconditions
+        - listitem [ref=e2362]:
+          - link "Fraud alert" [ref=e2363] [cursor=pointer]:
+            - /url: https://www.naukri.com/imposter/report-fake-job-recruiter
+        - listitem [ref=e2364]:
+          - link "Trust & safety" [ref=e2365] [cursor=pointer]:
+            - /url: https://www.naukri.com/jobsearch/trust-safety
+      - generic [ref=e2366]:
+        - generic [ref=e2367]: Apply on the go
+        - generic [ref=e2368]: Get real-time job updates on our App
+        - generic [ref=e2369]:
+          - link [ref=e2370] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=naukriApp.appModules.login&hl=en&utm_source=naukri&utm_medium=footer
+            - img "naukri app download" [ref=e2371]
+          - link [ref=e2372] [cursor=pointer]:
+            - /url: https://itunes.apple.com/in/app/naukri.com-job-search/id482877505?mt=8
+            - img "naukri app download" [ref=e2373]
+    - generic [ref=e2375]:
+      - generic [ref=e2376]:
+        - link [ref=e2378] [cursor=pointer]:
+          - /url: https://infoedge.in
+          - img "naukri social logos" [ref=e2379]
+        - generic [ref=e2380]:
+          - generic [ref=e2381]: All trademarks are the property of their respective owners
+          - generic [ref=e2382]: All rights reserved 2026 Info Edge (India) Ltd.
+      - generic [ref=e2383]: Our businesses
+      - list [ref=e2386]:
+        - listitem [ref=e2387]:
+          - link [ref=e2389] [cursor=pointer]:
+            - /url: https://www.99acres.com/
+            - img "nnacres" [ref=e2390]
+        - listitem [ref=e2391]:
+          - link [ref=e2393] [cursor=pointer]:
+            - /url: https://www.jeevansathi.com/
+            - img "jeevansathi" [ref=e2394]
+        - listitem [ref=e2395]:
+          - link [ref=e2397] [cursor=pointer]:
+            - /url: https://www.naukrigulf.com/
+            - img "ng" [ref=e2398]
+        - listitem [ref=e2399]:
+          - link [ref=e2401] [cursor=pointer]:
+            - /url: https://www.shiksha.com/
+            - img "shiksha" [ref=e2402]
+        - listitem [ref=e2403]:
+          - link [ref=e2405] [cursor=pointer]:
+            - /url: https://www.iimjobs.com
+            - img "iimjobs" [ref=e2406]
+        - listitem [ref=e2407]:
+          - link [ref=e2409] [cursor=pointer]:
+            - /url: https://www.hirist.com
+            - img "hirist" [ref=e2410]
+        - listitem [ref=e2411]:
+          - link [ref=e2413] [cursor=pointer]:
+            - /url: https://www.jobhai.com
+            - img "jobhai" [ref=e2414]
+        - listitem [ref=e2415]:
+          - link [ref=e2417] [cursor=pointer]:
+            - /url: https://doselect.com/
+            - img "Doselect" [ref=e2418]
+        - listitem [ref=e2419]:
+          - link [ref=e2421] [cursor=pointer]:
+            - /url: https://techminis.com
+            - img "techminis" [ref=e2422]
+        - listitem [ref=e2423]:
+          - link [ref=e2425] [cursor=pointer]:
+            - /url: https://www.codingninjas.com/?utm_source=naukri&utm_medium=desktop-footer
+            - img "codingninjas" [ref=e2426]
+```
+### Events
+- New console entries: .playwright-mcp/console-2026-07-11T18-11-29-664Z.log#L4

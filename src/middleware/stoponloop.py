@@ -1,46 +1,40 @@
-from typing import Callable
-from langchain.agents.middleware import (
-    wrap_tool_call,
-    AgentState,
-    AgentMiddleware,
-    ModelRequest,
-    ModelResponse
-)
-from langgraph.types import Command
+from typing import Annotated
 from typing_extensions import NotRequired
+
+from langchain.agents.middleware import AgentState, AgentMiddleware
 from langchain_core.messages import ToolMessage
 
+
+def sum_counts(old: int | None, new: int | None) -> int:
+    return (old or 0) + (new or 0)
+
+
 class CustomState(AgentState):
-    """Agent state with tool_call tracking"""
-    tool_messages :NotRequired[str]
-    tool_count : NotRequired[int]
+    tool_count: Annotated[NotRequired[int], sum_counts]
+
 
 class RepetativeToolCall(AgentMiddleware):
     state_schema = CustomState
-    
 
-    async def awrap_tool_call(self,request,handler):
+    async def awrap_tool_call(self, request, handler):
         tool_messages = [
-            m for m in request.state["messages"]
-            if isinstance(m,ToolMessage)
+            m for m in request.state.get("messages", [])
+            if isinstance(m, ToolMessage)
         ]
 
-        if len(tool_messages) >=2:
-            previous_tool = tool_messages[-1]
-            two_previous_tool = tool_messages[-2]
+        current_tool_name = request.tool_call.get("name")
+        current_tool_call_id = request.tool_call.get("id")
 
-            if previous_tool.name == two_previous_tool.name:
+        if tool_messages:
+            previous_tool = tool_messages[-1]
+
+            if previous_tool.name == current_tool_name:
                 return ToolMessage(
-                    content = f"Blocked repeated tool call: {previous_tool.name}",
-                    tool_call_id = request.tool_call("id")
+                    content=f"Blocked repeated tool call: {current_tool_name}",
+                    name=current_tool_name,
+                    tool_call_id=current_tool_call_id,
                 )
+
         response = await handler(request)
 
-        old_count = request.state.get("tool_count",0)
-
-        return Command(
-            update = {
-                "messages":[response],
-                "tool_count" : old_count+1
-            }
-        )
+        return response

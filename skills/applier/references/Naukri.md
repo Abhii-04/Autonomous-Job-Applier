@@ -1,11 +1,29 @@
-## Naukri.com Rules
+# Naukri Application Reference
 
-- If a chatbot appears in the sidebar (e.g. an element with class `botItem chatbot_ListItem`), open it, read each question, and answer only using known facts from the loaded knowledge files or the current conversation.
+Use this reference only for Naukri job/application workflows.
 
-- If any chatbot question requires unknown information (salary expectation, notice period, relocation, work authorization, etc.), stop and request user input.
+## Behavior
 
-- If the application redirects to or requires applying on the company's own website instead of completing the application on Naukri, skip that job and continue to the next eligible one.
+- Verify the job title, company, and active apply state before filling anything.
+- If the job has already been applied to, is expired, or cannot be completed
+  through Naukri, mark it skipped and return control to the orchestrator.
+- If Naukri redirects to a company website and the assignment does not allow
+  external application sites, skip the job and report the external apply URL if
+  visible.
+- If the assignment allows external sites, follow the external apply link and
+  continue under the normal applier rules.
 
-- If the job has already been applied to, is expired, or cannot be completed through Naukri, mark it as skipped and continue.
+## Recruiter Chatbot
 
-- Never fabricate answers to recruiter questions. Unknown answers must follow the normal stop rules.
+- If a recruiter chatbot appears in the sidebar or application flow, open it and
+  read one question at a time.
+- Answer only with known facts from loaded knowledge files or the current user
+  request.
+- Stop for unknown salary expectation, notice period, relocation, work
+  authorization, legal, demographic, or subjective answers.
+- Never fabricate answers to chatbot questions.
+
+## Completion
+
+Return the normal applier report with the Naukri-specific skip or blocker reason
+when applicable.

@@ -3,7 +3,7 @@ from langchain_core.messages import AIMessage, HumanMessage, RemoveMessage, Syst
 
 
 class ConversationSummaryMiddleware(AgentMiddleware):
-    def __init__(self, model, keep_last: int = 6, max_tool_chars: int = 1000):
+    def __init__(self, model, keep_last: int = 2, max_tool_chars: int = 1000):
         self.model = model
         self.keep_last = keep_last
         self.max_tool_chars = max_tool_chars
