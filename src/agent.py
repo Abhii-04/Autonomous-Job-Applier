@@ -2,6 +2,7 @@ from src.tools.bash import bash
 from src.tools.mcp import get_mcp_tools
 
 from src.middleware.localcontext import ConversationSummaryMiddleware
+from src.middleware.logger import RequestsLoggerMiddleware
 from langchain.agents.middleware import ContextEditingMiddleware, ClearToolUsesEdit
 
 import os 
@@ -49,6 +50,7 @@ def orchestrator(orchestrator_tool: Sequence[BaseTool],applier_tools: Sequence[B
         skills = [SKILLS_DIR],
         middleware=[
             # ConversationSummaryMiddleware(model=llm, keep_last=8),
+            RequestsLoggerMiddleware(),
             RepetativeToolCall(),
             ContextEditingMiddleware(
             edits=[

@@ -1,8 +1,7 @@
 ---
-
 name: orchestrator
 description: Coordinate job application workflows, navigate to the application form, and delegate form completion to the applier.
----------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Orchestrator
 
