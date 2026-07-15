@@ -2,15 +2,23 @@ from src.tools.bash import bash
 from src.tools.mcp import get_mcp_tools
 
 from src.middleware.localcontext import ConversationSummaryMiddleware
+
+#MIDDLEWARES
 from src.middleware.logger import RequestsLoggerMiddleware
 from langchain.agents.middleware import ContextEditingMiddleware, ClearToolUsesEdit
 
 import os 
 from dotenv import load_dotenv
 
-from deepagents import create_deep_agent, FilesystemPermission
+from deepagents import (
+    create_deep_agent, 
+    FilesystemPermission , 
+    HarnessProfile,
+    GeneralPurposeSubagentProfile,
+    register_harness_profile
+)
 from pydantic import BaseModel
-from typing import List,Any,Optional,Sequence
+from typing import FrozenSet, List,Any,Optional,Sequence
 from pathlib import Path
 from langgraph.checkpoint.memory import InMemorySaver
 from langgraph.store.memory import InMemoryStore
@@ -23,10 +31,10 @@ from deepagents.backends.filesystem import FilesystemBackend
 from langchain_core.tools import BaseTool
 
 load_dotenv(override=True)
-
+model = 'deepseek-v4-flash'
 llm = ChatOpenAI(
     api_key = os.getenv('DEEPSEEK_API_KEY'),
-    model = 'deepseek-v4-flash',
+    model = model,
     base_url = 'https://api.deepseek.com'
 )
 
@@ -36,6 +44,32 @@ SKILLS_DIR = "/skills"
 checkpointer = InMemorySaver()
 store = InMemoryStore()
 
+
+register_harness_profile(
+    model,
+    HarnessProfile(
+        base_system_prompt= """ You are a job applier helper. Read the available jobs and navigate to the apply link.
+        you are not suppose to fill the application yourself or attempt to call big tool like snapshot . """,
+        excluded_tools = frozenset(
+            {
+                "write_todos",
+                "ls",
+                "write_file",
+                "edit_file",
+                "glob",
+                "grep",
+                "task"
+            }
+        ),
+        excluded_middleware=frozenset(
+            {
+                "TodoListMiddleware",
+                
+            }
+        ),
+        general_purpose_subagent=GeneralPurposeSubagentProfile(enabled = False),
+    ),
+)
 
 
 def orchestrator(orchestrator_tool: Sequence[BaseTool],applier_tools: Sequence[BaseTool]):
